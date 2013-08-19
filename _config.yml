@@ -1,35 +1,203 @@
-name: Professor Jekyll Teaches You to Blog Like a Hacker
+name: The SILShack class blog - Fall 2013
 pygments: true
 
-url: http://silshack.github.io/professorjekyll/
+url: http://silshack.github.io/fall2013/
 
 course:
-  title: Intro to Hacking
-  number: Jekyll 101
-  instructor: Prof. Jekyll
+  title: Programming for Information Professionals
+  number: INLS 560
+  instructor: Elliott Hauser
   
 authors:
-  einstein:
-      name: Albert Einstein
+  elliott:
+      name: Elliott Hauser
       prof: true
-      gravatar: 
-      website: http://www.relativity.com
-      github: 
-      twitter:
-      about:  Albert Einstein discovered that E=mc^2.  
-  wittgenstein:
-      name: Ludwig Wittgenstein
-      prof: true
+      gravatar: 0d0d432948d262195358f339768f1240
+      website: http://www.elliotthauser.com
+      github: eah13
+      twitter: hauspoor
+      about:  Elliott Hauser is a PhD Student in information science at UNC Chapel Hill.  He's hacking education as one of the cofounders of Coursefork.org.  
+  mbaxter:
+      name: Michelle Baxter
+      prof: false
       gravatar:
-      website: http://www.tractatus.com
+      website: 
       github:
       twitter:
-      about:  Ludwig Wittgenstein discovered that the meaning of E=mc^2 is its use.  
-  jdoe:
-      name: John Doe
+      about:  
+  abrown:
+      name: Ashley Brown
       prof: false
-      about: John Doe gets very strange test emails all the time.
-  squw:
-      name: Suzie Q
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  sburnham:
+      name: Sarah Burnham
       prof: false
-      about: Suzie Q once dated John Fogerty.
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  ecarter:
+      name: Erin Carter
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  odorsey:
+      name: Olivia Dorsey
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  jgeer:
+      name: James Geer
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  mgillen:
+      name: Mary Gillen
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  lgrindheim:
+      name: Landon Grindheim
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  aharding:
+      name: Alexander Harold
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  lho:
+      name: Leslie Ho
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  eholmes:
+      name: Erin Holmes
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  ckenrick:
+      name: Christopher Kenrick
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  smantooth:
+      name: Stacey Mantooth
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  gmclendon:
+      name: Grant McLendon
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  vneisler:
+      name: Virginia Neisler
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  dpcolar:
+      name: David Pcolar
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  epeele:
+      name: Elizabeth Peele
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  jpowell:
+      name: Jaleesa Powell
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  jpulliza:
+      name: Jonathan Pulliza
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  kshaffer:
+      name: Kyle Shaffer
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  atickner:
+      name: Amanda Tickner
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  jwingler:
+      name: Jessica Wingler
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
+  zyu:
+      name: Zekun Yu
+      prof: false
+      gravatar:
+      website: 
+      github:
+      twitter:
+      about:  
