@@ -10,4 +10,4 @@ author: elliott
 
 This course is an introduction to Programming as a skill, a discipline, and a profession for graduate students.  We’ll dive into hands-on programming from day one and progress to evaluating, using, and contributing to open source libraries and frameworks.  We’ll focus equally on reading and writing code.  Students will leave the course with real skills, an ability to learn new programming technologies, and an understanding of how to incorporate open source code into their projects.  It will serve as an appropriate foundation for students seeking a career in programming and indispensable background for any information professional needing to evaluate, communicate with, or work with programmers or code.
 
-For more information, head over to the [Syllabus]({{site.url}}syllabus.html).  Or, find yout name on the [People]({{ site.url }}people.html) page.
+For more information, head over to the [Syllabus]({{site.url}}syllabus.html).  Or, find your name on the [People]({{ site.url }}people.html) page.
