@@ -11,7 +11,8 @@ title: "People"
   
   {% if thisauthor.prof == true %}
 #### {{ thisauthor.name }}
-{{ thisauthor.about }}  Find {{ thisauthor.name }} on <a href="http://twitter.com/{{thisauthor.twitter}}">Twitter</a>, <a href="http://github.com/{{thisauthor.github}}"Github</a>, and <a href="{{thisauthor.website}}">on the web</a>.
+
+{{ thisauthor.about }}  Find {{ thisauthor.name }} on <a href="http://twitter.com/{{thisauthor.twitter}}">Twitter</a>, <a href="http://github.com/{{thisauthor.github}}">Github</a>, and <a href="{{thisauthor.website}}">on the web</a>.
 
 <ul class="posts">
     {% for p in site.posts do %}
@@ -36,14 +37,15 @@ I want to know more about you!  Later in class we'll enter in all of your inform
   
   {% if thisauthor.prof != true %}
 #### {{ thisauthor.name }}
-{{ thisauthor.about }}  Find {{ thisauthor.name }} on <a href="http://twitter.com/{{thisauthor.twitter}}">Twitter</a>, <a href="http://github.com/{{thisauthor.github}}"Github</a>, and <a href="{{thisauthor.website}}">on the web</a>.
+
+{{ thisauthor.about }}  Find {{ thisauthor.name }} on <a href="http://twitter.com/{{thisauthor.twitter}}">Twitter</a>, <a href="http://github.com/{{thisauthor.github}}">Github</a>, and <a href="{{thisauthor.website}}">on the web</a>.
+
     {% for p in site.posts do %}
       {% if p.author == adata %}
 * [{{ p.title }}]({{ site.url }}{{p.url}})
       {% endif %}
     {% endfor %}
   {% endif %}
-<br/>
 {% endfor %}
 
 
