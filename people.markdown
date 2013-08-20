@@ -25,6 +25,9 @@ title: "People"
 {% endfor %}
 
 ### {{ site.course.title }} Participants
+
+I want to know more about you!  Later in class we'll enter in all of your information like mine is.  For now, please fill out this [Questionaire](https://docs.google.com/forms/d/17ARiUX0_7klnWME0vbFzeK9SyskuvB4Lgj3VZDdBTu0/viewform).
+
 {% for a in site.authors do %}
   {% assign adata = a[0] %}
   {% assign thisauthor = site.authors[adata] %}
