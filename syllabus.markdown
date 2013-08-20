@@ -7,13 +7,6 @@ title: "Syllabus"
 ### {{ site.course.number }}: {{ site.course.title }}
 Instructor: {{ site.course.instructor }}
 
-# Syllabus
-
-INLS 560
-
-Fall 2013
-
-Instructor: Elliott Hauser
 
 ### Official Course Description
 
