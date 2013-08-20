@@ -26,6 +26,8 @@ title: "People"
 
 ### {{ site.course.title }} Participants
 
+You should see your name in the list below.  If you don't, [email me](mailto:eah13@live.unc.edu) or open an [Issue](https://github.com/silshack/fall2013/issues) on Github.
+
 I want to know more about you!  Later in class we'll enter in all of your information like mine is.  For now, please fill out this [Questionaire](https://docs.google.com/forms/d/17ARiUX0_7klnWME0vbFzeK9SyskuvB4Lgj3VZDdBTu0/viewform).
 
 {% for a in site.authors do %}
