@@ -35,9 +35,11 @@ Wednesday Aug 21st Readings:
 
 1. None (first day of class)
 
-In-Class Exercise: Binary Text Encoding and Basic Regular Expressions.
+In-Class: Get set up on Google Plus
 
-In-Class Exercise: Visual Modification of Simple Games
+In-Class: Get set up on Github
+
+In-Class Exercise: Modify the class blog
 
 ## Week 2: Editing Text: Our class blog
 
