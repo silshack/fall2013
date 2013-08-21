@@ -157,9 +157,13 @@ Simple data: Strings, numbers, and conditionals
 
 Monday Sept 16th: Read about strings and numbers
 
+1. Paul Graham: [Hackers and Painters](http://paulgraham.com/hp.html)  A counterpoint to what we'll be doing in class.  Instead of pseudocode, Graham advocates writing real code first.  Read at least the first half.
+
 * In class: Pseudocode solutions to string problems from Codingbat.com
 
 Wednesday Sept 18th: Read about conditionals
+
+1. Paul Graham: [Hackers and Painters](http://paulgraham.com/hp.html)  Finish.
 
 * In Class: Pseudocode solutions to conditionals from Codingbat.com
 
