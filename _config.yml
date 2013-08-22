@@ -1,7 +1,8 @@
 name: The SILShack class blog - Fall 2013
 pygments: true
 
-url: http://silshack.github.io/fall2013/
+baseurl: /fall2013
+url: 
 
 course:
   title: Programming for Information Professionals
