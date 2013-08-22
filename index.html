@@ -6,7 +6,7 @@ title: "Coursehacker's Class Blog"
 <div id="home">
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a> by {{site.authors[post.author].name}}</li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{site.authors[post.author].name}}</li>
     {% endfor %}
   </ul>
 </div>
