@@ -21,6 +21,8 @@ We’ll have a series of programming professionals come in and discuss their exp
 
 * Alan Dipert, (Currently) Freelance Programmer
 
+* Jeff Heard, Senior Researcher, RENCI
+
 ### Week 1: Digging into Source Code
 
 Key Questions
@@ -258,6 +260,8 @@ Monday Oct 21st: Your first open source contribution
 * Reading: Skim [PyPI ](http://docs.python.org/3/distutils/packageindex.html)for how to package programs so others can install them
 
 * Reading: [testpypi test server details](http://wiki.python.org/moin/TestPyPI)
+
+* Guest speaker: Alan Dipert, talking about fearlessness in tech
 
 * In-class: Open an issue or fork and fix one.  Aim small.
 
