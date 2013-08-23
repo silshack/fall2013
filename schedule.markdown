@@ -267,6 +267,14 @@ Monday Oct 21st: Your first open source contribution
 
 Wednesday Oct 23rd: Other languages and technology: Ruby, Java, HTML, CSS, Javascript
 
+* Reading: Paul Graham - [Succintness is Power](http://www.paulgraham.com/power.html)
+
+* Reading: Guido van Rossum - [Python's Design Philosophy](http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html)
+
+* Reading: Interview with Yukihiro Matsumoto - [Ruby's Design Philosophy](http://www.artima.com/intv/ruby4.html)
+
+* Reading: Interview with Bjarne Stroustrup - [Elegance and other Design Ideals](http://www.artima.com/intv/elegance.html).  Stroustrup invented C++ in the 70s and 80s.
+
 * In-class: Brainstorm 3 project ideas & lightning talks
 
 ### Week 11: Networked Computing
