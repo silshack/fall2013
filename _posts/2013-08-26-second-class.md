@@ -33,6 +33,7 @@ The answers to all of these questions will be 'yes' at the end of the semester.
 
 ## In-Class: Get set up on Google Plus
 I think most of you are set up and have commented on the intro post.  Perfect.
+* Quesiton I got RE social participation.  Concentric circles in wider and wider communities.
 
 ## In-Class: Get set up on Github
 You all should have a Github user name.  
@@ -46,6 +47,7 @@ You all should have a Github user name.
 
 ## In-Class Exercise: Open your first issue
 
+* Example: Virginia had to drop the course
 * Example: Jaleesa's typo on the attendance section
 * Everyone open an issue "____'s first issue"
 * Tag it to the first issue milestone
