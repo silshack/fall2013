@@ -209,9 +209,13 @@ Monday Sept 30th
 
 1. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html)
 
+2. Skim over some intro docs for popular Python Web Frameworks: [Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/1.4-branch/narr/firstapp.html), [Flask](http://flask.pocoo.org/docs/quickstart/), and [Django](https://docs.djangoproject.com/en/dev/intro/tutorial01/).  Django is the most in-depth of these, and the most robust.
+
 * In-Class: Review some common python libraries.  Focus on documentation, initial testing, beginning use
 
 Wednesday Oct 2nd
+
+1. Looking for post ideas?  Check out the [Useful Modules](http://wiki.python.org/moin/UsefulModules) list on the Python wiki.  See if you can get a sense of how well used or maintained the modules are.
 
 * In-Class exercise: Learn sane naming and commenting by fixing an insane program
 
