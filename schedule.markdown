@@ -217,6 +217,8 @@ Wednesday Oct 2nd
 
 1. Looking for post ideas?  Check out the [Useful Modules](http://wiki.python.org/moin/UsefulModules) list on the Python wiki.  See if you can get a sense of how well used or maintained the modules are.
 
+2. There are lots of blog posts out there [like this one](http://doda.co/7-python-libraries-you-should-know-about) where authors talk about favorite modules/libraries/frameworks.  Find some and share!
+
 * In-Class exercise: Learn sane naming and commenting by fixing an insane program
 
 * Post: Exciting libraries or frameworks you might want to use 
