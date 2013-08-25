@@ -1,7 +1,7 @@
 ---
 layout: post
 author: elliott
-published: false
+published: true
 ---
 
 [ Holdovers from last time ]
@@ -37,16 +37,17 @@ I think most of you are set up and have commented on the intro post.  Perfect.
 
 ## In-Class: Get set up on Github
 You all should have a Github user name.  
+* Basic parts of Github: profile, organization, repo, issues, pull requests, milestones.
+* Michelle's question in-line
 
 ## Mini-Lecture How the course blog is constructed.
-
 * `_config.yml`: Where sitewide variables live
 * `_posts/`: Where posts live
 * `_layouts/`: HTML for Jekyll to instert our content into
 * `*.markdown`: Pages for the site
 
 ## In-Class Exercise: Open your first issue
-
+* Exercise as Milestone
 * Example: Virginia had to drop the course
 * Example: Jaleesa's typo on the attendance section
 * Everyone open an issue "____'s first issue"
