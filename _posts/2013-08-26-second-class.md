@@ -4,7 +4,7 @@ author: elliott
 published: true
 ---
 
-[ Holdovers from last time ]
+Holdovers from last time:
 ## Student Backgrounds
 
 Finish bios/intros
@@ -69,9 +69,9 @@ You all should have a Github user name.
 * Make an issue "______'s first post"
 * Fork the repo
 * Make a sanely titled branch like `firstpost`
-* Make the file _posts/YYYY-MM-DD-title.md
+* Make the file `_posts/YYYY-MM-DD-title.md`
 * Describe your changes in a commit
-* add a YAML header (with your _config name as `author`)
+* add a YAML header (with your `_config` name as `author`)
 * Write a post, using some features of Github Flavored Markdown
 * Open a pull request from your new branch to the silshack master branch
 * Pair up, review the code, and comment when it's ready to go.
