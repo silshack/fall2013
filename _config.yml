@@ -1,5 +1,6 @@
 name: The SILShack class blog - Fall 2013
 pygments: true
+markdown: redcarpet
 
 baseurl: /fall2013
 url: 
@@ -21,27 +22,27 @@ authors:
   mbaxter:
       name: Michelle Baxter
       prof: false
-      gravatar:
-      website: 
-      github:
-      twitter:
-      about:  
+      gravatar:a3e29e2e2b46aa5e21cf3e56fccdf2b0
+      website: http://www.facebook.com/mbbaxter
+      github: EmBeeBee
+      twitter: MichelleBBaxter
+      about:  Grad student, pop culture enthusiast.
   abrown:
       name: Ashley Brown
       prof: false
       gravatar:
       website: 
-      github:
-      twitter:
-      about:  
+      github: ashmbrown
+      twitter: 
+      about: I am a dual Master's student studying Library Science and Public Administration.  
   sburnham:
-      name: Sarah Burnham
+      name: Sarah Breen
       prof: false
       gravatar:
       website: 
-      github:
+      github: sbbreen
       twitter:
-      about:  
+      about: Sarah is a first year MSIS student. Originally from Ohio, she has spent the last five years in Asia working in archives and as a project manager for several small organizations. Reach her on email at sburnham5@gmail.com. 
   ecarter:
       name: Erin Carter
       prof: false
@@ -71,17 +72,17 @@ authors:
       prof: false
       gravatar:
       website: 
-      github:
+      github: gillenme
       twitter:
-      about:  
+      about:  Mary is a second year MSIS student focusing on information retrieval. Her interests include big data, data analytics and marketing.
   lgrindheim:
       name: Landon Grindheim
       prof: false
       gravatar:
       website: 
-      github:
-      twitter:
-      about:  
+      github: landongrindheim
+      twitter: landongrindheim
+      about: Landon is an MSIS student at UNC Chapel Hill. He grew up in North Dakota, but has lived in Idaho, Montana and North Carolina as well as in the Middle East. His brain operates primarily in the humanities.
   aharding:
       name: Alexander Harold
       prof: false
@@ -95,9 +96,9 @@ authors:
       prof: false
       gravatar:
       website: 
-      github:
+      github: leslieho
       twitter:
-      about:  
+      about: Leslie is a BSIS and Anthropology double major.  She really likes puppies.
   eholmes:
       name: Erin Holmes
       prof: false
@@ -125,11 +126,11 @@ authors:
   gmclendon:
       name: Grant McLendon
       prof: false
-      gravatar:
-      website: 
-      github:
-      twitter:
-      about:  
+      gravatar: eeb73c80c4450528bf5eac5f1dedae9e
+      website: http://gerbal.org
+      github: gerbal
+      twitter: gerbal100
+      about:  Grant's a first year MSIS student.  
   vneisler:
       name: Virginia Neisler
       prof: false
@@ -142,26 +143,26 @@ authors:
       name: David Pcolar
       prof: false
       gravatar:
-      website: 
-      github:
-      twitter:
-      about:  
+      website: http://library.unc.edu
+      github: pcolar
+      twitter: pcolar
+      about:  Dave is an IT professional with the University Library. My focus is infrastructure related project management and research on scalable storage environments. 
   epeele:
       name: Elizabeth Peele
       prof: false
       gravatar:
       website: 
-      github:
-      twitter:
-      about:  
+      github: eipeele
+      twitter: eipeele
+      about:  Elizabeth Peele is a first year MSIS at the University of North Carolina Chapel Hill.  
   jpowell:
       name: Jaleesa Powell
       prof: false
-      gravatar:
-      website: 
-      github:
-      twitter:
-      about:  
+      gravatar: 189c604692e488809bcf2770b70cc491
+      website: http://jaleesapowell.net
+      github: dieschwarzekobra
+      twitter: JaleesaPowell
+      about: Jaleesa is a second-year MSIS student at the University of North Carolina at Chapel Hill. Jaleesa is a Web Intern at the UNC General Alumni Association and the Digitization Intern at Campbell University.
   jpulliza:
       name: Jonathan Pulliza
       prof: false
@@ -175,9 +176,9 @@ authors:
       prof: false
       gravatar:
       website: 
-      github:
+      github: kylerthecreator
       twitter:
-      about:  
+      about: First year MSIS student, novice Githubber, avid coffee drinker.  
   atickner:
       name: Amanda Tickner
       prof: false
@@ -186,14 +187,14 @@ authors:
       github:
       twitter:
       about:  
-  jwingler:
-      name: Jessica Wingler
+  danielle:
+      name: Danielle Wingler
       prof: false
       gravatar:
       website: 
       github:
       twitter:
-      about:  
+      about:  I am a BSIS student. I am looking forward to learning more about programming. I am still exploring career paths within the information science field.
   zyu:
       name: Zekun Yu
       prof: false
