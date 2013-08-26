@@ -143,10 +143,10 @@ authors:
       name: David Pcolar
       prof: false
       gravatar:
-      website: 
-      github:
-      twitter:
-      about:  
+      website: http://library.unc.edu
+      github: pcolar
+      twitter: pcolar
+      about:  Dave is an IT professional with the University Library. My focus is infrastructure related project management and research on scalable storage environments. 
   epeele:
       name: Elizabeth Peele
       prof: false
