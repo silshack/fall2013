@@ -22,7 +22,7 @@ authors:
   mbaxter:
       name: Michelle Baxter
       prof: false
-      gravatar:a3e29e2e2b46aa5e21cf3e56fccdf2b0
+      gravatar: a3e29e2e2b46aa5e21cf3e56fccdf2b0
       website: http://www.facebook.com/mbbaxter
       github: EmBeeBee
       twitter: MichelleBBaxter
@@ -131,14 +131,6 @@ authors:
       github: gerbal
       twitter: gerbal100
       about:  Grant's a first year MSIS student.  
-  vneisler:
-      name: Virginia Neisler
-      prof: false
-      gravatar:
-      website: 
-      github:
-      twitter:
-      about:  
   dpcolar:
       name: David Pcolar
       prof: false
