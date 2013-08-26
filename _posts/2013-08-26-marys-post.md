@@ -4,5 +4,5 @@ author: mgillen
 categories: posts
 ---
 
-#Spock:
 >Fascinating!
+- *Spock*
