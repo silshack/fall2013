@@ -1,5 +1,6 @@
 name: The SILShack class blog - Fall 2013
 pygments: true
+markdown: redcarpet
 
 baseurl: /fall2013
 url: 
