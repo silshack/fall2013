@@ -1,6 +1,6 @@
 ---
 layout: post
-user: jgeer
+author: jgeer
 categories: posts
 ---
 
