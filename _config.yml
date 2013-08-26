@@ -125,11 +125,11 @@ authors:
   gmclendon:
       name: Grant McLendon
       prof: false
-      gravatar:
-      website: 
-      github:
-      twitter:
-      about:  
+      gravatar: eeb73c80c4450528bf5eac5f1dedae9e
+      website: http://gerbal.org
+      github: gerbal
+      twitter: gerbal100
+      about:  Grant's a first year MSIS student.  
   vneisler:
       name: Virginia Neisler
       prof: false
