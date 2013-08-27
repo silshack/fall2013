@@ -11,12 +11,12 @@ Wednesday Aug 28th Readings:
 
 2. Software Carpentry: [Computational Thinking](http://software-carpentry.org/4_0/softeng/principles.html) - This is intended as a wrap-up essay but I often find it useful to ‘start at the end’.  Use the essay to orient yourself to concepts that we’ll be learning.
 
-[ ] In-Class Exercise: Write a simple post with syntax highlighting.
+- [ ] In-Class Exercise: Write a simple post with syntax highlighting.
 
-[x] In-Class Exercise: Open your first pull request
+- [x] In-Class Exercise: Open your first pull request
 
-[x] In-Class Exercise: Close your first pull request
+- [x] In-Class Exercise: Close your first pull request
 
-[ ] In-Class: Pair up with your merging partner.
+- [ ] In-Class: Pair up with your merging partner.
 
-[ ] In-Class: Set up VirtualBox Ubuntu. Extra credit for helping peers install outside of class. This is due by the end of the week.  Post to our Google community if you're having trouble setting it up and someone will help you out.
+- [ ] In-Class: Set up VirtualBox Ubuntu. Extra credit for helping peers install outside of class. This is due by the end of the week.  Post to our Google community if you're having trouble setting it up and someone will help you out.
