@@ -13,6 +13,23 @@ Wednesday Aug 28th Readings:
 
 - [ ] In-Class Exercise: Write a simple post with syntax highlighting.
 
+### Mini lecture: Github roundup
+- A pull request is a wrapper around branch diffs
+- "Fixes #134" is the magic phrase that closes issues
+- Look for examples!
+- We'll have more control over the flow from the command line
+- Milestones = assignments
+- One issue per assignment, please.  Multiple PRs OK, just keep track of them.
+- post ideas
+
+
+### Left over from last time: How Jekyll works
+- `_config.yml`: Where sitewide variables live
+- `_posts/`: Where posts live
+- `_layouts/`: HTML for Jekyll to instert our content into
+- `*.markdown`: Pages for the site
+
+
 - [x] In-Class Exercise: Open your first pull request
 
 - [x] In-Class Exercise: Close your first pull request
