@@ -1,4 +1,5 @@
 ---
+title: Disqus Comments!
 layout: post
 author: elliott
 categories: post
