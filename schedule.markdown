@@ -21,6 +21,8 @@ We’ll have a series of programming professionals come in and discuss their exp
 
 * Alan Dipert, (Currently) Freelance Programmer
 
+* Jeff Heard, Senior Researcher, RENCI
+
 ### Week 1: Digging into Source Code
 
 Key Questions
@@ -207,9 +209,13 @@ Monday Sept 30th
 
 1. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html)
 
+2. Skim over some intro docs for popular Python Web Frameworks: [Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/1.4-branch/narr/firstapp.html), [Flask](http://flask.pocoo.org/docs/quickstart/), and [Django](https://docs.djangoproject.com/en/dev/intro/tutorial01/).  Django is the most in-depth of these, and the most robust.
+
 * In-Class: Review some common python libraries.  Focus on documentation, initial testing, beginning use
 
 Wednesday Oct 2nd
+
+1. Looking for post ideas?  Check out the [Useful Modules](http://wiki.python.org/moin/UsefulModules) list on the Python wiki.  See if you can get a sense of how well used or maintained the modules are.
 
 * In-Class exercise: Learn sane naming and commenting by fixing an insane program
 
@@ -259,9 +265,19 @@ Monday Oct 21st: Your first open source contribution
 
 * Reading: [testpypi test server details](http://wiki.python.org/moin/TestPyPI)
 
+* Guest speaker: Alan Dipert, talking about fearlessness in tech
+
 * In-class: Open an issue or fork and fix one.  Aim small.
 
 Wednesday Oct 23rd: Other languages and technology: Ruby, Java, HTML, CSS, Javascript
+
+* Reading: Paul Graham - [Succintness is Power](http://www.paulgraham.com/power.html)
+
+* Reading: Guido van Rossum - [Python's Design Philosophy](http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html)
+
+* Reading: Interview with Yukihiro Matsumoto - [Ruby's Design Philosophy](http://www.artima.com/intv/ruby4.html)
+
+* Reading: Interview with Bjarne Stroustrup - [Elegance and other Design Ideals](http://www.artima.com/intv/elegance.html).  Stroustrup invented C++ in the 70s and 80s.
 
 * In-class: Brainstorm 3 project ideas & lightning talks
 
