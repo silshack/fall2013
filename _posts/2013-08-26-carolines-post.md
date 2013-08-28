@@ -1,6 +1,6 @@
 ---
-layout:post
-author:carolinp
+layout: post
+author: carolinp
 categories: post 
 ---
 - [ ] here
