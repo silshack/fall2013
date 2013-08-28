@@ -1,9 +1,10 @@
 ---
++title: Example of Syntax Highlighting.
 layout: post
 author: epeele
 categories: post 
 ---
-title: Example of Syntax Highlighting.
+
 
 Here is a code example taken from Ruby's website:
 
