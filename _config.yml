@@ -123,12 +123,12 @@ authors:
       website: 
       github: allhailaugustus
       twitter: allhailaugustus
-      about:  
-      Llamas graze steep slopes,
-      all lulled, sun-warmed and drowsy,
-      wind ruffling coats.
-      
-      Stacey likes short poems and Peruvian quadrupeds.
+      about: |
+        Llamas graze steep slopes,
+        all lulled, sun-warmed and drowsy,
+        wind ruffling coats.
+        
+        Stacey likes short poems and Peruvian quadrupeds.
   gmclendon:
       name: Grant McLendon
       prof: false
