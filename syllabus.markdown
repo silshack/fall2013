@@ -104,7 +104,7 @@ Honor Code which is described in University publications.  For this course in pa
 
 ### Attendance & Attention
 
-Students should attend every class and give it their undivided attention.  Use of non-coding websites or social features is prohibited.  There will be many opportunities for interaction, but during class time
+Students should attend every class and give it their undivided attention.  Use of non-coding websites or social features is prohibited.  There will be many opportunities for interaction, but during class time please pay attention.
 
 ### Late Work
 
