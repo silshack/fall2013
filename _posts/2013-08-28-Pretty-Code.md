@@ -6,7 +6,7 @@ category: posts
 
 Here's some lovely code!
 
-<<<.media-title .bg01, .media-title .bg02, .media-title .bg03 {
+~~~.media-title .bg01, .media-title .bg02, .media-title .bg03 {
     background-attachment: scroll;
     background-clip: border-box;
     background-color: transparent;
@@ -98,4 +98,4 @@ Here's some lovely code!
 }
 .videoActions .downloadVideo {
     width: 50px;
-}>>>
+}~~~
