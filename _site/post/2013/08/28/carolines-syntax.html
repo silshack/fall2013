@@ -42,30 +42,30 @@ by Caroline Pate
 <p class="meta">28 Aug 2013</p>
 
 <div class="post">
-<div class="highlight"><pre><code class="javascript language-javascript" data-lang="javascript"><span class="nx">$</span><span class="p">(</span><span class="nb">document</span><span class="p">).</span><span class="nx">ready</span><span class="p">(</span><span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
+<div class="highlight"><pre><code class="javascript language-javascript" data-lang="javascript">$(document).ready(function() {
 
-            <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;dl&#39;</span><span class="p">).</span><span class="nx">toggle</span><span class="p">();</span>
-            <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;h2&#39;</span><span class="p">).</span><span class="nx">bind</span><span class="p">(</span><span class="s1">&#39;click&#39;</span><span class="p">,</span> <span class="kd">function</span><span class="p">(</span><span class="nx">event</span><span class="p">)</span> <span class="p">{</span>
-                <span class="nx">event</span><span class="p">.</span><span class="nx">preventDefault</span><span class="p">();</span>
-                <span class="nx">$</span><span class="p">(</span><span class="k">this</span><span class="p">).</span><span class="nx">next</span><span class="p">(</span><span class="s1">&#39;dl&#39;</span><span class="p">).</span><span class="nx">slideToggle</span><span class="p">(</span><span class="mi">500</span><span class="p">,</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-                    <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;.video-bg-controls&#39;</span><span class="p">).</span><span class="nx">videobackground</span><span class="p">(</span><span class="s1">&#39;resize&#39;</span><span class="p">);</span>
-                <span class="p">});</span>
-            <span class="p">});</span>
-            <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;body&#39;</span><span class="p">).</span><span class="nx">prepend</span><span class="p">(</span><span class="s1">&#39;&lt;div class=&quot;video-background hide-on-phones hide-on-tablets&quot;&gt;&lt;/div&gt;&#39;</span><span class="p">);</span>
-            <span class="nx">$</span><span class="p">(</span><span class="s1">&#39;.video-background&#39;</span><span class="p">).</span><span class="nx">videobackground</span><span class="p">({</span>
-                <span class="nx">videoSource</span><span class="o">:</span> <span class="p">[</span><span class="s1">&#39;http://livinggalapagos.org/media/uploads/background-video/h264/cover.m4v&#39;</span><span class="p">,</span>
-                    <span class="s1">&#39;http://livinggalapagos.org/media/uploads/background-video/ogg/cover.ogg&#39;</span><span class="p">],</span> 
-                <span class="nx">controlPosition</span><span class="o">:</span> <span class="s1">&#39;.video-background&#39;</span><span class="p">,</span>
-                <span class="nx">poster</span><span class="o">:</span> <span class="s1">&#39;http://livinggalapagos.org/media/uploads/background-video/jpg/cover.jpg&#39;</span><span class="p">,</span>
-                <span class="nx">loop</span><span class="o">:</span> <span class="s1">&#39;true&#39;</span><span class="p">,</span>  
-                <span class="nx">resize</span><span class="o">:</span> <span class="s1">&#39;true&#39;</span><span class="p">,</span>
-                <span class="nx">loadedCallback</span><span class="o">:</span> <span class="kd">function</span><span class="p">()</span> <span class="p">{</span>
-                    <span class="nx">$</span><span class="p">(</span><span class="k">this</span><span class="p">).</span><span class="nx">videobackground</span><span class="p">(</span><span class="s1">&#39;mute&#39;</span><span class="p">,</span> <span class="p">{</span><span class="nx">controlPosition</span><span class="o">:</span> <span class="s1">&#39;.video-background&#39;</span><span class="p">});</span>
-                <span class="p">}</span>
-            <span class="p">});</span>
+            $(&#39;dl&#39;).toggle();
+            $(&#39;h2&#39;).bind(&#39;click&#39;, function(event) {
+                event.preventDefault();
+                $(this).next(&#39;dl&#39;).slideToggle(500, function() {
+                    $(&#39;.video-bg-controls&#39;).videobackground(&#39;resize&#39;);
+                });
+            });
+            $(&#39;body&#39;).prepend(&#39;&lt;div class=&quot;video-background hide-on-phones hide-on-tablets&quot;&gt;&lt;/div&gt;&#39;);
+            $(&#39;.video-background&#39;).videobackground({
+                videoSource: [&#39;http://livinggalapagos.org/media/uploads/background-video/h264/cover.m4v&#39;,
+                    &#39;http://livinggalapagos.org/media/uploads/background-video/ogg/cover.ogg&#39;], 
+                controlPosition: &#39;.video-background&#39;,
+                poster: &#39;http://livinggalapagos.org/media/uploads/background-video/jpg/cover.jpg&#39;,
+                loop: &#39;true&#39;,  
+                resize: &#39;true&#39;,
+                loadedCallback: function() {
+                    $(this).videobackground(&#39;mute&#39;, {controlPosition: &#39;.video-background&#39;});
+                }
+            });
 
-            <span class="nx">buildMenu</span><span class="p">()</span>
-        <span class="p">});</span>
+            buildMenu()
+        });
 </code></pre></div>
 </div>
 
