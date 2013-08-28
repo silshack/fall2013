@@ -10,5 +10,7 @@ Today I learned all about alternate realities. It seemed like a scary thought at
 
 
 ```javascript
+<script type="text/javascript">
 document.write("Hello World!");
+</script>
 ```
