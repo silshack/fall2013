@@ -1,3 +1,5 @@
+'''
+
 ---
 layout: post
 title:  "Giving it My Best Shot"
@@ -5,7 +7,7 @@ date:   2013-08-28
 categories: Post
 author: abrown
 ---
-'''
+
 ## Here's Some Code!
 
 def cross(A, B):
