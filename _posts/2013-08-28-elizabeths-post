@@ -1,0 +1,17 @@
+---
+layout: post
+author: epeele
+categories: post 
+---
+title: How to Syntax Highlight
+
+Here is a code example taken from GitHub's website on how to do syntax highlighting:
+
+```<p>We take code blocks a step further and add syntax highlighting if you request it. In your fenced block, add an optional language identifier and we'll run it through syntax highlighting. For example, to syntax highlight Ruby code:</p>
+
+<pre><code>```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+</code></pre>```
