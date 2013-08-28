@@ -11,8 +11,7 @@ title: Some code from Erin C.
 
 <p id="demo"></p>
 
-'''javascript
-<script>
+```javascript
 function myFunction()
 {
 var x="";
@@ -27,4 +26,4 @@ else
   }
 document.getElementById("demo").innerHTML=x;
 }
-</script>'''
+```
