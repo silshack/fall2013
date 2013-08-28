@@ -1,5 +1,5 @@
 Here is some simple **Python** code:
 
-'''python
+```python
 print("Hello, World!")
-,,,
+```
