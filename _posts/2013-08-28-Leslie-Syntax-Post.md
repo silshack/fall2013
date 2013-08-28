@@ -6,7 +6,7 @@ categories: post
 
 Hey guys, so just looking at some Python code and this was something that Java has, if-else statements, so here's some Python code for that:
 
-```Python
+```python
 if i < 20:
     print "That is less than 20."
     if i % 3 == 0:
