@@ -1,4 +1,7 @@
 ---
+layout: post
 author: mbaxter
-layout: posts
+categories: post
 ---
+
+
