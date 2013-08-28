@@ -55,10 +55,11 @@ authors:
       name: Olivia Dorsey
       prof: false
       gravatar:
-      website: 
-      github:
+      website: http://franklinmemories.com
+      github: odorsey
       twitter:
-      about:  
+      about: Olivia is a senior BSIS student who is interested in web design/development and the digital humanities. Her hometown is Clayton, NC.
+
   jgeer:
       name: James Geer
       prof: false
@@ -112,17 +113,22 @@ authors:
       prof: false
       gravatar:
       website: 
-      github:
-      twitter:
+      github: 
+      twitter: 
       about:  
   smantooth:
       name: Stacey Mantooth
       prof: false
-      gravatar:
+      gravatar: d3277996b61f2805d4b971b62961bd4a
       website: 
-      github:
-      twitter:
-      about:  
+      github: allhailaugustus
+      twitter: allhailaugustus
+      about: |
+        Llamas graze steep slopes,
+        all lulled, sun-warmed and drowsy,
+        wind ruffling coats.
+        
+        Stacey likes short poems and Peruvian quadrupeds.
   gmclendon:
       name: Grant McLendon
       prof: false
@@ -179,6 +185,14 @@ authors:
       github: kylerthecreator
       twitter:
       about: First year MSIS student, novice Githubber, avid coffee drinker.  
+  asherman:
+      name: Amber Sherman
+      prof: false
+      gravatar:
+      website:
+      github: ans729
+      twitter:
+      about: Amber is a 2nd year MLS student hoping to find a big girl job with a digital library or archive.  
   atickner:
       name: Amanda Tickner
       prof: false
@@ -195,11 +209,11 @@ authors:
       github:
       twitter:
       about:  I am a BSIS student. I am looking forward to learning more about programming. I am still exploring career paths within the information science field.
-  zyu:
+  zekuny:
       name: Zekun Yu
       prof: false
-      gravatar:
+      gravatar: iyuzekun
       website: 
-      github:
+      github: zekuny
       twitter:
-      about:  
+      about: Yu is a first year MSIS student. He likes programming and wants to learn more from class.
