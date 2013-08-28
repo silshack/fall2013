@@ -20,8 +20,9 @@ between your computer and GitHub). It lives on the GitHub server,
 which makes it easier to pull back into the original repository/webpage code after you make edits to the code.
 
 This is different from making **branches** in a workflow. Branches are changes you make within a repository, so
-in my understanding a branch is similar to an entry in a workflow log. So, Branch 1 is one change/set of changes you've
-within a repository, Branch 2 is yet another change you've made, etc.
+in my understanding a branch is similar to an entry in a workflow log. For example, Branch 1 is one change/set of changes you've
+within a repository, Branch 2 is yet another change you've made, etc. You then create a pull request to have *your* repository
+merged with the *original* repository, which would apply the changes you made to the original.
 <br></br>
 ##My Original Question##
 My main reason for asking why it was called 
