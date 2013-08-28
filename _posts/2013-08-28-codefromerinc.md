@@ -1,15 +1,10 @@
 ---
 layout: post
-author: erincarter
+author: ecarter
 title: Some code from Erin C.
 ---
 
 
-<p>Click the button to get a time-based greeting.</p>
-
-<button onclick="myFunction()">Try it</button>
-
-<p id="demo"></p>
 
 ```javascript
 function myFunction()
