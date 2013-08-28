@@ -1,7 +1,7 @@
 ---
 layout: post
 author: mgillen
-categories: posts
+categories: post
 ---
 
 **Arthur Conan Doyle, _The Case-Book of Sherlock Holmes_**
