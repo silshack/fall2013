@@ -125,6 +125,12 @@ Key Questions:
 
 * Why do data structures matter to programmers?
 
+```
+ "Programs must be written for people to read, and only incidentally for machines to execute."
+ 
+ - Abelson & Sussman, SICP, preface to the first edition
+```
+
 Monday Sept 9th Readings: Reading Code
 
 1. Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html) -  There will be lots in here that may not make sense to you.  Practice your skimming/vocab learning skills.
