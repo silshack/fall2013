@@ -16,6 +16,7 @@ There are two sets of extras and extensions to install, one provided by VirtualB
  	*  Go to ['Devices>Install Guest Additions'](http://i.imgur.com/qOezy1M.png) in your running VirtualBox menu instance will launch an installer 
 	*  If an installer fails to launch or doesn't run to completion the following will install the additions manually
 		* in the terminal (ctrl+alt+t)  
+
 ```bash  
 cd /media/$USER  
 cd VBOX {pres tab to complete}  
@@ -24,6 +25,7 @@ sudo ./VBoxLinuxAdditions.run
 		* restart your VirtualBox
 * Installing the Ubuntu VirtualBox Guest additions:
 	* in the terminal (ctril+alt+t)  
+
 ```bash  
 sudo apt-get install virtualbox-guest-utils virtualbox-guest-x11    
 ```    
