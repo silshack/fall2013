@@ -32,7 +32,9 @@ sudo apt-get install virtualbox-guest-utils virtualbox-guest-x11
 
 ##Setting up a Jekyll instance  
 Ubuntu has an outdated version of Jekyll in its repositories, don't install it. It has a whole host of issues and fails to build most jekyll pages.  
-Instead we are going to install Ruby and the Jekyll gem   
+Instead we are going to install jekyll through ruby, this works better.   
+
+In the terminal (ctrl+alt+t):
 ```bash
 sudo apt-get install ruby1.9.1 ruby1.9.1-dev make build-essential  
 export PATH=$PATH:/var/lib/gems/1.9.1  
