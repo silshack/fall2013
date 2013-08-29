@@ -28,7 +28,7 @@ sudo ./VBoxLinuxAdditions.run
 	* in the terminal (ctrl+alt+t)  
 
 ```bash  
-sudo apt-get install virtualbox-guest-utils virtualbox-guest-x11    
+sudo apt-get install virtualbox-guest-utils  
 ```    
 
 
