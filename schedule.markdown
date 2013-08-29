@@ -137,6 +137,8 @@ Monday Sept 9th Readings: Reading Code
 
 * Homework: Vocab show & tell
 
+* Guest Observer: Jaime Arguello
+
 * In-Class Exercise: Explain a program with comments and documentation
 
 * In-Class Exercise: Complete a program that has only comments
