@@ -21,7 +21,7 @@ There are two sets of extras and extensions to install, one provided by VirtualB
 cd /media/$USER  
 cd VBOX {pres tab to complete}  
 sudo ./VBoxLinuxAdditions.run  
-```  
+```
 
 		* restart your VirtualBox
 * Installing the Ubuntu VirtualBox Guest additions:
@@ -32,7 +32,7 @@ sudo apt-get install virtualbox-guest-utils virtualbox-guest-x11
 ```    
 
 
-##Setting up a Jekyll instance  (curtosey of [Michael Chelen](http://michaelchelen.net/articles/install-jekyll-ubuntu-12-10.html))
+##Setting up a Jekyll instance  (courtesy of [Michael Chelen](http://michaelchelen.net/articles/install-jekyll-ubuntu-12-10.html))
 Ubuntu has an outdated version of Jekyll in its repositories, don't install it. It has a whole host of issues and fails to build most jekyll pages.  
 Instead we are going to install jekyll through ruby, this works better.
 
@@ -42,7 +42,7 @@ sudo apt-get install ruby1.9.1 ruby1.9.1-dev make build-essential
 sudo gem install jekyll  
 ```  
 
-If when you try to run Jekyll you are told it's not installed you will need to add Ruby Gems to your $PATH (places linux looks for system wide-commands)  
+If when you try to run Jekyll you are told 'Command not found' you will need to add Ruby Gems to your $PATH (places linux looks for system wide-commands)  
 	In the terminal:
 ```bash
 export PATH=$PATH:/var/lib/gems/1.9.1/bin
