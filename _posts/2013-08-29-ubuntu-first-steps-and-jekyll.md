@@ -2,10 +2,10 @@
 layout: post
 author: gmclendon
 categories: howto
-title: How to get Jekyll running locally on Ubuntu (and other things to do after setting up VirtualBox)
+title: Post install Ubuntu tips & Jekyll setup 
 ---
 
-Disclaimer: this worked for me, I hope it works for you. I've only tested it in a limited fashion on a local VM, but that's it. Please comment if you have issues or fixes. I'm also a terrible technical writer, so feel free to tell me what I messed up.
+Disclaimer: this worked for me, I hope it works for you. I've only tested it in a limited fashion. Please comment if you have issues or fixes. I'm also a terrible technical writer, so feel free to tell me what I messed up.
 
 ##Virtual Box Extras  
 So, you have Ubuntu installed on your brand new VirtualBox and are trying to figure out what to do next.  
@@ -26,18 +26,21 @@ sudo ./VBoxLinuxAdditions.run
 	* in the terminal (ctril+alt+t)  
 ```bash  
 sudo apt-get install virtualbox-guest-utils virtualbox-guest-x11    
-```  
+```    
 
 
-##Setting up a Jekyll instance  
+##Setting up a Jekyll instance  (curtosey of [Michael Chelen](http://michaelchelen.net/articles/install-jekyll-ubuntu-12-10.html))
 Ubuntu has an outdated version of Jekyll in its repositories, don't install it. It has a whole host of issues and fails to build most jekyll pages.  
-Instead we are going to install jekyll through ruby, this works better.   
+Instead we are going to install jekyll through ruby, this works better.
 
 In the terminal (ctrl+alt+t):
 ```bash
 sudo apt-get install ruby1.9.1 ruby1.9.1-dev make build-essential  
-export PATH=$PATH:/var/lib/gems/1.9.1  
 sudo gem install jekyll  
 ```  
 
-Now you have jekyll setup, To make it realy useful we need git working too, but that I still don't quite understand.
+If when you try to run Jekyll you are told it's not installed you will need to add Ruby to your $PATH (places linux looks for system wide-commands)  
+	In the terminal:
+```bash
+export PATH=$PATH:/var/lib/gems/1.9.1/bin
+```
