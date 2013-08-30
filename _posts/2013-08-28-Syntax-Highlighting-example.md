@@ -4,7 +4,7 @@ author: danielle
 categories: post
 ---
 
-Here is some example code of Ruby: (It was found [here].(https://www.ruby-lang.org/en/))
+Here is some example code of Ruby: (It was found [here](https://www.ruby-lang.org/en/))
 
 ```Ruby
 # Ruby knows what you
