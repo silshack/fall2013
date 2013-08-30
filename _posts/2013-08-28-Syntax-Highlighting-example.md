@@ -6,7 +6,7 @@ categories: post
 
 Here is some example code of Ruby: (It was found [here](https://www.ruby-lang.org/en/))
 
-```Ruby
+```ruby
 # Ruby knows what you
 # mean, even if you
 # want to do math on

@@ -44,23 +44,23 @@ by Caroline Pate
 <div class="post">
 <div class="highlight"><pre><code class="javascript language-javascript" data-lang="javascript">$(document).ready(function() {
 
-            $(&#39;dl&#39;).toggle();
-            $(&#39;h2&#39;).bind(&#39;click&#39;, function(event) {
+            $('dl').toggle();
+            $('h2').bind('click', function(event) {
                 event.preventDefault();
-                $(this).next(&#39;dl&#39;).slideToggle(500, function() {
-                    $(&#39;.video-bg-controls&#39;).videobackground(&#39;resize&#39;);
+                $(this).next('dl').slideToggle(500, function() {
+                    $('.video-bg-controls').videobackground('resize');
                 });
             });
-            $(&#39;body&#39;).prepend(&#39;&lt;div class=&quot;video-background hide-on-phones hide-on-tablets&quot;&gt;&lt;/div&gt;&#39;);
-            $(&#39;.video-background&#39;).videobackground({
-                videoSource: [&#39;http://livinggalapagos.org/media/uploads/background-video/h264/cover.m4v&#39;,
-                    &#39;http://livinggalapagos.org/media/uploads/background-video/ogg/cover.ogg&#39;], 
-                controlPosition: &#39;.video-background&#39;,
-                poster: &#39;http://livinggalapagos.org/media/uploads/background-video/jpg/cover.jpg&#39;,
-                loop: &#39;true&#39;,  
-                resize: &#39;true&#39;,
+            $('body').prepend('&lt;div class=&quot;video-background hide-on-phones hide-on-tablets&quot;&gt;&lt;/div&gt;');
+            $('.video-background').videobackground({
+                videoSource: ['http://livinggalapagos.org/media/uploads/background-video/h264/cover.m4v',
+                    'http://livinggalapagos.org/media/uploads/background-video/ogg/cover.ogg'], 
+                controlPosition: '.video-background',
+                poster: 'http://livinggalapagos.org/media/uploads/background-video/jpg/cover.jpg',
+                loop: 'true',  
+                resize: 'true',
                 loadedCallback: function() {
-                    $(this).videobackground(&#39;mute&#39;, {controlPosition: &#39;.video-background&#39;});
+                    $(this).videobackground('mute', {controlPosition: '.video-background'});
                 }
             });
 
