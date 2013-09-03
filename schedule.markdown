@@ -133,7 +133,7 @@ Key Questions:
 
 Monday Sept 9th Readings: Reading Code
 
-1. Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html) -  There will be lots in here that may not make sense to you.  Practice your skimming/vocab learning skills.
+1. Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style) -  There will be lots in here that may not make sense to you.  Practice your skimming/vocab learning skills.
 
 * Homework: Vocab show & tell
 
