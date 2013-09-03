@@ -1,7 +1,7 @@
 ---
 title: Example for the Sept. 4th Class
 layout: post
-author: pcolar
+author: dpcolar
 categories: post code
 ---
 
@@ -9,7 +9,9 @@ To add to the discussion for Wednesday's class, I wrote a few example lines of C
 It is interesting to see where the compiler generated the same machine code for different instructions.
 
 C code
+
 ```
+
 #include <stdio.h>
 main () {
 	int number;	/* Declare an integer variable */
@@ -29,12 +31,15 @@ main () {
 		number = atoi(c_one);
 	}
 }
+
 ```
+
 Assember output via: <br>
 	gcc -S -o example.s example.c <br>
 	as -aljnd example.s > example.txt
 	
 ```
+
 	.file	"example.c"
 	.section	.rodata
 .LC0:
