@@ -1,6 +1,6 @@
 ---
 layout: post
-author: eholmes
+author: erholmes
 categories: post
 ---
 
