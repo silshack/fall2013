@@ -125,11 +125,21 @@ Key Questions:
 
 * Why do data structures matter to programmers?
 
+```
+ "Programs must be written for people to read, and only incidentally for machines to execute."
+ 
+ - Abelson & Sussman, SICP, preface to the first edition
+```
+
 Monday Sept 9th Readings: Reading Code
 
-1. Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html) -  There will be lots in here that may not make sense to you.  Practice your skimming/vocab learning skills.
+1. Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style) -  There will be lots in here that may not make sense to you.  Practice your skimming/vocab learning skills.
+
+2. ThinkPython Ch. 2: [Variables, expressions, and statements](http://www.greenteapress.com/thinkpython/html/thinkpython003.html)
 
 * Homework: Vocab show & tell
+
+* Guest Observer: Jaime Arguello
 
 * In-Class Exercise: Explain a program with comments and documentation
 
@@ -161,11 +171,15 @@ Monday Sept 16th: Read about strings and numbers
 
 1. Paul Graham: [Hackers and Painters](http://paulgraham.com/hp.html)  A counterpoint to what we'll be doing in class.  Instead of pseudocode, Graham advocates writing real code first.  Read at least the first half.
 
+2. Review ThinkPython Ch. 2: [Variables, expressions, and statements](http://www.greenteapress.com/thinkpython/html/thinkpython003.html)
+
 * In class: Pseudocode solutions to string problems from Codingbat.com
 
 Wednesday Sept 18th: Read about conditionals
 
 1. Paul Graham: [Hackers and Painters](http://paulgraham.com/hp.html)  Finish.
+
+2. ThinkPython Ch. 5: [Conditionals and Recursion](http://www.greenteapress.com/thinkpython/html/thinkpython006.html)
 
 * In Class: Pseudocode solutions to conditionals from Codingbat.com
 
@@ -194,6 +208,8 @@ Monday Sept 23rd: Read up on lists and dicts
 Wednesday Sept 23rd: Read up on loops
 
 1. PythonTutor: Flow of Control Visualization
+
+2. Review ThinkPython Ch. 5: [Conditionals and Recursion](http://www.greenteapress.com/thinkpython/html/thinkpython006.html)
 
 * In class: Looping over lists.  Codingbat.com
 
