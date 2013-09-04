@@ -42,20 +42,20 @@ by Stacey Mantooth
 <p class="meta">28 Aug 2013</p>
 
 <div class="post">
-<div class="highlight"><pre><code class="perl language-perl" data-lang="perl">$count = 0;
-while (&lt;stdin&gt;) {
-    @w = split;
-    $count++;
-    for ($i=0; $i&lt;=$#w; $i++) {
-    $s[$i] += $w[$i];
-    }
-}
+<div class="highlight"><pre><code class="perl language-perl" data-lang="perl"><span class="nv">$count</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+<span class="k">while</span> <span class="p">(</span><span class="sr">&lt;stdin&gt;</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nv">@w</span> <span class="o">=</span> <span class="nb">split</span><span class="p">;</span>
+    <span class="nv">$count</span><span class="o">++</span><span class="p">;</span>
+    <span class="k">for</span> <span class="p">(</span><span class="nv">$i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="nv">$i</span><span class="o">&lt;=</span><span class="nv">$#w</span><span class="p">;</span> <span class="nv">$i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="nv">$s</span><span class="p">[</span><span class="nv">$i</span><span class="p">]</span> <span class="o">+=</span> <span class="nv">$w</span><span class="p">[</span><span class="nv">$i</span><span class="p">];</span>
+    <span class="p">}</span>
+<span class="p">}</span>
 
-for ($i=0; $i&lt;=$#w; $i++) {
-    print $s[$i]/$count, &quot;\t&quot;;
-}
+<span class="k">for</span> <span class="p">(</span><span class="nv">$i</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span> <span class="nv">$i</span><span class="o">&lt;=</span><span class="nv">$#w</span><span class="p">;</span> <span class="nv">$i</span><span class="o">++</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">print</span> <span class="nv">$s</span><span class="p">[</span><span class="nv">$i</span><span class="p">]</span><span class="o">/</span><span class="nv">$count</span><span class="p">,</span> <span class="s">&quot;\t&quot;</span><span class="p">;</span>
+<span class="p">}</span>
 
-print &quot;\n&quot;;
+<span class="k">print</span> <span class="s">&quot;\n&quot;</span><span class="p">;</span>
 </code></pre></div>
 </div>
 
