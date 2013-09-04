@@ -84,14 +84,14 @@ authors:
       github: landongrindheim
       twitter: landongrindheim
       about: Landon is an MSIS student at UNC Chapel Hill. He grew up in North Dakota, but has lived in Idaho, Montana and North Carolina as well as in the Middle East. His brain operates primarily in the humanities.
-  aharding:
-      name: Alexander Harold
+  alexharding:
+      name: Alexander Harding
       prof: false
       gravatar:
       website: 
-      github:
+      github: alexharding
       twitter:
-      about:  
+      about: Alex is a second year MSIS student at SILS and the bottom of the totem pole in the UNC Libraries IT Systems department. He looks forward to working with everyone in this class! 
   lho:
       name: Leslie Ho
       prof: false
@@ -113,9 +113,9 @@ authors:
       prof: false
       gravatar:
       website: 
-      github: 
-      twitter: 
-      about:  
+      github: IAMATinyCoder
+      twitter: ChrisKenrick
+      about: Christopher is a dual-degree student studying Information Science and Public Administration.  
   smantooth:
       name: Stacey Mantooth
       prof: false
