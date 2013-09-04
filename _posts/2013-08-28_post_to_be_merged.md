@@ -11,10 +11,9 @@ categories: post
 
 I think, *hope* I am starting to understand some of the logic here.
 
-+clam
-+crab
-+cockle
----------
-+cowrie
+* clam
+* crab
+* cockle
+* cowrie
 
 
