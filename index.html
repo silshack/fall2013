@@ -6,7 +6,13 @@ title: "Coursehacker's Class Blog"
 <div id="home">
   <ul class="posts">
     {% for post in site.posts %}
+      {% if {{site.authors[post.author].prof}} == true %}
+        <strong>
+      {% endif %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{site.authors[post.author].name}}</li>
+      {% if {{site.authors[post.author].prof}} == true %}
+        </strong>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>
