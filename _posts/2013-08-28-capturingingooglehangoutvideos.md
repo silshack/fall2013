@@ -1,17 +1,19 @@
 ---
+
 layout: post
 author: sburnham
 categories: post
+
 ---
 
 ##Take photos in a video call
 
 This is taken from the [Google help pages](https://support.google.com/plus/answer/3004555?hl=en).
 
-*Hangouts Capture lets you capture your favorite moments so you can save them or share them with others. The app lets you snap photos in your video call and the photos taken are shared with the other people invited to the video call via a post in the stream and a private photo collection.
+Hangouts Capture lets you capture your favorite moments so you can save them or share them with others. The app lets you snap photos in your video call and the photos taken are shared with the other people invited to the video call via a post in the stream and a private photo collection.
 
-*You can use Hangouts Capture with some of the other apps, including Google Effects.
-  * *I assume you can also use this feature paired with the screen sharing feature as well.*
+You can use Hangouts Capture with some of the other apps, including Google Effects.
+ *I assume you can also use this feature paired with the screen sharing feature as well.*
 
 ######Take photos
 
