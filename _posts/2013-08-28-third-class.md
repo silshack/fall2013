@@ -35,6 +35,6 @@ Wednesday Aug 28th Readings:
 
 - [x] In-Class Exercise: Close your first pull request
 
-- [ ] In-Class: Pair up with your merging partner.
+- [x] In-Class: Pair up with your merging partner.
 
 - [ ] In-Class: Set up VirtualBox Ubuntu. Extra credit for helping peers install outside of class. This is due by the end of the week.  Post to our Google community if you're having trouble setting it up and someone will help you out.
