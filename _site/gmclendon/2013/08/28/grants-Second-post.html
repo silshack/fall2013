@@ -43,26 +43,26 @@ by Grant McLendon
 
 <div class="post">
 <p>Here&#39;s some python from <a href="https://github.com/twilio/twilio-python">this project</a> just to show off syntax highlighting.</p>
-<div class="highlight"><pre><code class="python language-python" data-lang="python">class ApplicationsTest(unittest.TestCase):
-    def setUp(self):
-        self.parent = Mock()
-        self.resource = Applications(&quot;http://api.twilio.com&quot;, (&quot;user&quot;, &quot;pass&quot;))
+<div class="highlight"><pre><code class="python language-python" data-lang="python"><span class="k">class</span> <span class="nc">ApplicationsTest</span><span class="p">(</span><span class="n">unittest</span><span class="o">.</span><span class="n">TestCase</span><span class="p">):</span>
+    <span class="k">def</span> <span class="nf">setUp</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">parent</span> <span class="o">=</span> <span class="n">Mock</span><span class="p">()</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span> <span class="o">=</span> <span class="n">Applications</span><span class="p">(</span><span class="s">&quot;http://api.twilio.com&quot;</span><span class="p">,</span> <span class="p">(</span><span class="s">&quot;user&quot;</span><span class="p">,</span> <span class="s">&quot;pass&quot;</span><span class="p">))</span>
 
-    def test_create_appliation_sms_url_method(self):
-        self.resource.create_instance = Mock()
-        self.resource.create(sms_method=&quot;hey&quot;)
-        self.resource.create_instance.assert_called_with({&quot;sms_method&quot;: &quot;hey&quot;})
+    <span class="k">def</span> <span class="nf">test_create_appliation_sms_url_method</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span><span class="o">.</span><span class="n">create_instance</span> <span class="o">=</span> <span class="n">Mock</span><span class="p">()</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span><span class="o">.</span><span class="n">create</span><span class="p">(</span><span class="n">sms_method</span><span class="o">=</span><span class="s">&quot;hey&quot;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span><span class="o">.</span><span class="n">create_instance</span><span class="o">.</span><span class="n">assert_called_with</span><span class="p">({</span><span class="s">&quot;sms_method&quot;</span><span class="p">:</span> <span class="s">&quot;hey&quot;</span><span class="p">})</span>
 
-    def test_create_appliation_sms_url(self):
-        self.resource.create_instance = Mock()
-        self.resource.create(sms_url=&quot;hey&quot;)
-        self.resource.create_instance.assert_called_with({&quot;sms_url&quot;: &quot;hey&quot;})
+    <span class="k">def</span> <span class="nf">test_create_appliation_sms_url</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span><span class="o">.</span><span class="n">create_instance</span> <span class="o">=</span> <span class="n">Mock</span><span class="p">()</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span><span class="o">.</span><span class="n">create</span><span class="p">(</span><span class="n">sms_url</span><span class="o">=</span><span class="s">&quot;hey&quot;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span><span class="o">.</span><span class="n">create_instance</span><span class="o">.</span><span class="n">assert_called_with</span><span class="p">({</span><span class="s">&quot;sms_url&quot;</span><span class="p">:</span> <span class="s">&quot;hey&quot;</span><span class="p">})</span>
 
-    def test_update_appliation_sms_url_method(self):
-        self.resource.update_instance = Mock()
-        self.resource.update(&quot;123&quot;, sms_method=&quot;hey&quot;)
-        self.resource.update_instance.assert_called_with(
-            &quot;123&quot;, {&quot;sms_method&quot;: &quot;hey&quot;})
+    <span class="k">def</span> <span class="nf">test_update_appliation_sms_url_method</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span><span class="o">.</span><span class="n">update_instance</span> <span class="o">=</span> <span class="n">Mock</span><span class="p">()</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span><span class="o">.</span><span class="n">update</span><span class="p">(</span><span class="s">&quot;123&quot;</span><span class="p">,</span> <span class="n">sms_method</span><span class="o">=</span><span class="s">&quot;hey&quot;</span><span class="p">)</span>
+        <span class="bp">self</span><span class="o">.</span><span class="n">resource</span><span class="o">.</span><span class="n">update_instance</span><span class="o">.</span><span class="n">assert_called_with</span><span class="p">(</span>
+            <span class="s">&quot;123&quot;</span><span class="p">,</span> <span class="p">{</span><span class="s">&quot;sms_method&quot;</span><span class="p">:</span> <span class="s">&quot;hey&quot;</span><span class="p">})</span>
 </code></pre></div>
 <p>ain&#39;t it pretty.</p>
 
