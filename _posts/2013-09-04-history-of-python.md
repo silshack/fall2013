@@ -5,11 +5,18 @@ categories: post
 title: History of Python
 ---
 
-Any guesses as to when Python was invented? 2006? 1998? 1992? It may surprise you to learn that the first implementation of Python was 1989 and it was first published in 1991. [**Guido van Rossum**](http://www.python.org/~guido/) created it in the Netherlands while working for Stichting Mathematisch Centrum (CWI).
+When was Python invented?
+*A 1989
+*B 1995
+*C 2000
+*D 2006
+
+Any guesses as to when Python was invented? 2006? 1998? It may surprise you to learn that the first implementation of Python was 1989 and it was first published in 1991. [**Guido van Rossum**](http://www.python.org/~guido/) created it in the Netherlands while working for Stichting Mathematisch Centrum (CWI).
 
 
 
 
+[Version Release Dates](http://en.wikipedia.org/wiki/History_of_Python#Version_release_dates)
     Python 1.0 - January 1994
         Python 1.5 - December 31, 1997
         Python 1.6 - September 5, 2000
@@ -24,10 +31,9 @@ Any guesses as to when Python was invented? 2006? 1998? 1992? It may surprise yo
     Python 3.0 - December 3, 2008
         Python 3.1 - June 27, 2009
         Python 3.2 - February 20, 2011
-        Python 3.3 - September 29, 2012<sup>1</sup>
-<sup>1</sup>[Version Release Dates](http://en.wikipedia.org/wiki/History_of_Python#Version_release_dates)
-
-If this history makes you so excited that you want to go out and get PYTHON for your license plate, too bad - Van Rossum has it already! 
+        Python 3.3 - September 29, 2012
+        
+If this history makes you so excited that you want to go out and get PYTHON on your license plate, too bad - Van Rossum [has it already](http://www.python.org/~guido/images/license.jpg)! 
 
 Sources:
 [Python.org](python.org)
