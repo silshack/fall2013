@@ -2,38 +2,20 @@
 layout: post
 author: erholmes
 categories: post
-title: History of Python
+title: A Brief History of Python
 ---
 
 When was Python invented?
-*A 1989
-*B 1995
-*C 2000
-*D 2006
+*A 1976
+*B 1989
+*C 1998
+*D 2003
 
-Any guesses as to when Python was invented? 2006? 1998? It may surprise you to learn that the first implementation of Python was 1989 and it was first published in 1991. [**Guido van Rossum**](http://www.python.org/~guido/) created it in the Netherlands while working for Stichting Mathematisch Centrum (CWI).
+The correct answer is B, 1989. [**Guido van Rossum**](http://www.python.org/~guido/) created Python in the Netherlands while working for Stichting Mathematisch Centrum (CWI). Van Rossum had already helped to create [ABC](http://bit.ly/3Ib6na) earlier in his career. He saw some issues with ABC, but liked most of the features. So he decided to create a scripting language that used the syntax of ABC but fixed some of his complaints. With that idea and some free time in Decemmber of 1989, Van Rossum started writing Python. In 1991, the code was published to USENET and since then, there have been three major versions released.
 
-
-
-
-[Version Release Dates](http://en.wikipedia.org/wiki/History_of_Python#Version_release_dates)
-    Python 1.0 - January 1994
-        Python 1.5 - December 31, 1997
-        Python 1.6 - September 5, 2000
-    Python 2.0 - October 16, 2000
-        Python 2.1 - April 17, 2001
-        Python 2.2 - December 21, 2001
-        Python 2.3 - July 29, 2003
-        Python 2.4 - November 30, 2004
-        Python 2.5 - September 19, 2006
-        Python 2.6 - October 1, 2008
-        Python 2.7 - July 3, 2010 *version we will use in class*
-    Python 3.0 - December 3, 2008
-        Python 3.1 - June 27, 2009
-        Python 3.2 - February 20, 2011
-        Python 3.3 - September 29, 2012
+For class, we will be using Phython 2.7 which was released in 2010. 
         
-If this history makes you so excited that you want to go out and get PYTHON on your license plate, too bad - Van Rossum [has it already](http://www.python.org/~guido/images/license.jpg)! 
+I would recommend everyone reading Van Rossum's bio and resume when you get a few minutes. He sounds like a fascinating guy with very awesome ideas. Also, he's considered a Benevolent Dictator for Life within the Python community and I don't think you get much cooler than that!
 
 Sources:
 [Python.org](python.org)
