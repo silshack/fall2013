@@ -18,5 +18,5 @@ For class, we will be using Phython 2.7 which was released in 2010.
 I would recommend everyone reading Van Rossum's bio and resume when you get a few minutes. He sounds like a fascinating guy with very awesome ideas. Also, he's considered a Benevolent Dictator for Life within the Python community and I don't think you get much cooler than that!
 
 Sources:
-[Python.org](python.org)
+[Python.org](python.org) <br \>
 [History of Python](http://en.wikipedia.org/wiki/Python_%28programming_language%29#History)
