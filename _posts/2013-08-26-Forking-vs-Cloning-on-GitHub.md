@@ -2,7 +2,7 @@
 layout: post
 author: mbaxter
 categories: post
-published: false
+published: true
 ---
 #Forking vs. Cloning on GitHub - What's the difference?#
 First off, **forking** is a vocabulary term that is unique to GitHub.
