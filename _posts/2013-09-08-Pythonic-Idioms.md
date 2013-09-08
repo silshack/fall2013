@@ -1,8 +1,9 @@
 ---
 layout: post
 author: lgrindheim
-categories: pythons
+categories: pythonic idioms
 ---
 
-Sometimes python can be used as a reference to really big arms.
+###Sometimes python is used to refer to really big arms.
+
 ![24 inch pythons](http://www.i-mockery.com/minimocks/no-holds-barred/pastamania.jpg)
