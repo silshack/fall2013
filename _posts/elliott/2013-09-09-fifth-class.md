@@ -49,7 +49,7 @@ Once your turtle is drawing a box, try to read what's going on in the code above
 {% include program_commented.py %}
 ```
 
-Check out [the source code to turtle]({{ site.base-url }}/turtle.html).  Just skim it.  It's well-documented code that you don't have to understand (or even read) to make turtles do fun things.  That's a sign of a good library: easy and somewhat intuitive to use, with good documentation and instructions, and well formed, well commented code.  
+Check out [the source code to turtle]({{ site.baseurl }}/turtle.html).  Just skim it.  It's well-documented code that you don't have to understand (or even read) to make turtles do fun things.  That's a sign of a good library: easy and somewhat intuitive to use, with good documentation and instructions, and well formed, well commented code.  
 
 ### Many Paths to the Top of the Mountain
 There are literally infinite ways to make the computer do this exact thing.  Here's one:
