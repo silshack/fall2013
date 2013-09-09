@@ -5,7 +5,7 @@ author: erholmes
 categories: post
 ---
 
-For my first turtle, I made the Olympic rings. I'm hoping to avoid litigation from the IOC since I'm using it for my education. My code and screenshot are below.
+For my first turtle, I made the Olympic rings. I'm hoping to avoid litigation from the IOC since I'm using it for educational purposes. My code and a link to the screenshot are below.
 
 ```python
 #olympic rings
@@ -38,4 +38,7 @@ for color in ['yellow', 'green']:
 turtle.done()
 ```
 
-[Screenshot Here](http://www.unc.edu/~erholmes/olympic_rings.png)
+[Click Here for Screenshot](http://www.unc.edu/~erholmes/olympic_rings.png)
+
+Source: 
+Python Turtle Library Documentation: http://docs.python.org/2/library/turtle.html
