@@ -107,13 +107,14 @@ Wednesday Sept 4 Readings:
 
 3. Linux Info Project: [Machine code definition](http://www.linfo.org/machine_code.html)
 
+* Homework: Make sure you're making actual posts, roughly once a week
+
 * Homework: Vocab show & tell
 
-* In-Class Exercise: Hands on with Code
-
-* In-Class Exercise: Blog about the relationship between Assembly and Python
-
 * In-Class: VirtualBox check-in.  
+
+* In-Class Exercise: Hands on with Python Code in Ubuntu
+
 
 ### Week 4: Reading Code; Data in Programs
 
