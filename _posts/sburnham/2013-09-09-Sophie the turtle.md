@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Meet Sophie the turtle!"
