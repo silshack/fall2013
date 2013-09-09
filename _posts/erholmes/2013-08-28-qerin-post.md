@@ -1,7 +1,7 @@
 ---
 title: What I Learned Today
 layout: post
-author: eholmes
+author: erholmes
 categories: post
 ---
 
