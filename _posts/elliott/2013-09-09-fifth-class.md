@@ -11,6 +11,9 @@ Announcements
 * Problem reports:  You guys are going a great job in the community, reporting problems and helpping each other.  Bonus points for reporting problems that tripped you up but you solved, along with the solution. 
 * Post subdirectories: You can put your posts in a `_posts` subdirectory with your user name if you want.  Helps keep things more organized.  See `_posts/elliott` for an example.
 
+**Quesions?**
+
+
 ## Hands on
 We're diving in.  Don't worry about understanding in this first section- focus on getting things to work.
 
