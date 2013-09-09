@@ -10,9 +10,8 @@ Test text for this post.
 Here is an image of my turtle example:
 
 ![Turtle Example](https://dl.dropboxusercontent.com/u/4614624/SILS%20Hack%20Box.png)
-Format: ![Turtle Example](https://dl.dropboxusercontent.com/u/4614624/SILS%20Hack%20Box.png)
 
-I chose to change the color of the turtle and pen in increment of one using RGB. Here is the code:
+I chose to change the color of the turtle and pen in increments of one using RGB. Here is the code:
 
 ```python
 import turtle
