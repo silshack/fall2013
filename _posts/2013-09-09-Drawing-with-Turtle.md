@@ -6,6 +6,7 @@ category: posts
 Here is the code I used for my drawing using Python's Turtle:
 import turtle
 
+```python
 turtle.left(20)
 
 turtle.forward(50)
@@ -38,6 +39,7 @@ turtle.forward(50)
 turtle.left(90)
 turtle.forward(50)
 turtle.left(90)
+```
 
 I got this code from this website: http://opentechschool.github.io/python-beginners/en/simple_drawing.html
 
