@@ -46,6 +46,6 @@ turtle.done()
 
 I really wanted to make some actual turtles appear (they're so cute!), so I found some code to do so! You'll see that I have four colorful turtles coming out from the corner of their triangle. Here's a screenshot of the result:
 
-![Turtles screenshot](https://plus.google.com/?utm_source=bk&utm_medium=ha&utm_campaign=plusgeneralb2c&utm_term=%2Bgoogle%20%2Bplus&gclid=CNqU4pbavrkCFeRj7Aod4nkAiQ&partnerid=ussebr)
+![Turtles screenshot](https://www.dropbox.com/s/v86k77ckn3bwhzj/Capture.JPG)
 
-I found my code from the following web resource: here[Hello, little turtles!](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html). 
+I found my code from the following web resource: [Hello, little turtles!](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html)
