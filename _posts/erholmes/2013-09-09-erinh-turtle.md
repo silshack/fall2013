@@ -38,7 +38,7 @@ for color in ['yellow', 'green']:
 turtle.done()
 ```
 
-[Click Here for Screenshot](http://www.unc.edu/~erholmes/olympic_rings.png)
+![Olympic Rings Screenshot](http://www.unc.edu/~erholmes/olympic_rings.png)
 
 Source: 
 Python Turtle Library Documentation: http://docs.python.org/2/library/turtle.html
