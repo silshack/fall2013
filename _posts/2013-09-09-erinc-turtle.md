@@ -16,7 +16,7 @@ This is my turtle code. It made a funny shape. Here's a screenshot, as well.
 
 
 
-``` python
+```python
 
 import turtle
 
