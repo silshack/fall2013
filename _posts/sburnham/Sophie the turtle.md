@@ -1,4 +1,3 @@
-```python
 
 ---
 layout: post
@@ -15,6 +14,7 @@ The initial lines got me started, and after drawing a cicle, I felt it necessary
 ![Sophie the turtle](https://lh4.googleusercontent.com/-lTIlsTPXCk0/Ui4RJ2Y_LGI/AAAAAAAADFk/Pb-ivaqzT6A/w736-h552-no/sophie+the+turtle.jpg)]
 
 Code here: 
+```python
 
 import turtle
 
