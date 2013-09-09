@@ -1,12 +1,19 @@
 ---
+
 layout: post
 title: Erin C.'s turtle drawing: box & circles
 author: ecarter
+
 ---
+
+
 
 This is my turtle code. It made a funny shape. Here's a screenshot, as well.
 
+
 ![My strange Turtle drawing](http://i.imgur.com/E0KngfV.jpg)
+
+
 
 ``` python
 
