@@ -5,6 +5,7 @@ date: 2013-09-09 7:00am
 ---
 
 Announcements
+
 * Feedback: G+ not a great place to turn in assignments.  We'll start turning everything in via Github.  Add `draft= true` to your posts if you don't want them to show up under your name.
 * Extra Credit Experience: Seeking commiters.  Students who feel comfortable on Github and want commit access.  These people will help me categorize issues, manage milestones, etc.  We'll all eventually be core committers, but these are people who don't mind learning early.  [Email me](mailto:eah13@live.unc.edu).
 * Problem reports:  You guys are going a great job in the community, reporting problems and helpping each other.  Bonus points for reporting problems that tripped you up but you solved, along with the solution. 
@@ -64,6 +65,6 @@ There are many ways to make this turtle draw boxes, and many names to five him/h
 
 This is the fun part of the class.  Work alone or in groups to make an awesome turtle picture.  Create multiple turtles, perhaps.  Work on colors, or figure out how to get curved lines.  Google and the Web are your friends, but keep track of any sources you use.
 
-*By the end of class (or the day), create a new post with your turtle code, any sources you used, and a screenshot of your turtle drawing.  Bonus points for reflections, links to resources, or etc.  Heck, you could even post a few :)*
+**By the end of class (or the day), create a new post with your turtle code, any sources you used, and a screenshot of your turtle drawing.  Bonus points for reflections, links to resources, or etc.  Heck, you could even post a few :)**
 
 
