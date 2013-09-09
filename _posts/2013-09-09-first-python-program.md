@@ -48,3 +48,4 @@ I really wanted to make some actual turtles appear (they're so cute!), so I foun
 
 ![Turtles screenshot](https://plus.google.com/?utm_source=bk&utm_medium=ha&utm_campaign=plusgeneralb2c&utm_term=%2Bgoogle%20%2Bplus&gclid=CNqU4pbavrkCFeRj7Aod4nkAiQ&partnerid=ussebr)
 
+I found my code from the following web resource: here[Hello, little turtles!](http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html). 
