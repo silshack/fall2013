@@ -7,7 +7,10 @@ categories: post
 
 For this assignment, I expermented with sizes and fills of circles.  The code uses random numbers in a range to select the colors.
 <br>
+
 ```python
+# Concentric Circles of random colors
+
 import turtle
 from random import randint
 
@@ -27,6 +30,7 @@ for circle_size in range(135,15,-15):
     graphic.circle(circle_size)
 
 turtle.done()
+
 ```
 
 ![alternately filled concentric circles](https://docs.google.com/file/d/0B6VrsFbpq7RIcEwtWkpmRXVDYlU/edit?usp=sharing)
