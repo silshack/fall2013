@@ -43,4 +43,4 @@ turtle.left(90)
 
 I got this code from this website: http://opentechschool.github.io/python-beginners/en/simple_drawing.html
 
-Here's a link to what it looks like: https://lh4.googleusercontent.com/-A6Qk3UUxMUU/Ui3NY1SarTI/AAAAAAAAARE/G84KFQhb4PQ/w277-h211-no/Screen+Shot+2013-09-09+at+9.19.22+AM.png
+Here's what it looks like: ![angled boxes](https://lh4.googleusercontent.com/-A6Qk3UUxMUU/Ui3NY1SarTI/AAAAAAAAARE/G84KFQhb4PQ/w277-h211-no/Screen+Shot+2013-09-09+at+9.19.22+AM.png "Angled Boxes")
