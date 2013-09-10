@@ -39,7 +39,7 @@ for color in ['green']:
 turtle.done()
 ```
 
-[Turtle Screenshot](http://www.flickr.com/photos/101542990@N02/)
+![Turtle Screenshot](http://www.flickr.com/photos/101542990@N02/)
 
 Source: 
 Python Turtle Library Documentation: http://docs.python.org/2/library/turtle.html
