@@ -22,4 +22,4 @@ The more I messed with my drawings, the uglier they became. I took a step back a
 
 And here's what Turtle drew:
 
-![jim](http://www.unc.edu/~grindhei/inls560/newdrawing.pk.jpg)
+![jim](http://www.unc.edu/home/g/r/grindhei/public_html/inls560/newdrawing.pk.jpg)
