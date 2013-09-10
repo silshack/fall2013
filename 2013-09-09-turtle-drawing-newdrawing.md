@@ -6,7 +6,7 @@ categories: turtle
 
 The more I messed with my drawings, the uglier they became. I took a step back and tried to make one look a little nicer. Here's the code for Jim.
 
-import turtle
+    import turtle
 
     jim=turtle.Turtle()
 
