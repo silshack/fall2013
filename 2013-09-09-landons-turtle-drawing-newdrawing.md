@@ -21,4 +21,4 @@ The more I messed with my drawings, the uglier they became. I took a step back a
 
 
 And here's what Turtle drew:
-![jim](https://plus.google.com/u/0/photos/110811624909797200563/albums/posts/5921798785468515074?pid=5921798785468515074&oid=110811624909797200563)
+![jim](http://www.unc.edu/~grindhei/inls560/newdrawing.pk.jpg)
