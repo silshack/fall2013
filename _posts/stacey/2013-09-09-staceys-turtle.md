@@ -48,7 +48,7 @@ turtle.done()
 ```
 
 Screenshot:
-![This is where a pythonian turtle should be.  The horror!](http://imageshack.com/i/mvzgk1p)
+![This is where a pythonian turtle should be.  The horror!](http://imageshack.com/a/img823/946/zgk1.png)
 
 This turtle changes background color as it draws, which you can't really tell from the screen shot.
 
