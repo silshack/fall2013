@@ -44,4 +44,4 @@ write("Done!")
 time.sleep(10)
 ```
 
-![Image](http://ww4.sinaimg.cn/mw1024/a5997331jw1e88hno5o51j20mm0cejtb.jpg)
+![Image](http://ww2.sinaimg.cn/mw1024/a5997331gw1e8htzmhg4dj20b70d9wfe.jpg)
