@@ -1,0 +1,32 @@
+---
+layout: post
+author: kshaffer
+categories: post
+---
+
+After tinkering for a while (probably too long) I wound up with this interesting accident. Below is my Turtle code.
+```python
+import turtle
+
+edward = turtle.Turtle()
+
+edward.penup()
+edward.setpos(50, 150)
+edward.pendown()
+
+for color in ['blue', 'green', 'red']:
+  for radius in range(0, 100, 10):
+    edward.color(color)
+    edward.circle(radius)
+    edward.right(45)
+    edward.forward(100)
+    
+edward.penup()
+edward.setpos(0, 20)
+edward.pendown()
+edward.write('STOP!')
+
+turtle.done()
+```
+
+And ![here's](https://plus.google.com/u/0/photos/yourphotos?pid=5921791580227736642&oid=103253917544017383249) a picture of the result!
