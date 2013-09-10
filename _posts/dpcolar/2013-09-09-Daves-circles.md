@@ -33,4 +33,4 @@ turtle.done()
 
 ```
 
-![alternately filled concentric circles](https://docs.google.com/file/d/0B6VrsFbpq7RIcEwtWkpmRXVDYlU/edit?usp=sharing)
+![alternately filled concentric circles](https://docs.google.com/file/d/0B6VrsFbpq7RIcEwtWkpmRXVDYlU)
