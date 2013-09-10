@@ -1,6 +1,6 @@
 ---
 layout: post
-author:mbaxter
+author: mbaxter
 category: posts
 ---
 Here is the code I used for my drawing using Python's Turtle:
