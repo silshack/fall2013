@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Landons_post</title>
+        <title>Post install Ubuntu tips & Jekyll setup</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
@@ -33,27 +33,62 @@
 
                 
 
-<h2>Landons_post</h2>
+<h2>Post install Ubuntu tips & Jekyll setup</h2>
 
 <p>
-by Landon Grindheim
+by Grant McLendon
 </p> <!-- /.byline -->
 
-<p class="meta">26 Aug 2013</p>
+<p class="meta">05 Sep 2013</p>
 
 <div class="post">
-<p><em>This text will be italic</em>
-<em>This will also be italic</em></p>
+<p>Disclaimer: this worked for me, I hope it works for you. I&#39;ve only tested it in a limited fashion. Please comment if you have issues or fixes. I&#39;m also a terrible technical writer, so feel free to tell me what I messed up.</p>
 
-<p><strong>This text will be bold</strong>
-<strong>This will also be bold</strong></p>
+<h2>Virtual Box Extras</h2>
 
-<p><em>this</em></p>
+<p>So, you have Ubuntu installed on your brand new VirtualBox and are trying to figure out what to do next.<br>
+The very first thing to do is install VirtualBox Guest utilities that let you do fun things like scroll.</p>
+
+<p>There are two sets of extras and extensions to install, one provided by VirtualBox and another maintained by the community.<br>
+* Download <a href="http://download.virtualbox.org/virtualbox/4.2.16/Oracle_VM_VirtualBox_Extension_Pack-4.2.16-86992.vbox-extpack">VirtualBox Extension Pack</a> double click the file and VirtualBox will mount it as a CD.
+    *  Go to <a href="http://i.imgur.com/qOezy1M.png">&#39;Devices&gt;Install Guest Additions&#39;</a> in your running VirtualBox menu instance will launch an installer 
+    *  If an installer fails to launch or doesn&#39;t run to completion the following will install the additions manually
+        * in the terminal (ctrl+alt+t)  </p>
+<div class="highlight"><pre><code class="bash language-bash" data-lang="bash"><span class="nb">cd</span> /media/<span class="nv">$USER</span>  
+<span class="nb">cd </span>VBOX <span class="o">{</span>pres tab to <span class="nb">complete</span><span class="o">}</span>  
+sudo ./VBoxLinuxAdditions.run  
+</code></pre></div><div class="highlight"><pre><code class="text language-text" data-lang="text">    * restart your VirtualBox
+</code></pre></div>
+<ul>
+<li>Installing the Ubuntu VirtualBox Guest additions:
+
+<ul>
+<li>in the terminal (ctrl+alt+t)<br></li>
+</ul></li>
+</ul>
+<div class="highlight"><pre><code class="bash language-bash" data-lang="bash">sudo apt-get install virtualbox-guest-utils  
+</code></pre></div>
+<h2>Setting up a Jekyll instance  (courtesy of <a href="http://michaelchelen.net/articles/install-jekyll-ubuntu-12-10.html">Michael Chelen</a>)</h2>
+
+<p>Ubuntu has an outdated version of Jekyll in its repositories, don&#39;t install it. It has a whole host of issues and fails to build most jekyll pages.<br>
+Instead we are going to install jekyll through ruby, this works better.</p>
+
+<p>In the terminal (ctrl+alt+t):
+<code>bash
+sudo apt-get install ruby1.9.1 ruby1.9.1-dev make build-essential  
+sudo gem install jekyll  
+</code>  </p>
+
+<p>If when you try to run Jekyll you are told &#39;Command not found&#39; you will need to add Ruby Gems to your $PATH (places linux looks for system wide-commands)<br>
+    In the terminal:
+<code>bash
+export PATH=$PATH:/var/lib/gems/1.9.1/bin
+</code></p>
 
 </div>
 
 <div class="end">
-	Landon is an MSIS student at UNC Chapel Hill. He grew up in North Dakota, but has lived in Idaho, Montana and North Carolina as well as in the Middle East. His brain operates primarily in the humanities. Find Landon Grindheim on <a href="http://twitter.com/landongrindheim">Twitter</a>, <a href="http://github.com/landongrindheim">Github</a>, and <a href="">on the web</a>.
+	Grant's a first year MSIS student. Find Grant McLendon on <a href="http://twitter.com/gerbal100">Twitter</a>, <a href="http://github.com/gerbal">Github</a>, and <a href="http://gerbal.org">on the web</a>.
 </div>
 
 <div id="disqus_thread"></div>
