@@ -45,5 +45,5 @@ bri.setposition(95,10)
 bri.setposition(80,-14)
 ```
 
-Screenshot:
+
 <img src="http://i.imgur.com/acQQKK6.png">
