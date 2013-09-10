@@ -2,6 +2,7 @@
 layout: post
 author: dpcolar
 title: Dave's Concentric Circles
+categories: post
 ---
 
 For this assignment, I expermented with sizes and fills of circles.  The code uses random numbers in a range to select the colors.
