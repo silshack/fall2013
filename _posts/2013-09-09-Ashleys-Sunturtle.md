@@ -12,7 +12,7 @@ As you can see from the first screenshot, I made quite a few errors until I got 
 
 Here is the code:
 
-'''python
+```python
 import turtle
 
 turtle.color('green', 'yellow')
@@ -23,7 +23,7 @@ while True:
 turtle.end_fill()
 done()
 
-'''
+```
 
 I saved it in the nano window under sunturtle.py.  The code inspiration came from:
 [Bucknell University](http://www.eg.bucknell.edu/~hyde/Python3/TurtleDirections.html). 
