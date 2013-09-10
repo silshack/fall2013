@@ -6,6 +6,7 @@ categories: post
 ---
 
 Codes:
+
 ```python
 
 from turtle import *
