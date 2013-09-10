@@ -44,4 +44,4 @@ write("Done!")
 time.sleep(10)
 ```
 
-![Image](http://www.flickr.com/photos/101499875@N07/9712377954/)
+![Image](C:\first.png)
