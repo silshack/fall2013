@@ -5,6 +5,7 @@ categories: post
 ---
 
 After tinkering for a while (probably too long) I wound up with this interesting accident. Below is my Turtle code.
+
 ```python
 import turtle
 
@@ -29,4 +30,4 @@ edward.write('STOP!')
 turtle.done()
 ```
 
-And ![here's](https://plus.google.com/u/0/photos/yourphotos?pid=5921791580227736642&oid=103253917544017383249) a picture of the result!
+And ![here's](http://i.imgur.com/3Ydh0qg) a picture of the result!
