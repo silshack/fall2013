@@ -1,8 +1,8 @@
 ---
 layout: post
 author: jpowell
-categories: post
 published: false
+categories: post
 ---
 
 # Maybe the site would look better...
