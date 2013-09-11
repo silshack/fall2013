@@ -10,7 +10,7 @@ The more I messed with my drawings, the uglier they became. I took a step back a
 
     jim=turtle.Turtle()
 
-    for color in 'purple', 'blue', 'green', 'yellow', 'orange', 'red', 'purlple', 'blue', 'green', 'yellow', 'orange', 'red','purple':
+    for color in ['purple', 'blue', 'green', 'yellow', 'orange', 'red', 'purlple', 'blue', 'green', 'yellow', 'orange', 'red','purple']:
       jim.color(color)
       jim.circle(60)
       jim.fill(45)
@@ -23,5 +23,3 @@ The more I messed with my drawings, the uglier they became. I took a step back a
 And here's what Turtle drew:
 
 ![jim](http://landonandjana.files.wordpress.com/2011/07/newdrawing-pk.jpg)
-
-Brackets should be placed before and after 'colors'
