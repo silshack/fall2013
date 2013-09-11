@@ -1,7 +1,7 @@
 ---
 layout: post
 author: abrown
-Categorie: post
+categories: post
 published: false
 ---
 
