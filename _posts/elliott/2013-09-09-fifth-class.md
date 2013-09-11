@@ -18,11 +18,11 @@ Announcements
 We're diving in.  Don't worry about understanding in this first section- focus on getting things to work.
 
 ### Hello Turtle
-1. Fire up your Ubuntu instance.  There are one or two of you who don't have Ubuntu installed.  Use http://skulpt.org and make sure to contact me if you haven't already.
+1. Fire up your Ubuntu instance.  There are one or two of you who don't have Ubuntu installed.  Use http://skulpt.org and make sure to contact me if you haven't already. 
 
-2. Open two terminal windows.  You'll have to right click on the Terminal icon to get the second one.  Put them so you can see them both.  Type "python" in one and hit enter.
+2. Open two terminal windows.  You'll have to right click on the Terminal icon to get the second one.  Put them so you can see them both.  In one of them, type command `sudo apt-get install python-tk` and press enter to install the turtle module.
 
-3. Look at the following code:
+3. Type "python" in one of your terminals and hit enter.  Look at the following code:
 
 ```python
 {% include program.py %}
