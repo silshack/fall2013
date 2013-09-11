@@ -107,13 +107,14 @@ Wednesday Sept 4 Readings:
 
 3. Linux Info Project: [Machine code definition](http://www.linfo.org/machine_code.html)
 
+* Homework: Make sure you're making actual posts, roughly once a week
+
 * Homework: Vocab show & tell
 
-* In-Class Exercise: Hands on with Code
-
-* In-Class Exercise: Blog about the relationship between Assembly and Python
-
 * In-Class: VirtualBox check-in.  
+
+* In-Class Exercise: Hands on with Python Code in Ubuntu
+
 
 ### Week 4: Reading Code; Data in Programs
 
@@ -151,7 +152,7 @@ Wednesday Sept 11th: Python primitive data structures
 
 2. ThinkPython 2.1: [Values and Types](http://www.greenteapress.com/thinkpython/html/thinkpython003.html#toc12)
 
-3. Software Carpentry: [Data Storage](http://software-carpentry.org/4_0/setdict/storage.html)
+3. Software Carpentry: [Python Basics](http://software-carpentry.org/v4/python/basics.html)
 
 * Homework: Vocab show & tell
 
@@ -195,7 +196,11 @@ Monday Sept 23rd: Read up on lists and dicts
 
 1. ThinkPython: [Lists](http://www.greenteapress.com/thinkpython/html/thinkpython011.html)
 
-2. ThinkPython: [Dicts](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
+2. Software Carpentry: [Lists](http://software-carpentry.org/v4/python/lists.html)
+
+3. ThinkPython: [Dicts](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
+
+4. Software Carpentry: [Data Storage: Sets and Dicts](http://software-carpentry.org/v4/python/basics.html)
 
 * In-Class Exercise: ThinkPython: [Using data structures](http://www.greenteapress.com/thinkpython/html/thinkpython014.html)
 
@@ -211,6 +216,8 @@ Wednesday Sept 23rd: Read up on loops
 
 2. Review ThinkPython Ch. 5: [Conditionals and Recursion](http://www.greenteapress.com/thinkpython/html/thinkpython006.html)
 
+3. Software Carpentry: [Flow of Control](http://software-carpentry.org/v4/python/flow.html)
+
 * In class: Looping over lists.  Codingbat.com
 
 * In-Class: solve a problem with comments, then implement.  Pair programming.
@@ -221,17 +228,27 @@ Wednesday Sept 23rd: Read up on loops
 
 Self-contained, reusable bits of code.
 
-Monday Sept 30th
+Monday Sept 30th - I/O and intro to Libraries
 
-1. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html)
+1. Software Carpentry - [Input/Output](http://software-carpentry.org/v4/python/io.html)
 
-2. Skim over some intro docs for popular Python Web Frameworks: [Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/1.4-branch/narr/firstapp.html), [Flask](http://flask.pocoo.org/docs/quickstart/), and [Django](https://docs.djangoproject.com/en/dev/intro/tutorial01/).  Django is the most in-depth of these, and the most robust.
+2. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html)
+
+3. Skim over some intro docs for popular Python Web Frameworks: [Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/1.4-branch/narr/firstapp.html), [Flask](http://flask.pocoo.org/docs/quickstart/), and [Django](https://docs.djangoproject.com/en/dev/intro/tutorial01/).  Django is the most in-depth of these, and the most robust.
+
+* In-Class: Input/Output exercise
 
 * In-Class: Review some common python libraries.  Focus on documentation, initial testing, beginning use
 
-Wednesday Oct 2nd
+Wednesday Oct 2nd: Libraries, Catch up, Synthesis
 
-1. Looking for post ideas?  Check out the [Useful Modules](http://wiki.python.org/moin/UsefulModules) list on the Python wiki.  See if you can get a sense of how well used or maintained the modules are.
+1. Software Carpentry: [Libraries](http://software-carpentry.org/v4/python/lib.html)
+
+2. Looking for post ideas?  Check out the [Useful Modules](http://wiki.python.org/moin/UsefulModules) list on the Python wiki.  See if you can get a sense of how well used or maintained the modules are.
+
+* In-Class exercise: Contribution Guidelines for our class website.
+
+2. There are lots of blog posts out there [like this one](http://doda.co/7-python-libraries-you-should-know-about) where authors talk about favorite modules/libraries/frameworks.  Find some and share!
 
 * In-Class exercise: Learn sane naming and commenting by fixing an insane program
 
