@@ -1,6 +1,7 @@
 ---
 layout: post
 author: elliott
+date: 2013-09-11 9:15am
 ---
 
 This is how Ruby reads the posts for the first time:
