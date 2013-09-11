@@ -2,7 +2,7 @@
 layout: post
 author: lgrindheim
 categories: post
-published:false
+published: false
 ---
 
 *This text will be italic*
