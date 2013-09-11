@@ -3,7 +3,7 @@ layout: post
 author: gmclendon
 categories: howto
 title: Post install Ubuntu tips & Jekyll setup 
-published: false
+published: true
 ---
 
 Disclaimer: this worked for me, I hope it works for you. I've only tested it in a limited fashion. Please comment if you have issues or fixes. I'm also a terrible technical writer, so feel free to tell me what I messed up.
