@@ -8,10 +8,13 @@ I am not a graphic design person, so my turtle graphic is not the next Mona Lisa
 There is a sun, a layered color circle figure (I don't know what to call it), and a face. 
 
 I looked at the following sites to get inspiration about the code I wrote (they are not guilty of my creative strugglings):
+
 [Chapter 25 of Turtle graphic documentation](http://www.python.org/doc//current/library/turtle.html#color-control)
+
 [Chapter 24 of Turtle graphic documentation](http://docs.python.org/2/library/turtle.html#turtle-motion)
 
 Here is my code:
+
 '''python
 import turtle
 kenny = turtle.Turtle()
@@ -24,7 +27,7 @@ kenny.begin_fill()
 kenny.circle(150)
 kenny.end_fill()
 kenny.penup()
-## This is the weird colorful circle figure that looked like it had potential that an artistic person could put to use.
+## This is the weird colorful circle figure that looked like it had potential.
 kenny.goto(0,0)
 kenny.pendown()
 kenny.color('green')
@@ -72,3 +75,5 @@ kenny.pendown()
 kenny.forward(60)
 turtle.done()
 '''
+
+![This is my screen shot](http://imgur.com/jqo3Nqx)
