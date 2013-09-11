@@ -30,4 +30,6 @@ edward.write('STOP!')
 turtle.done()
 ```
 
-And ![here's](http://i.imgur.com/3Ydh0qg) a picture of the result!
+And below is a picture of the result.
+
+![](http://i.imgur.com/3Ydh0qg.png) 
