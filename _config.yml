@@ -26,7 +26,7 @@ authors:
       website: http://www.facebook.com/mbbaxter
       github: EmBeeBee
       twitter: MichelleBBaxter
-      about:  Grad student, pop culture enthusiast.
+      about:  Grad student, pop culture enthusiast. Going to get ALL the bonus points!
   abrown:
       name: Ashley Brown
       prof: false
@@ -47,9 +47,8 @@ authors:
       name: Erin Carter
       prof: false
       gravatar:
-      website: 
+      website: http://erinlcarter.com
       github: erincarter
-      twitter:
       about: Erin is a second-year MSIS student. She works at the SILS Help Desk, stop on by!  
   odorsey:
       name: Olivia Dorsey
@@ -100,14 +99,14 @@ authors:
       github: leslieho
       twitter:
       about: Leslie is a BSIS and Anthropology double major.  She really likes puppies.
-  eholmes:
+  erholmes:
       name: Erin Holmes
       prof: false
       gravatar:
       website: http://www.linkedin.com/in/holmeserin
       github: erholmes
       twitter: erinh24
-      about:  Erin is a second year MSIS student and is trying her best at life!
+      about:  Erin is a second year MSIS student and is trying her best at life! She hopes to be a git rockstar in about 3 months!
   ckenrick:
       name: Christopher Kenrick
       prof: false
