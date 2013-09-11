@@ -1,8 +1,8 @@
 ---
 layout: post
 author: elliott
-title: INLS 560 Sixth Class Notes
-published: false
+title: Sixth Class Notes
+published: true
 ---
 
 Announcements:
@@ -12,7 +12,7 @@ Announcements:
 * Embedding - Make sure you have a link to a *file*  Dropbox tricks you.
 
 * Fix your pull requests.  I'll post comments- get to them as soon as you're able.  [Notifications](http://github.com/notifications) are your friends.
-* Commiters: Elizabeth and Danielle
+* Commiters: Erin H, Elizabeth and Danielle
 
 * [Show-offs]({{ site.baseurl }}/showoffs/turtle.html)
 
@@ -77,9 +77,14 @@ Advanced: Shifts
 * `c = 2`
 * `c <<= 3`  What is c?  What has happened?  Hint: use `bin` to find a pattern.
 
+From the readings: Conversions
+
+* `print int('2') + 3`
+* `print 2 + str((3)`
+
 ### Break: Discuss some results
 
-
+________________
 
 ## If there's time
 
@@ -131,3 +136,4 @@ Two approaches:
 
 * The `for` Loop
 * The function
+* See also [Dave's code](http://silshack.github.io/fall2013/post/2013/09/09/Daves-circles.html)
