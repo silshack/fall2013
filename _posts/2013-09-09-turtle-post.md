@@ -15,8 +15,7 @@ I looked at the following sites to get inspiration about the code I wrote (they 
 
 Here is my code:
 
-'''python
-
+```python
 import turtle
 kenny = turtle.Turtle()
 kenny.penup()
@@ -75,6 +74,6 @@ kenny.goto(-90, -190)
 kenny.pendown()
 kenny.forward(60)
 turtle.done()
-'''
+```
 
 ![This is my screen shot](http://imgur.com/jqo3Nqx)
