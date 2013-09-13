@@ -16,6 +16,7 @@ I looked at the following sites to get inspiration about the code I wrote (they 
 Here is my code:
 
 '''python
+
 import turtle
 kenny = turtle.Turtle()
 kenny.penup()
