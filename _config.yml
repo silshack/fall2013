@@ -26,7 +26,7 @@ authors:
       website: http://www.facebook.com/mbbaxter
       github: EmBeeBee
       twitter: MichelleBBaxter
-      about:  Grad student, pop culture enthusiast. Going to get ALL the bonus points!
+      about:  Grad student, pop culture enthusiast.
   abrown:
       name: Ashley Brown
       prof: false
@@ -216,3 +216,11 @@ authors:
       github: zekuny
       twitter:
       about: Yu is a first year MSIS student. He likes programming and wants to learn more from class.
+  josh:
+    name: Josh Rice
+    prof: false
+    gravatar: 
+    website: 
+    github: joshrice
+    twitter: biorice
+    about: Josh is an MSIS student who plays on the UNC soccer team. 
