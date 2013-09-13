@@ -76,4 +76,4 @@ kenny.forward(60)
 turtle.done()
 ```
 
-![This is my screen shot](http://imgur.com/jqo3Nqx)
+![This is my screen shot](http://i.imgur.com/jqo3Nqxs.jpg)
