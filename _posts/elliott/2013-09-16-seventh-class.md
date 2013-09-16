@@ -30,7 +30,6 @@ Do them in this order:
 Stuck?  [String Docs](http://codingbat.com/doc/python-strings.html)
 [List Docs](http://codingbat.com/doc/python-lists.html)
 
-
 Fun fact: the [done page](http://codingbat.com/done) will show you stats on how long it took you to get various problems.  Don't worry about making mistakes- just make sure you're learning!
 
 If you'd like to work ahead a little, continue on in this order:
