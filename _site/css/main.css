@@ -147,6 +147,16 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
+
+/* Jaleesa's Edit */
+
+.post img{
+  max-width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* standard */
 .post pre {
   border: 1px solid #ddd;
