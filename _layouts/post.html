@@ -1,13 +1,31 @@
 ---
 layout: default
 ---
-
 {% assign author = site.authors[page.author] %}
 
 <h2>{{ page.title }}</h2>
 
 <p>
 by {{ author.name }}
+{% assign authorCount = page.authors | size %}
+{% if authorCount == 0 %}
+    
+{% elsif authorCount == 1 %}
+    {{ page.authors | first }}
+{% else %}
+    {% for author in page.authors %}
+        {% if forloop.first %}
+		{% assign authored = site.authors[author] %}
+        	{{ authored.name }}
+        {% elsif forloop.last %}
+        	{% assign authored = site.authors[author] %}
+        	and {{ authored.name }}
+        {% else %}
+        	{% assign authored = site.authors[author] %}
+        	, {{ authored.name }}
+        {% endif %}
+    {% endfor %}
+{% endif %}
 </p> <!-- /.byline -->
 
 <p class="meta">{{ page.date | date_to_string }}</p>
