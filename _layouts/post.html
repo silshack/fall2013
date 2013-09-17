@@ -36,7 +36,7 @@ by
 <div class="end">
 	{% for authors in page.author %}
 		{% assign authored = site.authors[authors] %}
-	{{ authored.about }} Find {{ authored.name }} on <a href="http://twitter.com/{{authored.twitter}}">Twitter</a>, <a href="http://github.com/{{authored.github}}">Github</a>, and <a href="{{authored.website}}">on the web</a>. <br />
+	{{ authored.about }} Find <strong>{{ authored.name }}</strong> on <a href="http://twitter.com/{{authored.twitter}}">Twitter</a>, <a href="http://github.com/{{authored.github}}">Github</a>, and <a href="{{authored.website}}">on the web</a>. <br />
 
 	{% endfor %}
 	
