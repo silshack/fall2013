@@ -12,15 +12,15 @@ by
 {% elsif authorCount == 1 %}
     {{ page.author | first }}
 {% else %}
-    {% for author in page.author %}
+    {% for authors in page.author %}
         {% if forloop.first %}
-		{% assign authored = site.author[author] %}
+		{% assign authored = site.authors[authors] %}
         	{{ authored.name }}
         {% elsif forloop.last %}
-        	{% assign authored = site.author[author] %}
+        	{% assign authored = site.authors[authors] %}
         	and {{ authored.name }}
         {% else %}
-        	{% assign authored = site.author[author] %}
+        	{% assign authored = site.authors[authors] %}
         	, {{ authored.name }}
         {% endif %}
     {% endfor %}
