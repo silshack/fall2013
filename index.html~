@@ -34,7 +34,7 @@ title: "Coursehacker's Class Blog"
 
 
 
-</li>
+{{site.authors[post.author].name}}</li>
 	
       {% for authors in post.author %}
       		{% if {{site.authors[authors].prof}} == true %}
