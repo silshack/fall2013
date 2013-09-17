@@ -1,27 +1,26 @@
 ---
 layout: default
 ---
-{% assign author = site.authors[page.author] %}
 
 <h2>{{ page.title }}</h2>
 
 <p>
-by {{ author.name }}
-{% assign authorCount = page.authors | size %}
+by 
+{% assign authorCount = page.author | size %}
 {% if authorCount == 0 %}
     
 {% elsif authorCount == 1 %}
-    {{ page.authors | first }}
+    {{ page.author | first }}
 {% else %}
-    {% for author in page.authors %}
+    {% for author in page.author %}
         {% if forloop.first %}
-		{% assign authored = site.authors[author] %}
+		{% assign authored = site.author[author] %}
         	{{ authored.name }}
         {% elsif forloop.last %}
-        	{% assign authored = site.authors[author] %}
+        	{% assign authored = site.author[author] %}
         	and {{ authored.name }}
         {% else %}
-        	{% assign authored = site.authors[author] %}
+        	{% assign authored = site.author[author] %}
         	, {{ authored.name }}
         {% endif %}
     {% endfor %}
