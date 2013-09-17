@@ -14,7 +14,7 @@ published: true
 * Meetups for X group when you are in Y group
 * Self Study: Has anyone been studying ahead?  Found any good resources? [Learn X in Y Minutes](http://learnxinyminutes.com)
 * Look ahead: Contribution Guidelines.  We'll come up with class contribution guidelines for our open source project together.
-* Look ahead: Git on the command line.  Can't wait?  [Try git](http://trygit.com)
+* Look ahead: Git on the command line.  Can't wait?  [Try git](http://try.github.io/)
 * Showoff: [Jaleesa's Post](http://silshack.github.io/fall2013/post/2013/09/09/JaleesasTurtles.html) & [CSS pull request #257](https://github.com/silshack/fall2013/pull/257).  Jaleesa didn't like how huge her screenshots were on the site.  So she submitted a pull request changing the CSS of the site.  Now all images are centered and have a maximum width.  Nice work Jaleesa! 
 * Milestones:  Make sure you have one issue or pull request under each Milestone.  If not, find the issue/pull request in question and @mention me to tag it to the right Milestone.  Thanks!
 
