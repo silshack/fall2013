@@ -5,8 +5,6 @@ author: abrown
 categories: post
 ---
 
-###Ashley's Codingbat.com Post###
-
 Here are the screenshots for my codingbat.com exercise:
 
 Day 1 includes warmup 1, string 1, and list 1.  
