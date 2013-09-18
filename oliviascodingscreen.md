@@ -1,8 +1,8 @@
 ---
 layout: post
-author: elliott
-category: notes
-title: Fourth Class Notes
+author: odorsey
+category: post
+title: Olivia's CodingBat Screenshot
 ---
 
 It's been a long process, but I finally got my screenshot for the CodingBat.com exercises. I do think that I'm going to go through a few of these again to make sure that I understand these concepts.
