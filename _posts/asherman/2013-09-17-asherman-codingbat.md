@@ -1,6 +1,5 @@
-
 ---
-title: Amber's CodingBat
+title: Amber CodingBat
 layout: post
 author: asherman
 categories: post
