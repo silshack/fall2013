@@ -6,7 +6,17 @@ categories: post
 author: jpowell
 ---
 
-I wanted to attempt to make [this adorable snake](http://i947.photobucket.com/albums/ad316/dieschwarzeskobra/cobra_zpsebc1bac9.jpg) [(source)](http://cache2.allpostersimages.com/p/LRG/30/3066/MFIDF00Z/posters/northcott-david-albino-monocled-cobra-native-to-se-asia.jpg). I don't think I even came close, but it's nearing time to be done with this. So [here's a link to the screenshot](http://i947.photobucket.com/albums/ad316/dieschwarzeskobra/Screenshotfrom2013-09-09232703_zps17e74735.png), and my code is below.
+I wanted to attempt to make [this adorable snake]
+
+[(source)](http://cache2.allpostersimages.com/p/LRG/30/3066/MFIDF00Z/posters/northcott-david-albino-monocled-cobra-native-to-se-asia.jpg). I don't think I even came close, but it's nearing time to be done with this. My code is below.
+
+
+
+![AdorableSnake](http://i947.photobucket.com/albums/ad316/dieschwarzeskobra/cobra_zpsebc1bac9.jpg)
+
+![GitHub Logo](http://i947.photobucket.com/albums/ad316/dieschwarzeskobra/Screenshotfrom2013-09-09232703_zps17e74735.png)
+
+
 
 Sources:
 * [Python documentation](http://docs.python.org/2/library/turtle.html)
