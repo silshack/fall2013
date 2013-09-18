@@ -1,7 +1,7 @@
 ---
 layout: post
 author: odorsey
-category: post
+categories: post
 title: Olivia's CodingBat Screenshot
 ---
 
