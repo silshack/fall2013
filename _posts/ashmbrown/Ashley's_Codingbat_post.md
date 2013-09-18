@@ -2,7 +2,7 @@
 title: Ashley's Codingbat.com Post
 layout: post
 author: abrown
-cateogire: post
+categories: post
 ---
 
 ###Ashley's Codingbat.com Post###
