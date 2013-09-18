@@ -2,7 +2,6 @@
 layout: post
 author: jpowell
 categories: post
-published: true
 ---
 
 #Coding Bat Exercises, part I
