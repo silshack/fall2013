@@ -4,4 +4,4 @@ layout: post
 author: ecarter
 ---
 
-![Erin's CodingBat screenshot]stuff(http://i.imgur.com/FMBGGx2.png)
+![Erin's CodingBat screenshot](http://i.imgur.com/FMBGGx2.png)
