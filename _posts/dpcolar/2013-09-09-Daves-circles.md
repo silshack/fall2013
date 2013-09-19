@@ -1,7 +1,7 @@
 ---
 layout: post
 author: dpcolar
-title: Dave's Concentric Circles
+title: Dave's Tangential Circles
 categories: post
 ---
 
@@ -9,7 +9,7 @@ For this assignment, I expermented with sizes and fills of circles.  The code us
 <br>
 
 ```python
-# Concentric Circles of random colors
+# Tangential Circles of random colors
 
 import turtle
 from random import randint
@@ -33,4 +33,4 @@ turtle.done()
 
 ```
 
-![alternately filled concentric circles](http://www.unc.edu/~pcolar/screenshot.png)
+![alternately filled tangential circles](http://www.unc.edu/~pcolar/screenshot.png)
