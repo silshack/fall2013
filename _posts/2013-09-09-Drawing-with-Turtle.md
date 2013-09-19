@@ -4,7 +4,6 @@ author: mbaxter
 category: posts
 ---
 Here is the code I used for my drawing using Python's Turtle:
-import turtle
 
 ```python
 turtle.left(20)
