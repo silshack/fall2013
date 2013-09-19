@@ -6,4 +6,4 @@ title: CodingBat Progress
 ---
 Here is my progress so far on CodingBat!
 
-![Screenshot](http://i.imgur.com/mxs3VyW.jpg)
+![Screenshot](http://i.imgur.com/OoMEIMn.jpg)
