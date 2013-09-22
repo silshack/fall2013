@@ -237,7 +237,7 @@ Monday Sept 30th - I/O and intro to Libraries
 
 * In-Class: Input/Output exercise
 
-* In-Class: Review some common python libraries.  Focus on documentation, initial testing, beginning use
+* In-Class: Command line: pip.  Review some common python libraries.  Focus on documentation, initial testing, beginning use
 
 Wednesday Oct 2nd: Libraries, Catch up, Synthesis
 
@@ -247,7 +247,7 @@ Wednesday Oct 2nd: Libraries, Catch up, Synthesis
 
 * In-Class exercise: Contribution Guidelines for our class website.
 
-* In-Class exercise: Learn sane naming and commenting by fixing an insane program
+* In-Class exercise: Command line git commiting
 
 * Post: Exciting libraries or frameworks you might want to use 
 
@@ -265,11 +265,15 @@ Monday Oct 7th: Terminal Text Editors - Nano, Vim, and Emacs
 
 * In class: Use and customize Emacs
 
+* In class: More command line git
+
 Wednesday Oct 9th: Graphical Text Editors - IDLE, SublimeText, Eclipse, others?
 
 * In-Class: Voluntary demos
 
 * In-Class: Picking your favorite text editor
+
+* In-class: More command line git
 
 ### Week 9: Problem Solving with Libraries and Frameworks
 
@@ -278,6 +282,8 @@ Problem solving with code, but better. Guests.
 Monday Oct 14th:
 
 * Pygame
+
+* Locally build Jekyll
 
 * Homework: Library show & tell
 
