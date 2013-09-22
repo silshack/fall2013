@@ -107,14 +107,13 @@ Wednesday Sept 4 Readings:
 
 3. Linux Info Project: [Machine code definition](http://www.linfo.org/machine_code.html)
 
-* Homework: Make sure you're making actual posts, roughly once a week
-
 * Homework: Vocab show & tell
 
+* In-Class Exercise: Hands on with Code
+
+* In-Class Exercise: Blog about the relationship between Assembly and Python
+
 * In-Class: VirtualBox check-in.  
-
-* In-Class Exercise: Hands on with Python Code in Ubuntu
-
 
 ### Week 4: Reading Code; Data in Programs
 
@@ -202,8 +201,6 @@ Monday Sept 23rd: Read up on lists and dicts
 
 4. Software Carpentry: [Data Storage: Sets and Dicts](http://software-carpentry.org/v4/python/basics.html)
 
-* In-Class Exercise: ThinkPython: [Using data structures](http://www.greenteapress.com/thinkpython/html/thinkpython014.html)
-
 * In-Class: Slicing & dicing data.  Codingbat.com
 
 * In-Class: Solve a problem in comments, then implement.  Pair programming
@@ -212,7 +209,7 @@ Monday Sept 23rd: Read up on lists and dicts
 
 Wednesday Sept 23rd: Read up on loops
 
-1. PythonTutor: Flow of Control Visualization
+1. PythonTutor: [Flow of Control Visualization](http://www.pythontutor.com/) - Visualize some simple programs to see how they work.
 
 2. Review ThinkPython Ch. 5: [Conditionals and Recursion](http://www.greenteapress.com/thinkpython/html/thinkpython006.html)
 
@@ -221,6 +218,8 @@ Wednesday Sept 23rd: Read up on loops
 * In class: Looping over lists.  Codingbat.com
 
 * In-Class: solve a problem with comments, then implement.  Pair programming.
+
+* **Extra-Credit Exercises**: ThinkPython: [Using data structures](http://www.greenteapress.com/thinkpython/html/thinkpython014.html) An extra point on your final grade for a Github post with exercises 1-4 completed.  Due Friday.
 
 * Check-in: Meetups
 
@@ -247,8 +246,6 @@ Wednesday Oct 2nd: Libraries, Catch up, Synthesis
 2. Looking for post ideas?  Check out the [Useful Modules](http://wiki.python.org/moin/UsefulModules) list on the Python wiki.  See if you can get a sense of how well used or maintained the modules are.
 
 * In-Class exercise: Contribution Guidelines for our class website.
-
-2. There are lots of blog posts out there [like this one](http://doda.co/7-python-libraries-you-should-know-about) where authors talk about favorite modules/libraries/frameworks.  Find some and share!
 
 * In-Class exercise: Learn sane naming and commenting by fixing an insane program
 
