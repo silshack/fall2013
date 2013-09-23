@@ -14,10 +14,12 @@ title: Ninth Class Notes
 
 Strategies:
 
+
 * Solve a tiny part first
 * Make sure you understand the output
 * Use comments for multi-step problems
 * Use a partner (pair-programming)
+
 
 ## Codingbat review
 
@@ -38,9 +40,9 @@ Selections from the class?
 
 Resources:
 
-[If Docs](http://codingbat.com/doc/python-if-boolean.html)
-[For Loops](https://wiki.python.org/moin/ForLoop) - The stuff at the bottom about making generators is advanced- you can skip it.
-[Flow of Control](http://docs.python.org/2/tutorial/controlflow.html)
+* [If Docs](http://codingbat.com/doc/python-if-boolean.html)
+* [For Loops](https://wiki.python.org/moin/ForLoop) - The stuff at the bottom about making generators is advanced- you can skip it.
+* [Flow of Control](http://docs.python.org/2/tutorial/controlflow.html)
 
 
 ## Schedule changes
