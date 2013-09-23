@@ -50,11 +50,11 @@ From what I understood, __input__ tries to interpret the response from the user 
 So __raw_input__ was much better suited for our purpose.
 
 *  This code was much longer, because we started out testing __chamber__(the random number selected) against 1, then 2, then 3, all the way to 6.  One of the
-workshop instructors pointed out that we had actually already created a variable, that was essentially doing that for us.  Comparing __chamber__ to __num_tries__
-did the exact same thing, and let us really cut down the code.  In retrospect, it's a really simple fix, but it didn't occur to me that we could
+workshop instructors pointed out that we had actually already created a variable that was essentially doing that for us.  Comparing __chamber__ to __num_tries__
+did the exact same thing and let us really cut down the code.  In retrospect, it's a really simple fix, but it didn't occur to me that we could
 double dip with a variable like that.  I guess the lesson is to check to see if something you already did can serve multiple purposes.
 Recycle, reduce, re-use!  Captain Planet!
 
-*  Lastly, I wanted to mention the __break__ that's in this code several code.  When we first wrote this code, it kept running all the way though all the chambers instead
+*  Lastly, I wanted to mention the __break__ that's in this code several times.  When we first wrote this code, it kept running all the way though all the chambers instead
 of stopping between each turn or when the person died.  Not cool!  The lovely people at the workshop let us know that if we put __break__ at the end of our condition
 clauses it would stop the loop without having it run all the way through.  There's more about it on the [python website](http://docs.python.org/2/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops).  We found it very handy!
