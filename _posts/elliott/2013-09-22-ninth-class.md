@@ -12,8 +12,7 @@ title: Ninth Class Notes
 
 **Check in: emotions.**  How are you feeling?  Trough of dispair, plateau of enlightenment?  We'll discuss some strategies to prevent you from getting stuck.
 
-Strategies:
-
+Strategies:  
 
 * Solve a tiny part first
 * Make sure you understand the output
@@ -38,7 +37,7 @@ Selections from the class?
 2. [Lists 2](http://codingbat.com/python/Logic-2)
 3. [Warmup 2](http://codingbat.com/python/Warmup-2)
 
-Resources:
+Resources:  
 
 * [If Docs](http://codingbat.com/doc/python-if-boolean.html)
 * [For Loops](https://wiki.python.org/moin/ForLoop) - The stuff at the bottom about making generators is advanced- you can skip it.
