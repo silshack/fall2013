@@ -31,7 +31,7 @@ Selections from the class?
 ## Codingbat Next Steps
 **Due Wednesday**: A Github post showing these next three CodingBat sections completed:  
 1. [Logic 1](http://codingbat.com/python/Logic-1)
-2. [Lists 2](http://codingbat.com/python/Logic-2)
+2. [Lists 2](http://codingbat.com/python/List-2)
 3. [Warmup 2](http://codingbat.com/python/Warmup-2)
 
 Resources:  
@@ -42,4 +42,4 @@ Resources:
 
 ## Schedule changes
 
-Extra credit manipulating text, due Friday.  Any takers?
+Extra credit manipulating text, due Friday.  Chapter 13 of ThinkPython (4 part string exercises) Any takers?
