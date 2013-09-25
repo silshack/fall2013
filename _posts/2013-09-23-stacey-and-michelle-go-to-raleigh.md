@@ -4,7 +4,7 @@ layout: post
 author:
 -mbaxter
 -smantooth
-category: post
+categories: post
 ---
 
 So Michelle already posted on Google+ about the [python workshop](https://plus.google.com/u/0/111805292479048821920/posts/HgrBGGLxbKi) that we 
