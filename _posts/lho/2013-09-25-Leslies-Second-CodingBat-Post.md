@@ -1,8 +1,8 @@
---
+---
 layout: post
 author: lho
 categories: post
---
+---
 
 This is my second CodingBat post!  This was definitely much harder than the first one.
 
