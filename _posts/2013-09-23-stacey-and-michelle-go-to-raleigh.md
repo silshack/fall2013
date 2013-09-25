@@ -2,8 +2,8 @@
 title:  Stacey and Michelle Slightly-Suicidal Gaming Adventure
 layout: post
 author:
--mbaxter
--smantooth
+- mbaxter
+- smantooth
 categories: post
 ---
 
