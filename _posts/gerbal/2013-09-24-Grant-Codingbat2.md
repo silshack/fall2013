@@ -2,7 +2,7 @@
 title: Grant has completed coding bat
 layout: post
 author: gmclendon
-categories: post
+category: post
 ---
 
 All done
