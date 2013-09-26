@@ -1,5 +1,5 @@
 ---
-title: Mantooth vs Codingbat: May our logic confound you
+title: Mantooth vs Codingbat 2; May our logic confound you
 layout: post
 author: smantooth
 categories: post
