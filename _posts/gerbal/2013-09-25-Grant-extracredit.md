@@ -6,7 +6,7 @@ layout: post
 ---
 
 
-So the full code for this thing is rather long and can be found [here](_includes/gerbal/extra1.py).
+So the full code for this thing is rather long and can be found [here](/_includes/gerbal/extra1.py).
 
 ##Excercise 1  
 
