@@ -2,12 +2,29 @@
 layout: default
 ---
 
-{% assign author = site.authors[page.author] %}
-
 <h2>{{ page.title }}</h2>
 
 <p>
-by {{ author.name }}
+by 
+{% assign authorCount = page.author | size %}
+{% if authorCount == 0 %}
+    
+{% elsif authorCount == 1 %}
+    {{ page.author | first }}
+{% else %}
+    {% for authors in page.author %}
+        {% if forloop.first %}
+		{% assign authored = site.authors[authors] %}
+        	{{ authored.name }}
+        {% elsif forloop.last %}
+        	{% assign authored = site.authors[authors] %}
+        	and {{ authored.name }}
+        {% else %}
+        	{% assign authored = site.authors[authors] %}
+        	, {{ authored.name }}
+        {% endif %}
+    {% endfor %}
+{% endif %}
 </p> <!-- /.byline -->
 
 <p class="meta">{{ page.date | date_to_string }}</p>
@@ -17,5 +34,26 @@ by {{ author.name }}
 </div>
 
 <div class="end">
-	{{ author.about }} Find {{ author.name }} on <a href="http://twitter.com/{{author.twitter}}">Twitter</a>, <a href="http://github.com/{{author.github}}">Github</a>, and <a href="{{web}}">on the web</a>.
+	{% for authors in page.author %}
+		{% assign authored = site.authors[authors] %}
+	{{ authored.about }} Find <strong>{{ authored.name }}</strong> on <a href="http://twitter.com/{{authored.twitter}}">Twitter</a>, <a href="http://github.com/{{authored.github}}">Github</a>, and <a href="{{authored.website}}">on the web</a>. <br />
+
+	{% endfor %}
+	
 </div>
+
+<div id="disqus_thread"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'silshack'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    
