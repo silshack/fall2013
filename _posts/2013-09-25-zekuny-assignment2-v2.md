@@ -7,4 +7,4 @@ categories: post
 
 Here's my progress:
 
-![Image](https://pbs.twimg.com/media/BVDVp0lCIAA8Lq0.png:large)
+![Image](https://pbs.twimg.com/media/BVDXRw1CYAAVh5R.png:large)
