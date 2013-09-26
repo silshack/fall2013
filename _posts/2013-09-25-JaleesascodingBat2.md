@@ -1,6 +1,6 @@
 ---
 layout: post
-author: jaleesap
+author: jpowell
 categories: post 
 title: Jaleesa's Coding Bat II
 ---
