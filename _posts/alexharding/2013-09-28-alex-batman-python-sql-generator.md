@@ -84,7 +84,7 @@ SQL_insert_generator(list_with_metadata)
 ```
 This generated a full list of SQL insert statements for me, as seen below.
 
-``` SQL
+```
 INSERT INTO `issue` (`id`,`title`,`issue_num`,`variant`,`printing`,`cover_artist`) VALUES ('00111','Batman (2011)','001','False','1','Greg Capullo')
 INSERT INTO `issue` (`id`,`title`,`issue_num`,`variant`,`printing`,`cover_artist`) VALUES ('00112','Batman (2011)','001','False','2','Greg Capullo')
 INSERT INTO `issue` (`id`,`title`,`issue_num`,`variant`,`printing`,`cover_artist`) VALUES ('00121','Batman (2011)','001','True','1','Guest Artist')
