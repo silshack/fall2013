@@ -95,7 +95,7 @@ def writeitallout():
         problem did not work nearly as well.
         '''
         print "Writing exercise %d to file exercise%d.txt" % (i,i)
-        output.write(str(outtext('pg43791.txt')))
+        output.write(str(outtext('pg46.txt')))
         output.close()
         
 writeitallout()
