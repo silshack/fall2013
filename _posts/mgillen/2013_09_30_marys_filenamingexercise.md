@@ -1,3 +1,10 @@
+---
+layout: post
+author: mgillen
+categories: post
+title: Mary's Code for the File Naming Exercise
+---
+
 Shoutout to Jaleesa for the assistance!
 
 ```python
