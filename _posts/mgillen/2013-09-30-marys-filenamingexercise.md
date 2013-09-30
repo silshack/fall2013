@@ -3,6 +3,7 @@ layout: post
 author: mgillen
 categories: post
 title: Mary's Code for the File Naming Exercise
+published: true
 ---
 
 Shoutout to Jaleesa for the assistance!
@@ -32,3 +33,4 @@ print ('Name written to file')
 # Exercise: make the file name used here customizible:
 add_names(new_names, input('Name file: '))
 print ('File named')
+```
