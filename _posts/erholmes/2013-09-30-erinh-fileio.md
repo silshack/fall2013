@@ -6,7 +6,7 @@ title: Erin H's File I/O
 published: true
 ---
 
-Soo it doesn't ask for the filename until the end of the program. But it does ask for it!
+So it doesn't ask for the filename until the end of the program, which is not exactly intuitive. But it does ask for it!
 
 ```python
 def add_names(list_of_names, file):
