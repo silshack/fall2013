@@ -2,7 +2,7 @@
 title: Grant completes add_names.py
 layout: post
 author: gmclendon
-categories: gmclendon
+categories: post
 ---  
 
 here's my code:  
