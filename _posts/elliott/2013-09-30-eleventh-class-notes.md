@@ -92,6 +92,6 @@ You'll find the following file [here](https://raw.github.com/silshack/fall2013/g
 
 Complete the two exercises and submit your code by the end of class or midnight.
 
-```python
+{% highlight python %}
 {% include add_names.py %}
-```
+{% endhighlight %}
