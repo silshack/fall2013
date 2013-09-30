@@ -22,7 +22,7 @@ def add_names(list_of_names, file):
 
   # Close the file so the changes are visible.
   names_file.close()
-```
+
 
 
 
@@ -32,3 +32,5 @@ new_names=input('Enter a list of names:')
 # Exercise: make the file name used here customizible:
 customizable_file=input('Enter a file name:')
 add_names(new_names, customizable_file)
+
+```
