@@ -17,7 +17,7 @@ def sum67(nums):
     ## Make flag true when we find a '6'
     if nums[i] == 6:
       found_6 = True
-      ### Continue jumps out of the line code to the bottom of the for loop
+      ### Continue jumps out of the line code to the next pass of the for loop
       continue
       
     ### If we have already found a '6', we are looking for a 7 before resuming summation  
@@ -25,7 +25,7 @@ def sum67(nums):
       if nums[i] <> 7:
         continue
       else:
-        ### A '7' is found, so we turn off the flag and resume summation at the next iteration
+        ### A '7' is found, so we turn off the flag and resume summation at the next pass
         found_6 = False
         continue
         
