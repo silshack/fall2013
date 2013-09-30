@@ -4,8 +4,8 @@ author: sburnham
 categories: post
 title: "Python Add Names Homework"
 ---
-Here's my code on appending a list and file name.
 
+Here's my code on appending a list and file name.
 
 ```python
 
@@ -27,7 +27,6 @@ def add_names(list_of_names, file):
   print file + ' written successfully'
   names_file.close()
 
-
 # Exercise: make new_names customizible:
 new_names = input('Enter a list of names:')
 
@@ -36,5 +35,3 @@ new_names = input('Enter a list of names:')
 file = input('Enter new file name:')
 
 add_names(new_names, file)
-
-```
