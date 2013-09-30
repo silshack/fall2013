@@ -231,7 +231,7 @@ Monday Sept 30th - I/O and intro to Libraries
 
 1. Software Carpentry - [Input/Output](http://software-carpentry.org/v4/python/io.html)
 
-2. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html)
+2. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style/)
 
 3. Skim over some intro docs for popular Python Web Frameworks: [Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/1.4-branch/narr/firstapp.html), [Flask](http://flask.pocoo.org/docs/quickstart/), and [Django](https://docs.djangoproject.com/en/dev/intro/tutorial01/).  Django is the most in-depth of these, and the most robust.
 
