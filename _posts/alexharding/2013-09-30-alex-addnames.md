@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 author: alexharding
 published: true
 ---
@@ -13,7 +13,7 @@ published: true
 
 What follows is my python code which allows the user to add their own list of names and choose a file name to write out to.
 
-``` Python
+```Python
 
 def add_names(list_of_names, file):
   names_file = open(file, 'a')
