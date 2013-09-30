@@ -2,7 +2,7 @@
 layout: post
 author: mgillen
 categories: post
-title: Mary's CodingBat.com Progress
+title: Mary's CodingBat Progress
 ---
 
 Trekking along...

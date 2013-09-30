@@ -1,5 +1,4 @@
 SILShack, Fall 2013
-===================
 
 This is the source code for the collaboratively edited blog/site for the Fall 2013 session of UNC INLS 560, Programming for Information Professionals.
 
