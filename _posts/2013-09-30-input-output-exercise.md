@@ -30,7 +30,7 @@ new_names = input("Enter a list of names: ")
 
 # Exercise: make the file name used here customizible:
 # Accept keyboard input from the user and assign
-# to variable filname. Then pass new variable filename
+# to variable filename. Then pass new variable filename
 # to function add_names as second argument.
 filename = input("Enter a file name: ")
 add_names(new_names, filename)
