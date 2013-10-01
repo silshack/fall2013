@@ -133,7 +133,9 @@ Key Questions:
 
 Monday Sept 9th Readings: Reading Code
 
-1. Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html) -  There will be lots in here that may not make sense to you.  Practice your skimming/vocab learning skills.
+1. Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style) -  There will be lots in here that may not make sense to you.  Practice your skimming/vocab learning skills.
+
+2. ThinkPython Ch. 2: [Variables, expressions, and statements](http://www.greenteapress.com/thinkpython/html/thinkpython003.html)
 
 * Homework: Vocab show & tell
 
@@ -149,7 +151,7 @@ Wednesday Sept 11th: Python primitive data structures
 
 2. ThinkPython 2.1: [Values and Types](http://www.greenteapress.com/thinkpython/html/thinkpython003.html#toc12)
 
-3. Software Carpentry: [Data Storage](http://software-carpentry.org/4_0/setdict/storage.html)
+3. Software Carpentry: [Python Basics](http://software-carpentry.org/v4/python/basics.html)
 
 * Homework: Vocab show & tell
 
@@ -169,11 +171,15 @@ Monday Sept 16th: Read about strings and numbers
 
 1. Paul Graham: [Hackers and Painters](http://paulgraham.com/hp.html)  A counterpoint to what we'll be doing in class.  Instead of pseudocode, Graham advocates writing real code first.  Read at least the first half.
 
+2. Review ThinkPython Ch. 2: [Variables, expressions, and statements](http://www.greenteapress.com/thinkpython/html/thinkpython003.html)
+
 * In class: Pseudocode solutions to string problems from Codingbat.com
 
 Wednesday Sept 18th: Read about conditionals
 
 1. Paul Graham: [Hackers and Painters](http://paulgraham.com/hp.html)  Finish.
+
+2. ThinkPython Ch. 5: [Conditionals and Recursion](http://www.greenteapress.com/thinkpython/html/thinkpython006.html)
 
 * In Class: Pseudocode solutions to conditionals from Codingbat.com
 
@@ -189,9 +195,11 @@ Monday Sept 23rd: Read up on lists and dicts
 
 1. ThinkPython: [Lists](http://www.greenteapress.com/thinkpython/html/thinkpython011.html)
 
-2. ThinkPython: [Dicts](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
+2. Software Carpentry: [Lists](http://software-carpentry.org/v4/python/lists.html)
 
-* In-Class Exercise: ThinkPython: [Using data structures](http://www.greenteapress.com/thinkpython/html/thinkpython014.html)
+3. ThinkPython: [Dicts](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
+
+4. Software Carpentry: [Data Storage: Sets and Dicts](http://software-carpentry.org/v4/python/basics.html)
 
 * In-Class: Slicing & dicing data.  Codingbat.com
 
@@ -201,11 +209,17 @@ Monday Sept 23rd: Read up on lists and dicts
 
 Wednesday Sept 23rd: Read up on loops
 
-1. PythonTutor: Flow of Control Visualization
+1. PythonTutor: [Flow of Control Visualization](http://www.pythontutor.com/) - Visualize some simple programs to see how they work.
+
+2. Review ThinkPython Ch. 5: [Conditionals and Recursion](http://www.greenteapress.com/thinkpython/html/thinkpython006.html)
+
+3. Software Carpentry: [Flow of Control](http://software-carpentry.org/v4/python/flow.html)
 
 * In class: Looping over lists.  Codingbat.com
 
 * In-Class: solve a problem with comments, then implement.  Pair programming.
+
+* **Extra-Credit Exercises**: ThinkPython: [Using data structures](http://www.greenteapress.com/thinkpython/html/thinkpython014.html) An extra point on your final grade for a Github post with exercises 1-4 completed.  Due Friday.
 
 * Check-in: Meetups
 
@@ -213,19 +227,27 @@ Wednesday Sept 23rd: Read up on loops
 
 Self-contained, reusable bits of code.
 
-Monday Sept 30th
+Monday Sept 30th - I/O and intro to Libraries
 
-1. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html)
+1. Software Carpentry - [Input/Output](http://software-carpentry.org/v4/python/io.html)
 
-2. Skim over some intro docs for popular Python Web Frameworks: [Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/1.4-branch/narr/firstapp.html), [Flask](http://flask.pocoo.org/docs/quickstart/), and [Django](https://docs.djangoproject.com/en/dev/intro/tutorial01/).  Django is the most in-depth of these, and the most robust.
+2. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style/)
 
-* In-Class: Review some common python libraries.  Focus on documentation, initial testing, beginning use
+3. Skim over some intro docs for popular Python Web Frameworks: [Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/1.4-branch/narr/firstapp.html), [Flask](http://flask.pocoo.org/docs/quickstart/), and [Django](https://docs.djangoproject.com/en/dev/intro/tutorial01/).  Django is the most in-depth of these, and the most robust.
 
-Wednesday Oct 2nd
+* In-Class: Input/Output exercise
 
-1. Looking for post ideas?  Check out the [Useful Modules](http://wiki.python.org/moin/UsefulModules) list on the Python wiki.  See if you can get a sense of how well used or maintained the modules are.
+* In-Class: Command line: pip.  Review some common python libraries.  Focus on documentation, initial testing, beginning use
 
-* In-Class exercise: Learn sane naming and commenting by fixing an insane program
+Wednesday Oct 2nd: Libraries, Catch up, Synthesis
+
+1. Software Carpentry: [Libraries](http://software-carpentry.org/v4/python/lib.html)
+
+2. Looking for post ideas?  Check out the [Useful Modules](http://wiki.python.org/moin/UsefulModules) list on the Python wiki.  See if you can get a sense of how well used or maintained the modules are.
+
+* In-Class exercise: Contribution Guidelines for our class website.
+
+* In-Class exercise: Command line git commiting
 
 * Post: Exciting libraries or frameworks you might want to use 
 
@@ -243,11 +265,15 @@ Monday Oct 7th: Terminal Text Editors - Nano, Vim, and Emacs
 
 * In class: Use and customize Emacs
 
+* In class: More command line git
+
 Wednesday Oct 9th: Graphical Text Editors - IDLE, SublimeText, Eclipse, others?
 
 * In-Class: Voluntary demos
 
 * In-Class: Picking your favorite text editor
+
+* In-class: More command line git
 
 ### Week 9: Problem Solving with Libraries and Frameworks
 
@@ -256,6 +282,8 @@ Problem solving with code, but better. Guests.
 Monday Oct 14th:
 
 * Pygame
+
+* Locally build Jekyll
 
 * Homework: Library show & tell
 

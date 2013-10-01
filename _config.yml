@@ -1,5 +1,5 @@
 name: The SILShack class blog - Fall 2013
-pygments: false
+pygments: true
 markdown: redcarpet
 
 baseurl: /fall2013
@@ -47,9 +47,8 @@ authors:
       name: Erin Carter
       prof: false
       gravatar:
-      website: 
+      website: http://erinlcarter.com
       github: erincarter
-      twitter:
       about: Erin is a second-year MSIS student. She works at the SILS Help Desk, stop on by!  
   odorsey:
       name: Olivia Dorsey
@@ -84,14 +83,14 @@ authors:
       github: landongrindheim
       twitter: landongrindheim
       about: Landon is an MSIS student at UNC Chapel Hill. He grew up in North Dakota, but has lived in Idaho, Montana and North Carolina as well as in the Middle East. His brain operates primarily in the humanities.
-  aharding:
-      name: Alexander Harold
+  alexharding:
+      name: Alexander Harding
       prof: false
       gravatar:
       website: 
-      github:
+      github: alexharding
       twitter:
-      about:  
+      about: Alex is a second year MSIS student at SILS and the bottom of the totem pole in the UNC Libraries IT Systems department. He looks forward to working with everyone in this class! 
   lho:
       name: Leslie Ho
       prof: false
@@ -100,14 +99,14 @@ authors:
       github: leslieho
       twitter:
       about: Leslie is a BSIS and Anthropology double major.  She really likes puppies.
-  eholmes:
+  erholmes:
       name: Erin Holmes
       prof: false
       gravatar:
       website: http://www.linkedin.com/in/holmeserin
       github: erholmes
       twitter: erinh24
-      about:  Erin is a second year MSIS student and is trying her best at life!
+      about:  Erin is a second year MSIS student and is trying her best at life! She hopes to be a git rockstar in about 3 months!
   ckenrick:
       name: Christopher Kenrick
       prof: false
@@ -206,9 +205,9 @@ authors:
       prof: false
       gravatar:
       website: 
-      github:
+      github: DanielleWingler
       twitter:
-      about:  I am a BSIS student. I am looking forward to learning more about programming. I am still exploring career paths within the information science field.
+      about:  Danielle is a BSIS student. Looking forward to learning more about programming. Still exploring career paths within the information science field.
   zekuny:
       name: Zekun Yu
       prof: false
@@ -217,3 +216,11 @@ authors:
       github: zekuny
       twitter:
       about: Yu is a first year MSIS student. He likes programming and wants to learn more from class.
+  josh:
+    name: Josh Rice
+    prof: false
+    gravatar: 
+    website: 
+    github: joshrice
+    twitter: biorice
+    about: Josh is an MSIS student who plays on the UNC soccer team. 
