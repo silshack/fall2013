@@ -34,12 +34,12 @@ add_names(new_names, new_file)
 
 Results:
 
->>> python add_names.py
-enter new names:['Tim', 'Jill', 'Jeff', 'Pedro', 'Adam']
-enter the filename to append:names.txt
-name added: Tim
-name added: Jill
-name added: Jeff
-name added: Pedro
-name added: Adam
+>>> python add_names.py <br>
+enter new names:['Tim', 'Jill', 'Jeff', 'Pedro', 'Adam']<br>
+enter the filename to append:names.txt<br>
+name added: Tim<br>
+name added: Jill<br>
+name added: Jeff<br>
+name added: Pedro<br>
+name added: Adam<br>
 to file: names.txt
