@@ -2,12 +2,29 @@
 layout: default
 ---
 
-{% assign author = site.authors[page.author] %}
-
 <h2>{{ page.title }}</h2>
 
 <p>
-by {{ author.name }}
+by 
+{% assign authorCount = page.author | size %}
+{% if authorCount == 0 %}
+    
+{% elsif authorCount == 1 %}
+    {{ page.author | first }}
+{% else %}
+    {% for authors in page.author %}
+        {% if forloop.first %}
+		{% assign authored = site.authors[authors] %}
+        	{{ authored.name }}
+        {% elsif forloop.last %}
+        	{% assign authored = site.authors[authors] %}
+        	and {{ authored.name }}
+        {% else %}
+        	{% assign authored = site.authors[authors] %}
+        	, {{ authored.name }}
+        {% endif %}
+    {% endfor %}
+{% endif %}
 </p> <!-- /.byline -->
 
 <p class="meta">{{ page.date | date_to_string }}</p>
@@ -17,7 +34,12 @@ by {{ author.name }}
 </div>
 
 <div class="end">
-	{{ author.about }} Find {{ author.name }} on <a href="http://twitter.com/{{author.twitter}}">Twitter</a>, <a href="http://github.com/{{author.github}}">Github</a>, and <a href="{{author.website}}">on the web</a>.
+	{% for authors in page.author %}
+		{% assign authored = site.authors[authors] %}
+	{{ authored.about }} Find <strong>{{ authored.name }}</strong> on <a href="http://twitter.com/{{authored.twitter}}">Twitter</a>, <a href="http://github.com/{{authored.github}}">Github</a>, and <a href="{{authored.website}}">on the web</a>. <br />
+
+	{% endfor %}
+	
 </div>
 
 <div id="disqus_thread"></div>
