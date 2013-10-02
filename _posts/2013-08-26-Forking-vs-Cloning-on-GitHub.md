@@ -37,8 +37,8 @@ This makes sense - the vocab and its definition are
 related in an obvious way. It's not the same with "fork" (at least, at first glance).
 <br></br>
 ###Sources###
-[http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/)
-[http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences](http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences)
-[http://www.youtube.com/watch?v=_jGUFpWYm60](http://www.youtube.com/watch?v=_jGUFpWYm60)
-[http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html#_forking_a_project](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html#_forking_a_project)
-[http://stackoverflow.com/questions/6286571/git-fork-is-git-clone?rq=1](http://stackoverflow.com/questions/6286571/git-fork-is-git-clone?rq=1)
+* [http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/)
+* [http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences](http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences)
+* [http://www.youtube.com/watch?v=_jGUFpWYm60](http://www.youtube.com/watch?v=_jGUFpWYm60)
+* [http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html#_forking_a_project](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html#_forking_a_project)
+* [http://stackoverflow.com/questions/6286571/git-fork-is-git-clone?rq=1](http://stackoverflow.com/questions/6286571/git-fork-is-git-clone?rq=1)
