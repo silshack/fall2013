@@ -257,7 +257,7 @@ Monday Oct 7th: Terminal Text Editors - Nano, Vim, and Emacs
 
 1. Reading: [Vim after 11 years](http://statico.github.io/vim.html)
 
-2. Reading: TBD Emacs
+2. Reading: [My Emacs Workflow](http://blog.zenspider.com/blog/2012/06/my-emacs-workflow.html)
 
 * In class: Use and customize Nano
 
