@@ -8,8 +8,10 @@ Announcements:
 
 * Github looking good (Merge @gerbal's pull request) 
 * G+ check in
+* Thanks for the feedback - keep it coming
 * Local git installs, Jekyll, and site hacking oh my!
-* Guest Eric Martindale on Weds, so vim & emacs that day.
+* Guest Eric Martindale on Weds, so vim & emacs that day.  See Emacs reading [here](http://blog.zenspider.com/blog/2012/06/my-emacs-workflow.html)
+* See exercise due Wednesday, below.
 
 ## Installing `git`
 
