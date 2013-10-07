@@ -275,6 +275,8 @@ Wednesday Oct 9th: Graphical Text Editors - IDLE, SublimeText, Eclipse, others?
 
 * In-class: More command line git
 
+Guest Speaker: Eric Martindale
+
 ### Week 9: Problem Solving with Libraries and Frameworks
 
 Problem solving with code, but better. Guests.
@@ -314,6 +316,8 @@ Wednesday Oct 23rd: Other languages and technology: Ruby, Java, HTML, CSS, Javas
 * Reading: Interview with Yukihiro Matsumoto - [Ruby's Design Philosophy](http://www.artima.com/intv/ruby4.html)
 
 * Reading: Interview with Bjarne Stroustrup - [Elegance and other Design Ideals](http://www.artima.com/intv/elegance.html).  Stroustrup invented C++ in the 70s and 80s.
+
+* Guest Speaker: Jeff Heard, RENCI
 
 * In-class: Brainstorm 3 project ideas & lightning talks
 
