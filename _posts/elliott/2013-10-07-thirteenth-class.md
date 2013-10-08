@@ -28,6 +28,10 @@ which git
 ```
 `which` is a UNIX program that locates the location of the file that would be run if you typed a command.  It's useful for checking if you have a program installed and, if so, where it is.
 
+## NEW: First- Time Setup
+
+Git has an excellent first-time git setup turorial [here](https://help.github.com/articles/set-up-git#set-up-git).  We did this during class and you should too if you're making up the work.
+
 ## Cloning your first repo
 
 Github does a pretty good job making it easy to clone repos.  In the bottom right of every project page there is a box with the URL you'll need to clone.  The syntax for cloning is 
@@ -76,6 +80,6 @@ roger.circle(30)
 
 `random_color()` is pretty sweet, but there are lots of improvements we can make to the Turtlehack project.  Check out the Issues of the project to see what the organizer has identified as things that need improvement.
 
-## Exercise due Wednesday
+## Exercise due Friday
 
-By the end of Wednesday, particpate in the Turtlehack project in a meaningful way, and post a post showing how you've used the library to make a better Turtle drawing.  Your post should have 1) a screenshot and 2) your code.
+By the end of Friday, particpate in the Turtlehack project in a meaningful way, and post a post showing how you've used the library to make a better Turtle drawing.  Your post should have 1) a screenshot and 2) your code.
