@@ -30,7 +30,7 @@ def add_names(list_of_names, file):
 new_names = input('Enter a list of names: ')
 
 # Exercise: make the file name used here customizible:
-new_names = raw_input('Enter a file name: ')
+file_name = raw_input('Enter a file name: ')
 add_names(new_names, file_name)
 
 ```
