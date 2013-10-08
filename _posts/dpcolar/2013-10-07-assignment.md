@@ -18,7 +18,7 @@ import random
 def n_sided_polygon(turtle, n, color="#FFFFFF", line_thickness=1):
 	'''
 	Draw an n-sided polygon
-	input: turtle, n, line_length
+	input: turtle, number of sides, line color, line thickness
 	'''
 	# for n times:
 	# Draw a line, then turn 360/n degrees and draw another
@@ -46,7 +46,7 @@ def n_sided_polygon(turtle, n, color="#FFFFFF", line_thickness=1):
 # set initial parameters
 n=random.randint(3,12)
 
-# create the Turle instance
+# create the Turtle instance
 graphic = turtle.Turtle()
 # Call the polygon code
 n_sided_polygon(graphic, n, turtlehack.random_color(), random.randint(4,8))
