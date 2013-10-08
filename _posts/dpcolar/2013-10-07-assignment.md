@@ -56,4 +56,4 @@ ignore = raw_input("hit any key to continue:")
 
 ```
 
-[!http://www.unc.edu/~pcolar/n_sided_polygon.png N-sided Polygon]
+![http://www.unc.edu/~pcolar/n_sided_polygon.png N-sided Polygon]
