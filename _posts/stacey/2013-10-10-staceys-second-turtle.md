@@ -55,7 +55,7 @@ turtle.done()
 
 
 
-I originally wanted to make a function that produced random pokadots (or something that looked vaguely like chickenpox) and tried to use the random location function in turtlehack.
+I originally wanted to make a function that produced random polka dots (or something that looked vaguely like chickenpox) and tried to use the random location function in turtlehack.
 That did not work at all.  It just drew a bunch of dots in the center of the page while the turtle zoomed off to draw some random lines.  Also,
 anyone know any good ways to keep the drawings on the canvas?  It took me an embarssingly long time to realize that sending the loop back to the
 center everytime would help keep my dots from wandering off, but it also means they clump toward the middle.
