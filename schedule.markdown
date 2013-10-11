@@ -257,7 +257,7 @@ Monday Oct 7th: Terminal Text Editors - Nano, Vim, and Emacs
 
 1. Reading: [Vim after 11 years](http://statico.github.io/vim.html)
 
-2. Reading: TBD Emacs
+2. Reading: [My Emacs Workflow](http://blog.zenspider.com/blog/2012/06/my-emacs-workflow.html)
 
 * In class: Use and customize Nano
 
@@ -274,6 +274,8 @@ Wednesday Oct 9th: Graphical Text Editors - IDLE, SublimeText, Eclipse, others?
 * In-Class: Picking your favorite text editor
 
 * In-class: More command line git
+
+Guest Speaker: Eric Martindale
 
 ### Week 9: Problem Solving with Libraries and Frameworks
 
@@ -314,6 +316,8 @@ Wednesday Oct 23rd: Other languages and technology: Ruby, Java, HTML, CSS, Javas
 * Reading: Interview with Yukihiro Matsumoto - [Ruby's Design Philosophy](http://www.artima.com/intv/ruby4.html)
 
 * Reading: Interview with Bjarne Stroustrup - [Elegance and other Design Ideals](http://www.artima.com/intv/elegance.html).  Stroustrup invented C++ in the 70s and 80s.
+
+* Guest Speaker: Jeff Heard, RENCI
 
 * In-class: Brainstorm 3 project ideas & lightning talks
 
