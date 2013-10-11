@@ -1,8 +1,10 @@
 ---
 layout: post
-author: carolinp
+author: jpulliza
 categories: post 
 ---
+
+This turtle script will make a random number of polygons with between 5 to 10 sides.
 
 ![new turtlehack](https://dl.dropboxusercontent.com/u/4614624/new_turtle.jpg)
 
