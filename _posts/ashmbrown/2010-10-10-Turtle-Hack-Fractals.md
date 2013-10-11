@@ -15,7 +15,7 @@ To create a fractal, I first added a function to my local copy of the turtlehack
 
 So, I then tried to run the function in a second terminal.  My turtle (I named him Jack) started to spin but he did not move. He looked like he was getting very dizzy.  I knew I had to get him moving, so off to google I went.  I figured out that I had to move his position.  I also discussed this with a friend of mine who is a programmer.  He walked me through some of the thought processes. I used the setpos, up, and down commands to set his position and then have him move based on the fractal function written early.  I'm going to be honest here, this took a while and a lot of googling, and I think I only understand some of it.  Having it to talk through with someone has been helpful, as well. 
 
-So without further to do, here are my screen shots, and my code:
+So without further ado, here are my screen shots, and my code:
 
 ![The function I put into turtlehack.py](https://lh5.googleusercontent.com/-v2YngV27q_0/Uldn8QUzaMI/AAAAAAAAAKw/G9unoV9FPvw/w880-h495-no/turtle_hack_fractal.jpg)
 ![The python code to execute Jack, the turtle](https://lh4.googleusercontent.com/-BS-fD1H6BNQ/Uldn8b2AOhI/AAAAAAAAAK0/6YrZceEkNxI/w880-h495-no/turtle_hack_fractal_2.jpg)
