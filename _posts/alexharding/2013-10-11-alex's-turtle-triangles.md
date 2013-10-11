@@ -56,4 +56,4 @@ def right_triangle(height,width,direction):
 
 
 #Screenshot
-![]http://i.imgur.com/v3bk98n.png
+![](http://i.imgur.com/v3bk98n.png)
