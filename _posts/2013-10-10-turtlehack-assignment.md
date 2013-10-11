@@ -1,10 +1,12 @@
 ---
-
+layout: post
 author: kshaffer
 categories: post
 ---
 
-Here's the graphic: ![](http://i.imgur.com/C3ofI79.png)
+Here's the graphic: 
+
+![](http://i.imgur.com/C3ofI79.png)
 
 And here's the code:
 
