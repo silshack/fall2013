@@ -1,11 +1,11 @@
 ---
-title: I wonder how often April O'Neil washed that yellow jumpsuit.
+title: I wonder how often April O'Neil washed that yellow jumpsuit
 layout: post
 author: smantooth
 categories: post
 ---
 
-My turtles look like they grew some really narwly fungus.
+My turtles look like they grew some really gnarly fungus.
 
 
 BOOM!
@@ -14,7 +14,10 @@ BOOM!
 
 
 
+
 And just for funzies, I did one with squares too.
+
+
 
 ![CIRCLES AND SQUARES.  CIRCLES AND SQUARES.](http://imageshack.us/a/img820/729/44ms.png)
 
@@ -47,6 +50,8 @@ for i in range(random.randint(40, 90)):
 turtle.done()
 
 ```
+
+
 
 
 
