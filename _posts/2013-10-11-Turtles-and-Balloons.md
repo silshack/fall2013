@@ -10,6 +10,7 @@ I first tried some code that resulted in a crazier picture than I was originally
 
 And here's the code I used for it:
 ```python
+
 import turtle
 from turtlehack import *
 import random
@@ -46,6 +47,7 @@ Then, I messed around with some of the numbers and got a better picture:
 
 And the code:
 ```python
+
 import turtle
 from turtlehack import *
 import random
