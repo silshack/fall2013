@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 author: lgrindheim
 categories: posts
 published: True
