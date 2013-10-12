@@ -8,7 +8,7 @@ published: true
 
 Calling it, I'm going to be rich some day. They don't make art like this anymore. I also want to say I am still working on getting my triforce to work. It will happen. I'll make an announcement when it's working and beautiful!
 
-!(http://i.imgur.com/bmSfhZr.png)
+![My Turtle](http://i.imgur.com/bmSfhZr.png)
 
 Code:
 
