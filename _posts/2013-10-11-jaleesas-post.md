@@ -49,4 +49,3 @@ for x in range(0,8):
 turtle.done()
 
 ```
-```
