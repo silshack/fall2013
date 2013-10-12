@@ -3,6 +3,7 @@ layout: post
 author: mgillen
 categories: post
 title: Mary's Take on Modern Art: An Experiment with Turtle
+published: true
 ---
 
 Calling it, I'm going to be rich some day. They don't make art like this anymore. I also want to say I am still working on getting my triforce to work. It will happen. I'll make an announcement when it's working and beautiful!
@@ -31,3 +32,4 @@ for i in range(random.randint(0, 5)):
    n_sided_polygon(mary, 8, color=random_color(), line_thickness=5, line_length=50)
 
 turtle.done()
+```
