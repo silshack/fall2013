@@ -1,0 +1,13 @@
+---
+layout: default
+weeks:
+ - weeks/week1.md
+ - weeks/week2.md
+ - weeks/week3.md
+---
+
+{% for week in page.weeks %}
+	{{ include week }}
+{%endfor%}
+
+{{content}}
