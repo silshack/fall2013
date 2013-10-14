@@ -1,6 +1,6 @@
 ---
 author: elliott
-title: Forteenth Class Notes: Local Class site!
+title: Forteenth Class Notes Local Class site!
 layout: post
 ---
 
