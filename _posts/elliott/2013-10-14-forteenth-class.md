@@ -107,4 +107,4 @@ You're done for now.  The exercise below will have you modify, save, add, commit
 
 ## Exercise: A post-from-the-command-line post, with screenshots
 
-Your post should explain in your own words what the process of posting or our class blog from the command line.  Bonus points for screenshots and correct code blocking. This is due by the end of the day.
+Your post should explain in your own words what the process of posting or our class blog from the command line.  Bonus points for screenshots and correct code blocking. This is due by the end of the day **Wednesday**.
