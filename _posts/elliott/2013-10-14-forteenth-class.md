@@ -31,6 +31,10 @@ Install Jekyll and Github-Pages:
 ```
 sudo gem install github-pages
 ```
+If this doesn't work for you, sometimes just installing Jekyll will work instead:
+```
+sudo gem install jekyll
+```
 This gem (package of Ruby software) includes Jekyll and several other things needed to make our copy of Jekyll just like Github's.  That way we should see the same errors, etc, that they do.  To verify you've got a copy of Jekyll installed after this, type `which jekyll`.  If you have Jekyll, this will print out a directory location.  If not, it will do nothing- make sure your apt-get command didn't have any errors.
 
 ### `git clone` your version of our class website
@@ -38,7 +42,7 @@ This gem (package of Ruby software) includes Jekyll and several other things nee
 Open a new Terminal
 
 ```
-git clone http://github.com/{your-user-name}/fall2013
+git clone http://github.com/{your-user-name}/fall2013.git
 ```
 *Note: this may not work if you already have a copy of the project in a directory called `fall2013/`.  I so, you can move the existing directory by typing `mv fall23013/ fall2013old/`. `mv` is UNIX for 'move <this> <there>`*
 
@@ -46,7 +50,7 @@ Change directories into the `fall2013/` directory by typing `cd fall 2013`.
 
 Add the main project as a remote called `upstream`:
 ```
-git remote add upstream http://github.com/silshack/fall2013
+git remote add upstream http://github.com/silshack/fall2013.git
 ```
 Now, when you type `git remote -v`, you should see this:
 ```
