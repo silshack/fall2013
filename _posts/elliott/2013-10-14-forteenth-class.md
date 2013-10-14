@@ -1,6 +1,7 @@
 ---
 author: elliott
 title: Forteenth Class Notes: Local Class site!
+layout: post
 ---
 
 ## Laptops Down Announcements
