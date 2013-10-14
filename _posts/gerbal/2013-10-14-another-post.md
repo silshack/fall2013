@@ -42,7 +42,7 @@ It should look something like this:
 
 Save the file using 'ctrl + o' and 'ctrl + x' to exit.  
 
-Now run 'jekyll serve' and navigate to [http://localhost:4000/fall2013/](http://localhos:4000/fall2013/) and make sure your post looks the way you think it should.
+Now run 'jekyll serve' and navigate to [http://localhost:4000/fall2013/](http://localhost:4000/fall2013/) and make sure your post looks the way you think it should.
 
 If you don't have Jekyll installed you can get it by running:  
 ```bash
