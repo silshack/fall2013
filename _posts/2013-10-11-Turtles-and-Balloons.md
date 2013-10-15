@@ -9,7 +9,8 @@ I first tried some code that resulted in a crazier picture than I was originally
 ![Crazy Turtle Picture](https://lh4.googleusercontent.com/-RC6Gpwkkj3k/UlhbPqYSP-I/AAAAAAAAAWc/Kz5dMiYoaS0/w539-h504-no/Screen+Shot+2013-10-11+at+3.36.44+PM.png"crazy turtle picture")
 
 And here's the code I used for it:
-```python
+```
+python
 
 import turtle
 from turtlehack import *
@@ -46,7 +47,8 @@ Then, I messed around with some of the numbers and got a better picture:
 ![Better Turtle Picture](https://lh5.googleusercontent.com/-SzB0umWli6Q/UlhbPoYSD_I/AAAAAAAAAWY/cjtUwkW6Cc4/w567-h526-no/Screen+Shot+2013-10-11+at+3.40.48+PM.png"better turtle picture")
 
 And the code:
-```python
+```
+python
 
 import turtle
 from turtlehack import *
