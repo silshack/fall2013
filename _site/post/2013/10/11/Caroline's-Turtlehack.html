@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Carolines Post</title>
+        <title>Caroline's Turtlehack</title>
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
@@ -33,22 +33,32 @@
 
                 
 
-<h2>Carolines Post</h2>
+<h2>Caroline's Turtlehack</h2>
 
 <p>
 by Caroline Pate
 </p> <!-- /.byline -->
 
-<p class="meta">26 Aug 2013</p>
+<p class="meta">11 Oct 2013</p>
 
 <div class="post">
-<ul>
-<li>[ ] here</li>
-<li>[ ] is</li>
-<li>[ ] a</li>
-<li>[ ] list</li>
-</ul>
+<p><img src="https://lh3.googleusercontent.com/--wt2U_IdVP4/Ulg1miqTcjI/AAAAAAAAAMk/e094NHv7i-U/w737-h553-no/python_turtlehack.png" alt="my python turtlehack drawing"></p>
+<div class="highlight"><pre><code class="python language-python" data-lang="python"><span class="kn">import</span> <span class="nn">turtle</span>
+<span class="kn">import</span> <span class="nn">random</span>
+<span class="kn">from</span> <span class="nn">turtlehack</span> <span class="kn">import</span> <span class="o">*</span>
+<span class="n">lisa</span> <span class="o">=</span> <span class="n">turtle</span><span class="o">.</span><span class="n">Turtle</span><span class="p">()</span>
 
+<span class="n">size</span> <span class="o">=</span> <span class="mi">50</span>
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">):</span>
+  <span class="n">colored_square</span><span class="p">(</span><span class="n">lisa</span><span class="p">,</span> <span class="n">size</span><span class="p">,</span> <span class="n">random_color</span><span class="p">())</span>
+  <span class="n">size</span> <span class="o">+=</span> <span class="mi">10</span>
+
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">3</span><span class="p">):</span>
+  <span class="n">lisa</span><span class="o">.</span><span class="n">forward</span><span class="p">(</span><span class="mi">75</span><span class="p">)</span>
+  <span class="n">lisa</span><span class="o">.</span><span class="n">left</span><span class="p">(</span><span class="mi">120</span><span class="p">)</span>
+  <span class="n">lisa</span><span class="o">.</span><span class="n">color</span><span class="p">(</span><span class="n">random_color</span><span class="p">())</span>
+  <span class="n">random_circle</span><span class="p">(</span><span class="n">lisa</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">10</span><span class="p">)</span>
+</code></pre></div>
 </div>
 
 <div class="end">
