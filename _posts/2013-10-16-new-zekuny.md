@@ -23,6 +23,8 @@ git remote add upstream http://github.com/silshack/fall2013.git
 Then I open nano and create a new .md file, which is this one. After modifying
 it, I save and exit the nano.
 
+![Image](https://pbs.twimg.com/media/BWtd6PfCMAEIf50.png)
+
 Then I check the status, and there's a untracked file which I just created. I a$
 it to files to be commited. And then commit the file with message. Finally, I c$
 push my new post to Github.
@@ -40,6 +42,8 @@ git commit -m "Added my first command line post"
 git status
 git push origin gh-pages
 ```
+
+![Image](https://pbs.twimg.com/media/BWtd95ECEAAm8SK.png)
 
 It now exists in my own repository on Github. Finally, I send a pull request to
 merge the new post into the main repository.
