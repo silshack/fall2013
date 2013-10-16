@@ -5,14 +5,42 @@ title: "Coursehacker's Class Blog"
 
 <div id="home">
   <ul class="posts">
-    {% for post in site.posts %}
-      {% if {{site.authors[post.author].prof}} == true %}
-        <strong>
-      {% endif %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by {{site.authors[post.author].name}}</li>
-      {% if {{site.authors[post.author].prof}} == true %}
-        </strong>
-      {% endif %}
+     {% for post in site.posts %}
+	{% for authors in post.author %}
+      		{% if {{site.authors[authors].prof}} == true %}
+        	<strong>
+      		{% endif %}
+	{% endfor %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> by 
+		{% assign authorCount = post.author | size %}
+		{% if authorCount == 0 %}
+    
+		{% elsif authorCount == 1 %}
+    			{{ post.author | first }}
+		{% else %}
+    			{% for authors in post.author %}
+        			{% if forloop.first %}
+					{% assign authored = site.authors[authors] %}
+        				{{ authored.name}}
+        			{% elsif forloop.last %}
+        				{% assign authored = site.authors[authors] %}
+        				and {{ authored.name }}
+        			{% else %}
+        				{% assign authored = site.authors[authors] %}
+        				 , {{ authored.name}}
+        			{% endif %}
+    			{% endfor %}
+		{% endif %}
+
+
+
+</li>
+	
+      {% for authors in post.author %}
+      		{% if {{site.authors[authors].prof}} == true %}
+        	</strong>
+      		{% endif %}
+	{% endfor %}
     {% endfor %}
   </ul>
 </div>
