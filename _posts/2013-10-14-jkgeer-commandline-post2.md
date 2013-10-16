@@ -20,7 +20,7 @@ the _posts directory, which you would do by typing 'cd _posts'. Once you're ther
 type ls and you should see whichever posts were present the last time you forked
 the silshack github site to your personal one.
 
-![screenshot2](i.imgur.com/sxf94n6)
+![screenshot2](http://i.imgur.com/sxf94n6)
 
 Now, you need to use the Nano text editor to edit an existing post and change it to
 suit this assignment. To do this you type nano "exact post file name". So for
@@ -28,14 +28,14 @@ instance, I typed "nano 2013-10-14-jkgeer-commandline-post.md". Keep in mind onc
 you've typed far enough on the file name to distinguish it from all other files
 you can press TAB to auto-complete the file title.
 
-![screenshot3](i.imgur.com/6vPpB9m.png)
+![screenshot3](http://i.imgur.com/6vPpB9m.png)
 
 You should see the basic interface of the Nano text editor. Now you're going to 
 include your username, the category and the post title. From there, simply edit
 the content to include what you need to include, then press Ctrl + O to save
 and rename the file to an appropriate name
 
-![screenshot4](i.imgur.com/3lPkvp3.png)
+![screenshot4](http://i.imgur.com/3lPkvp3.png)
 
 At this point you will type 'git status' and see that the file you've just edited
 is 'untracked.' So from here, type "git add 'file name here'. Typing git status again
