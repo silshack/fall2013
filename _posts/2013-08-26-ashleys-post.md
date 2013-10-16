@@ -1,7 +1,8 @@
 ---
 layout: post
 author: abrown
-categories: ashley brown
+categories: post
+published: false
 ---
 
 ###Hey ya###

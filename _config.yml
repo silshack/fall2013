@@ -26,7 +26,7 @@ authors:
       website: http://www.facebook.com/mbbaxter
       github: EmBeeBee
       twitter: MichelleBBaxter
-      about:  Grad student, pop culture enthusiast. Going to get ALL the bonus points!
+      about:  Grad student, pop culture enthusiast.
   abrown:
       name: Ashley Brown
       prof: false
@@ -47,9 +47,8 @@ authors:
       name: Erin Carter
       prof: false
       gravatar:
-      website: 
+      website: http://erinlcarter.com
       github: erincarter
-      twitter:
       about: Erin is a second-year MSIS student. She works at the SILS Help Desk, stop on by!  
   odorsey:
       name: Olivia Dorsey
@@ -172,11 +171,11 @@ authors:
   jpulliza:
       name: Jonathan Pulliza
       prof: false
-      gravatar:
-      website: 
+      gravatar: 
+      website: http://jpulliza.tumblr.com/
       github: jpulliza
-      twitter: 
-      about:  
+      twitter: TriviaNerd86
+      about:  MSIS student. Loves cooking, modular programming and LEGOs.
   kshaffer:
       name: Kyle Shaffer
       prof: false
@@ -206,9 +205,9 @@ authors:
       prof: false
       gravatar:
       website: 
-      github:
+      github: DanielleWingler
       twitter:
-      about:  I am a BSIS student. I am looking forward to learning more about programming. I am still exploring career paths within the information science field.
+      about:  Danielle is a BSIS student. Looking forward to learning more about programming. Still exploring career paths within the information science field.
   zekuny:
       name: Zekun Yu
       prof: false
@@ -217,3 +216,11 @@ authors:
       github: zekuny
       twitter:
       about: Yu is a first year MSIS student. He likes programming and wants to learn more from class.
+  josh:
+    name: Josh Rice
+    prof: false
+    gravatar: 
+    website: 
+    github: joshrice
+    twitter: biorice
+    about: Josh is an MSIS student who plays on the UNC soccer team. 
