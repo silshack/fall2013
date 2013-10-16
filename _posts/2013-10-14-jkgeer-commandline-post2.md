@@ -20,7 +20,7 @@ the _posts directory, which you would do by typing 'cd _posts'. Once you're ther
 type ls and you should see whichever posts were present the last time you forked
 the silshack github site to your personal one.
 
-![screenshot2](http://i.imgur.com/sxf94n6)
+![screenshot2](http://i.imgur.com/sxf94n6.png)
 
 Now, you need to use the Nano text editor to edit an existing post and change it to
 suit this assignment. To do this you type nano "exact post file name". So for
