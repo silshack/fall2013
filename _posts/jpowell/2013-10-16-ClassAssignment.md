@@ -2,7 +2,7 @@
 layout: post
 author: jpowell
 categories: post
-title: First Class Github Local Post
+title: How to post to the class blog from the command line
 ---
 
 # How to post to the class blog from the command line
