@@ -4,6 +4,6 @@ layout:post
 title:first command line post
 ---
 
-## Title
+## Here's my explanation of how to post to our class blog
 
 text
