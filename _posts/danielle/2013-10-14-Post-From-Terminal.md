@@ -11,12 +11,12 @@ Here are the steps you need to perform in order to post from the command line.
 - Install Jekyll and Github-pages
 - Make sure you are running ruby 1.9
 - Clone your version of the class website
-- Make sure origin is your version of the class site & upstream is the actual class  
+- Make sure origin is your version of the class site & upstream is the actual class website  
 - Create your post
 - Add, commit, & view the post locally
 - Push to origin & open pull request
 
-
+I am going to provide further information on the steps I had the most trouble with.
 
 ## Checking to make sure you are running the correct version of ruby
 
@@ -71,7 +71,7 @@ git commit -m "Message about your commit here"
 
 ```
 
-Then you can view your creation locally in your browser by typing:
+Then you can view your creation locally by typing this in your terminal:
 
 ```
 jekyll serve --watch
