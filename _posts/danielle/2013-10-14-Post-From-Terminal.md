@@ -17,6 +17,7 @@ Here are the steps you need to perform in order to post from the command line.
 - Push to Origin & open pull request
 
 
+
 ## Checking to make sure you are running the correct version of ruby
 
 ```
@@ -30,5 +31,24 @@ sudo update-alternatives --config ruby
 Follow the instructions provided to switch to the 1.9 version of ruby.
 
 ![This is my screen shot](http://i.imgur.com/YrdEr9K.png)
+
+
+## After creating the post 
+
+Need to make sure you are in the right directory when creating your post. 
+You can find where you are by typing:
+
+```
+pwd
+
+```
+
+Then type:
+
+```
+cd #The path where you want to be
+
+```
+This will allow you to change around in your directories. 
 
 
