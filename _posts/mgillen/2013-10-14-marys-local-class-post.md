@@ -1,7 +1,7 @@
 ---
-Author: mgillen
-Layout: post
-Title: Mary's Command Line Post
+author: mgillen
+layout: post
+title: Mary's Command Line Post
 categories: post
 published: true
 ---
