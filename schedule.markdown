@@ -107,14 +107,13 @@ Wednesday Sept 4 Readings:
 
 3. Linux Info Project: [Machine code definition](http://www.linfo.org/machine_code.html)
 
-* Homework: Make sure you're making actual posts, roughly once a week
-
 * Homework: Vocab show & tell
 
+* In-Class Exercise: Hands on with Code
+
+* In-Class Exercise: Blog about the relationship between Assembly and Python
+
 * In-Class: VirtualBox check-in.  
-
-* In-Class Exercise: Hands on with Python Code in Ubuntu
-
 
 ### Week 4: Reading Code; Data in Programs
 
@@ -202,8 +201,6 @@ Monday Sept 23rd: Read up on lists and dicts
 
 4. Software Carpentry: [Data Storage: Sets and Dicts](http://software-carpentry.org/v4/python/basics.html)
 
-* In-Class Exercise: ThinkPython: [Using data structures](http://www.greenteapress.com/thinkpython/html/thinkpython014.html)
-
 * In-Class: Slicing & dicing data.  Codingbat.com
 
 * In-Class: Solve a problem in comments, then implement.  Pair programming
@@ -212,7 +209,7 @@ Monday Sept 23rd: Read up on lists and dicts
 
 Wednesday Sept 23rd: Read up on loops
 
-1. PythonTutor: Flow of Control Visualization
+1. PythonTutor: [Flow of Control Visualization](http://www.pythontutor.com/) - Visualize some simple programs to see how they work.
 
 2. Review ThinkPython Ch. 5: [Conditionals and Recursion](http://www.greenteapress.com/thinkpython/html/thinkpython006.html)
 
@@ -221,6 +218,8 @@ Wednesday Sept 23rd: Read up on loops
 * In class: Looping over lists.  Codingbat.com
 
 * In-Class: solve a problem with comments, then implement.  Pair programming.
+
+* **Extra-Credit Exercises**: ThinkPython: [Using data structures](http://www.greenteapress.com/thinkpython/html/thinkpython014.html) An extra point on your final grade for a Github post with exercises 1-4 completed.  Due Friday.
 
 * Check-in: Meetups
 
@@ -232,13 +231,13 @@ Monday Sept 30th - I/O and intro to Libraries
 
 1. Software Carpentry - [Input/Output](http://software-carpentry.org/v4/python/io.html)
 
-2. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style.html)
+2. Revisit Hitchhiker’s Guide to Python: [Code Style](http://docs.python-guide.org/en/latest/writing/style/)
 
 3. Skim over some intro docs for popular Python Web Frameworks: [Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/1.4-branch/narr/firstapp.html), [Flask](http://flask.pocoo.org/docs/quickstart/), and [Django](https://docs.djangoproject.com/en/dev/intro/tutorial01/).  Django is the most in-depth of these, and the most robust.
 
 * In-Class: Input/Output exercise
 
-* In-Class: Review some common python libraries.  Focus on documentation, initial testing, beginning use
+* In-Class: Command line: pip.  Review some common python libraries.  Focus on documentation, initial testing, beginning use
 
 Wednesday Oct 2nd: Libraries, Catch up, Synthesis
 
@@ -248,9 +247,7 @@ Wednesday Oct 2nd: Libraries, Catch up, Synthesis
 
 * In-Class exercise: Contribution Guidelines for our class website.
 
-2. There are lots of blog posts out there [like this one](http://doda.co/7-python-libraries-you-should-know-about) where authors talk about favorite modules/libraries/frameworks.  Find some and share!
-
-* In-Class exercise: Learn sane naming and commenting by fixing an insane program
+* In-Class exercise: Command line git commiting
 
 * Post: Exciting libraries or frameworks you might want to use 
 
@@ -260,7 +257,7 @@ Monday Oct 7th: Terminal Text Editors - Nano, Vim, and Emacs
 
 1. Reading: [Vim after 11 years](http://statico.github.io/vim.html)
 
-2. Reading: TBD Emacs
+2. Reading: [My Emacs Workflow](http://blog.zenspider.com/blog/2012/06/my-emacs-workflow.html)
 
 * In class: Use and customize Nano
 
@@ -268,11 +265,17 @@ Monday Oct 7th: Terminal Text Editors - Nano, Vim, and Emacs
 
 * In class: Use and customize Emacs
 
+* In class: More command line git
+
 Wednesday Oct 9th: Graphical Text Editors - IDLE, SublimeText, Eclipse, others?
 
 * In-Class: Voluntary demos
 
 * In-Class: Picking your favorite text editor
+
+* In-class: More command line git
+
+Guest Speaker: Eric Martindale
 
 ### Week 9: Problem Solving with Libraries and Frameworks
 
@@ -281,6 +284,8 @@ Problem solving with code, but better. Guests.
 Monday Oct 14th:
 
 * Pygame
+
+* Locally build Jekyll
 
 * Homework: Library show & tell
 
@@ -311,6 +316,8 @@ Wednesday Oct 23rd: Other languages and technology: Ruby, Java, HTML, CSS, Javas
 * Reading: Interview with Yukihiro Matsumoto - [Ruby's Design Philosophy](http://www.artima.com/intv/ruby4.html)
 
 * Reading: Interview with Bjarne Stroustrup - [Elegance and other Design Ideals](http://www.artima.com/intv/elegance.html).  Stroustrup invented C++ in the 70s and 80s.
+
+* Guest Speaker: Jeff Heard, RENCI
 
 * In-class: Brainstorm 3 project ideas & lightning talks
 
