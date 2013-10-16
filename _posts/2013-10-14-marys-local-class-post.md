@@ -1,0 +1,1 @@
+This is my first attempt at posting from the command line. So far, so good... While it does seem easier to manipulate, I feel that working off the command line can get overwhelming because of the vast amount of text we're working with and the jargon of the language. Anyway, this is my attempt so let's hope this posts correctly!
