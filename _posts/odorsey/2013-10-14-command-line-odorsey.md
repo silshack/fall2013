@@ -51,4 +51,5 @@ After a few edits, I used "git push origin gh-pages" in order to move my post to
 
 I'm excited to see how else one can interact with the terminal and localhost to test and develop websites now! Here
 is my final result:
+
 ![Command Line Screenshot](http://img843.imageshack.us/img843/2772/zq7q.jpg)
