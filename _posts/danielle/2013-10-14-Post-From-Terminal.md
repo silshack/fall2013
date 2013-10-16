@@ -14,7 +14,7 @@ Here are the steps you need to perform in order to post from the command line.
 - Make sure origin is your version of the class site & upstream is the actual class  
 - Create your post
 - Add, commit, & view the post locally
-- Push to Origin & open pull request
+- Push to origin & open pull request
 
 
 
@@ -52,3 +52,42 @@ cd #The path where you want to be
 This will allow you to change around in your directories. 
 
 
+Once your post is written and saved.
+
+You can type this:
+
+```
+git status
+
+#This should show the changes made in red
+
+git add #Name of post here
+
+git status
+
+#Changes should now show up in green
+
+git commit -m "Message about your commit here"
+
+```
+
+Then you can view your creation locally in your browser by typing:
+
+```
+jekyll serve --watch
+
+```
+This will some times come up with errors for me. I wait a little bit and make sure that my post is correct in markdown. Then I try it again.
+It has worked for me around the second or third attempt, even if I didn't need to change anything in my post.
+
+Open your browser and type in this address: http://localhost:4000/fall2013/
+
+If it shows up and looks right, then it is ready to be pushed to the origin, which is your version of the class site on github.
+
+```
+git push origin gh-pages
+
+```
+Then you go to the github site and create a pull request for your commit.
+
+That's it!
