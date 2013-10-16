@@ -12,7 +12,7 @@ EDIT (10/16): So, the first attempt was successful! Now, let's explain what happ
 
 Our first step is to clone our class blog using git repo. Elliott's instructions are very clear cut and make this process easy. Thanks to Grant, we know that in basic English what we're doing is adding the master repository and making sure everything is merged into our personal branch. Our second step is to create the actual post, which is what I'm writing right this moment (so meta). This is easy, but it's important to remember to use the same formatting we would use if we created the post directly on Github. Once we've saved our post, the last step is committing our changes and pushing them to the website. Elliott and Grant have both documented this using code, so I would check out their pages if you need some help!
 
-![My code](URL)
+![My code](http://i.imgur.com/ZXXvrEw.png)
 
 That's it! Pretty easy. While a bit scary at first, once you get into it, the process is simple and clear cut. Good luck!
 
