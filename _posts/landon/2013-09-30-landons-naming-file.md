@@ -6,6 +6,7 @@ categories: posts
 
 
 ```
+
 def add_names(list_of_names, file):
   """
   Opens and adds a list of names to the end of a file, each on its own line
