@@ -11,3 +11,6 @@ That being said, I made some mistakes in doing the post.  My first mistake was t
 
 Q: So I was wondering, how do you softwrap the text in the Git Command line os that the sentence does not just keep going and going in the window?  
 
+Here's a screenshot of my process!
+
+<img src="http://i.imgur.com/ZEx98Hd.png">
