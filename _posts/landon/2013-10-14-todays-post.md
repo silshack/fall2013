@@ -24,3 +24,5 @@ After saving the file I checked its status using `git status`. I saw that my rec
 ![first command line post](http://landonandjana.files.wordpress.com/2013/10/first-command-line.png?w=500&h=375) 
 
 Here I thought I was done, but I was not. I looked at my view of the course blog and couldn't see the changes that I had made. I couldn't figure out why until I read Jaleesa's post. I had forgotten to `git push` my repository. My classmates offer the solution again.
+
+One more change, to make this tedious, unedited post even more tedious. I was having trouble pushing my changes to github when I looked at Ashley's post. I had forgotten to push to `origin gh-pages`. I had to pull in some unrelated changes I had made on github before I could push this file, but that was quickly done.
