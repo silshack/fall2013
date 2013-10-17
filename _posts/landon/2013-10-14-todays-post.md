@@ -22,3 +22,5 @@ After saving the file I checked its status using `git status`. I saw that my rec
 
 
 ![first command line post](http://landonandjana.files.wordpress.com/2013/10/first-command-line.png?w=500&h=375) 
+
+Here I thought I was done, but I was not. I looked at my view of the course blog and couldn't see the changes that I had made. I couldn't figure out why until I read Jaleesa's post. I had forgotten to `git push` my repository. My classmates offer the solution again.
