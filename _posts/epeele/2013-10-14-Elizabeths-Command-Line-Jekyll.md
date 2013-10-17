@@ -10,7 +10,7 @@ This is the first time I have posted from the command line.  I have used the com
 
 Overall, the process has been informative.  I'm still trying to completely wrap my head around what the vocabulary does in the command line.  My biggest worry is accidentally breaking the site.  The command line just seems so much more intimidating than working with normal files.  Although, I do feel like I'm playing War Games everytime I do something, which is awesome.
 
-I had already closed one of my terminal by the time I took the screenshot, so it's not very informative, but here it is.
+I had already closed one of my terminals by the time I took the screenshot, so it's not very informative, but here it is.
 
 
 ![Command Line](http://www.unc.edu/~epeele/file/peele_commandline.png)
