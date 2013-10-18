@@ -5,7 +5,6 @@ markdown: redcarpet
 baseurl: /fall2013
 url: 
 
-
 course:
   title: Programming for Information Professionals
   number: INLS 560
