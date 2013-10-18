@@ -4,6 +4,7 @@ markdown: redcarpet
 
 baseurl: /fall2013
 url: 
+paginate: 50
 
 course:
   title: Programming for Information Professionals
