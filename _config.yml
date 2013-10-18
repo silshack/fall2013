@@ -4,7 +4,8 @@ markdown: redcarpet
 
 baseurl: /fall2013
 url: 
-paginate: 50
+paginate: 40
+paginate_path: "fall2013/page:num"
 
 course:
   title: Programming for Information Professionals
