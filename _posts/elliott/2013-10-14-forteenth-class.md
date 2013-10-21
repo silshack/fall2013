@@ -106,5 +106,4 @@ Open a pull request by comparing your `gh-pages` branch on github.com with the s
 You're done for now.  The exercise below will have you modify, save, add, commit, and push an update to your post.  This new commit with automatically show up on your existing pull request.  You can then comment to indicate it's ready for review.  Please do so before the deadline of midnight tonight..
 
 ## Exercise: A post-from-the-command-line post, with screenshots
-
 Your post should explain in your own words what the process of posting or our class blog from the command line.  Bonus points for screenshots and correct code blocking. This is due by the end of the day **Wednesday**.
