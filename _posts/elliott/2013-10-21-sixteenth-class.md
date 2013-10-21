@@ -101,3 +101,7 @@ And push our commits
 ```
 git push origin gh-pages
 ```
+
+## Exercise Due by Monday
+
+Open an **Issue** in our silshack fall2013 repo with a link to your new Jekyll repo by midnight tonight.
