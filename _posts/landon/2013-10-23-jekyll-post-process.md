@@ -27,4 +27,4 @@ git push origin gh-pages
 (enter password)
 ```
 
-Magically, I could go to [landongrindheim.github.io/jekyllblog] and see what I had done, before doing a single thing on the github site itself.
+Magically, I could go to [my site](landongrindheim.github.io/jekyllblog) and see what I had done, before doing a single thing on the github site itself.
