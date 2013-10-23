@@ -84,5 +84,5 @@ Resources include
 
 Here's what the output looks like for me:
 
-![Scraper screenshot]({{ site.baseurl }}/fall2013/scraperOutput.png)
+![Scraper screenshot]({{ site.baseurl }}/scraperOutput.png)
 
