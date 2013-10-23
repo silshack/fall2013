@@ -13,5 +13,5 @@ Once the site was created and I viewed the page, I saw that the css was not work
 
 After that was working, I wanted to play around with the css -- especially the colors. I love how colors are represented in number and letter form. I went in and put in random values for all the nice simple values like #ddd that were contained in the original css. The following is what I ended up with!
 
-[Screen shot 1] !(https://lh5.googleusercontent.com/-LNkgX24drog/UmfKutcizcI/AAAAAAAADKc/JmvAP5GvDSY/w637-h358-no/Screen+Shot+2013-10-23+at+9.10.00+AM.png)
-[Screen shot 2] !(https://lh5.googleusercontent.com/-W86MzPfpwX8/UmfKuoDWGII/AAAAAAAADKY/v-Urfya-8sA/w637-h358-no/Screen+Shot+2013-10-23+at+9.09.57+AM.png)
+![Screen shot 1](https://lh5.googleusercontent.com/-LNkgX24drog/UmfKutcizcI/AAAAAAAADKc/JmvAP5GvDSY/w637-h358-no/Screen+Shot+2013-10-23+at+9.10.00+AM.png)
+![Screen shot 2](https://lh5.googleusercontent.com/-W86MzPfpwX8/UmfKuoDWGII/AAAAAAAADKY/v-Urfya-8sA/w637-h358-no/Screen+Shot+2013-10-23+at+9.09.57+AM.png)
