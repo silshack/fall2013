@@ -194,4 +194,15 @@ ul.posts span {
   background-color: #333;
 }
 
+.aa {
+color: white;
+font-size: 20px;
 
+padding: 20px;
+border-style: solid;
+border-color: blue;
+border-radius: 5px;
+margin-right: 3px;
+margin-left: 3px;
+margin-top: -8px;
+}
