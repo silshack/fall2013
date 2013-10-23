@@ -44,5 +44,5 @@ git push origin gh-pages
 ```
 
 My Jekyll site is located here: http://odorsey.github.io/mysite/
-I can't wait to play around some more with the CSS and see how I can create new layouts!
+I can't wait to play around some more with the CSS and create new layouts!
 ![My First Jekyll site](http://img201.imageshack.us/img201/7043/sri7.jpg "My First Jekyll Site")
