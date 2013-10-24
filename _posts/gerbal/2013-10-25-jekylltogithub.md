@@ -79,7 +79,7 @@ becomes
             <a class="extra" href="{{"{{site.baseurl"}}}}/">home</a>
 ```
 
-Now run `jekyll serve` in jekyll directory and go to [localhos:4000/sitename/](http://127.0.0.1:4000/sitename/) and you should see your jekyll site with all the pretty styles working.
+Now run `jekyll serve` in jekyll directory and go to [localhost:4000/sitename/](http://127.0.0.1:4000/sitename/) and you should see your jekyll site with all the pretty styles working.
 
 Now commit your changes and push them to github.
 
