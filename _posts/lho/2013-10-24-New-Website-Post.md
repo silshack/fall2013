@@ -22,3 +22,7 @@ So I didn't have any problems updating my website or adding a website thank good
 7.  After I checked the site to make sure it was okay on my local Jekyll server, I then added my new repository as a remote: ```git remote add origin https://github.com/leslieho/mysite``` and then I pushed the changes to the site: ```git push origin gh-pages```
 
 8. After doing all of this, I then updated config.yml file to add the base url information ```baseurl: /mysite``` and updated the index.html with my contact information.
+
+Here's my screenshot: 
+<img src="http://i.imgur.com/aXFsHc3.png">
+
