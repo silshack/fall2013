@@ -26,6 +26,6 @@ Finally, you can add and push your commits of your repo as a remote by typing <c
 
 After all of this, you then need to go to github.com to make changes to the css.
 
-First, go to <code>mysite/index.html</code> and here add in <code>{{ site.baseurl }}/</code> to the line of code that says <code><a href="{{ post.url }}"</code>.  The spaces in there make it easier for people to read, so while not 100% necessary, it is good coding practice.  (Thanks for the tip Elliott and Grant!)).  Then, go to <code>_config.yml</code> to add a line that states <code>baseurl:  /{name of your site}</code> underneath the name, markdown, and pygments categories.
+First, go to <code>mysite/index.html</code> and here add in <code>{{ site.baseurl }}/</code> to the line of code that starts with a href=.  The spaces in there make it easier for people to read, so while not 100% necessary, it is good coding practice.  (Thanks for the tip Elliott and Grant!)).  Then, go to <code>_config.yml</code> to add a line that states <code>baseurl:  /{name of your site}</code> underneath the name, markdown, and pygments categories.
 
 From here, you should be able to play with the css and continue growing your own repo.  Have fun!
