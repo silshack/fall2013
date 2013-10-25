@@ -50,6 +50,6 @@ And finally push those commits!
 git push origin gh-pages
 ```
 
-My Jekyll site is located here: http://odorsey.github.io/mysite/
+My Jekyll site is located [here](http://odorsey.github.io/mysite/)
 
 ![My First Jekyll site](http://img201.imageshack.us/img201/7043/sri7.jpg "My First Jekyll Site")
