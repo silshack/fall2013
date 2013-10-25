@@ -1,3 +1,9 @@
+---
+layout: post
+author: carolinp
+categories: post 
+---
+
 Hey there!
 So here's how I setup my Jekyll blog. You can take a look at the real live thing at http://www.carolinp.github.io/mysite
 
