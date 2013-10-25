@@ -7,15 +7,15 @@ categories:  post
 
 To make a Jekyll site, the first thing you need to do is open the terminal.  Then, once you have opened the terminal, it might be a good idea to go ahead and run a <code>git pull upstream gh-pages</code> to refresh everything you've done on github so far.  While this may be a new site, it's good to get into the practice so that you don't accidentally create a clone and then can't figure why things won't merge until your very helpful professor has to walk you through the problem.  Not that that happened or anything.
 
-Moving on, to actually built a Jekyll site you will need to type <code>jekyll new {name of your site}.  Then, you need to change the directory you are working in by typing <code>cd {name of your site}</code>.  This will move you into the directory for your new site.  You can check to see what is in there by typing <code>ls</code>.  You can see what this will look like by the picture of terminal when I ran this command.
+Moving on, to actually build a Jekyll site you will need to type <code>jekyll new {name of your site}</code>.  Then, you need to change the directory you are working in by typing <code>cd {name of your site}</code>.  This will move you into the directory for your new site.  You can check to see what is in there by typing <code>ls</code>. 
 
 Once this is done, you need to make a new git repo.  To do this, type <code>git init</code>.  Since this repo will not have commits, you will make a commit to it now.  Type <code>git add .</code> to add the files and then <code>git commit -m "{insert your own message here}"</code> to commit them.
 
-Then, for a very important step, you are going to want to make sure that you have a .gitignore file that will cause git to ignore your <code>_site/</site> files.  To do this, type <code>nano .gitignore</code> and add <code>_site/</code>.  
+Then, for a very important step, you are going to want to make sure that you have a .gitignore file that will cause git to ignore your <code>_site/</code> files.  To do this, type <code>nano .gitignore</code> and add <code>_site/</code>.  
 
 To commit this, we need to go through the same process we did before, type <code>git add .gitignore</code> and then <code>git commit -m "Ignore _site/ directory"</code>.  
 
-This is a very important step, so to ensure that you have completed it properly, type <code>git status</code> to check that no <code>_site/</code> files are there.  If there are, you will to check to see if you had a previous error for why it didn't work, or post a question somewhere and ask what is going on.
+This is a very important step, so to ensure that you have completed it properly, type <code>git status</code> to check that no <code>_site/</code> files are there.  If there are, you will need to check to see if you had a previous error for why it didn't work, or post a question somewhere and ask what is going on.
 
 Now, in order for your pages to show up online, we're going to rename the default branch from <code>master</code> to <code>gh-pages</code>.  I repeat, it needs to be renamed to <code>gh-pages</code>.  Renaming it to <code>gh-page</code> means you will have to go back and delete it later on.  To do this change, type <code>git branch -m master gh-pages</code>.
 
