@@ -5,9 +5,7 @@ categories: post
 title: Making a Jekyll Site
 ---
 
-My Jekyll site [My Jekyll site](http://ans729.github.io/mysite/)
-
-![My Jekyll Site](http://farm3.staticflickr.com/2852/10476612455_6642653edd_s.jpg)
+[My Jekyll site](http://ans729.github.io/mysite/)
 
 
 To set up a new Jekyll site, open a new terminal and type:
