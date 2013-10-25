@@ -38,7 +38,7 @@ git add .
 
 Commit changes and change branches:
 
-``
+```
 git commit -m "Added new Jekyll site"
 git branch - m master gh-pages
 git add remore origin https://github.com/[username]/[sitename].git
