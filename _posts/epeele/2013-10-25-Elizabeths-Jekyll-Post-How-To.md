@@ -22,3 +22,10 @@ Now, in order for your pages to show up online, we're going to rename the defaul
 Penultimately, you need to go to Github.com and create a new repository by clicking the "new repository" button.  It should be the one that looks like a notebook with a plus sign on that is to the right of your name on the top right part of your screen.  Name the repo the same thing you called your jekyll site.  Please don't check the box that creates a README.
 
 Finally, you can add and push your commits of your repo as a remote by typing <code>git remote add origin https://github.com/{your-username}/mysite</code> and then <code>git push origin gh-pages</code>.   
+
+
+After all of this, you then need to go to github.com to make changes to the css.
+
+First, go to <code>mysite/index.html</code> and here add in <code>{{ site.baserul }}/</code> to the line of code that says <code><a href="{{ post.url }}</code>  The spaces in there make it easier for people to read, so while not 100% necessary, it is good coding practice.  (Thanks for the tip Elliott and Grant!)).  Then, go to <code>_config.yml</code> to add a line that states <code>baseurl:  /{name of your site}</code> underneath the name, markdown, and pygments categories.
+
+From here, you should be able to play with the css and continue growing your own repo.  Have fun!
