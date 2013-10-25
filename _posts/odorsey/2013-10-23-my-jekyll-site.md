@@ -1,3 +1,10 @@
+---
+layout: post
+author: odorsey
+categories: post
+title: My Jekyll Site
+---
+
 In order to create a new Jekyll site, first open up a Terminal in Ubuntu. Then type in the following to create a new site:
 ```
 jeykll new sitenamehere
