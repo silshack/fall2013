@@ -10,58 +10,34 @@ How to make a jekyll site (with the assumption its already installed). Also for 
 
 ### Make a Site
 
-1) 
-```
-jekyll new ashleysite
-```
+1) `jekyll new ashleysite`
 (Creates new site)
 
-2) 
-```
-cd ashleysite
-```
+2) `cd ashleysite`
 (change directory into your new site)
 
 
 ### Make a git repository
 
-3) 
-```
-git init
-```
+3) `git init`
 (init = initialize, and it makes a new repository that has a clean slate.)
 
-4)
-```
-git add .
-```
+4)`git add .`
 (this adds files to your repository)
 
-5)
-```
-git commit -m "Added Ashleysite"
-```
+5)`git commit -m "Added Ashleysite"`
 
-# Make sure you did it right!
+### Make sure you did it right!
 
-6) 
-```
-git status
-```
+6) `git status`
 (shows the status of your repository; make sure no `_site/` files are there).
 
-7)
-```
-jekyll serve --watch
-```
+7)`jekyll serve --watch`
 ( this will make sure the site updates correctly)
 
 ### Time for making this site github ready (ps... and this is embarrassing, but I just realized gh-pages stood for sithub pages...wow...lame.)
 
-8)
-```
-git branch -m master gh-pages
-```
+8)`git branch -m master gh-pages`
 (this changes the name of the master branch into a branch name that github will recognize)
 
 
@@ -75,29 +51,21 @@ git branch -m master gh-pages
 
 ### Go back to the terminal and push this bad boy through...
 
-12) 
-```
-git remote add origin https://github.com/{ashmbrown}/ashleysite
-```
+12) `git remote add origin https://github.com/{ashmbrown}/ashleysite`
 (adds your jekyll repository to github)
 
-13) 
-```
-git push origin gh-pages
-```
+13) `git push origin gh-pages`
 (this pushes the commits to github)
 
 ### Celebrate! And check out your post...
 
 14) Realize it looks ugly. Shoot.
+
 15) Frown
 
 ### Fix it by adding CSS styling
 
-16) In the terminal:
-``` 
-cd ashleysite
-```
+16) In the terminal:` cd ashleysite`
 (naviagtes to ashleysite)
 
 17) keep navigating until you get to ashleysite/_layouts/default.html
@@ -111,8 +79,11 @@ cd ashleysite
 <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 ```
 19) Check out your work again and see your page magically change... oh wait, no shoot. Still a not so pretty page.
+
 20) Look over what your classmates did and try to figure it out.
+
 21) Realize people have been making changes to their config file.
+
 22) Make the following addition to your config file:
 ```
 baseurl: /ashleysite
