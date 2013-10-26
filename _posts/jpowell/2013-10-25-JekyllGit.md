@@ -68,7 +68,7 @@ This sort of brings me to the role default layouts play in this situation, since
 
 The layouts specified here actually live in the _layouts directory.
 
-![Where the layouts directory lives]()
+![Where the layouts directory lives]({{ site.baseurl }}/files/jpowell/layoutsdir.png)
 
 Any changes you make to the "post" layout will show up on every single post you make, as long as you specify this layout in the header as illustrated above. Any changes you make to the "default" layout will show up on any page on the entire site, unless you create a page that specifies a different base layout. How does this work? Well, even the layouts can specify layout types!
 
@@ -102,7 +102,7 @@ border-radius: 20px; margin-top: 9em;
 
 And now this is what the posts look like:
 
-![Unique posts]({{ site.baseurl }}/files/jpowell/uniquePost.png)
+![Unique posts]({{ site.baseurl }}/files/jpowell/uniquepost.png)
 
 Now that you have all of the elements figured out to change the look of your Jekyll site, you might want to host it so that others can access your site on the web. This is where Github comes in. For this particular project, Github will be my host.
 
