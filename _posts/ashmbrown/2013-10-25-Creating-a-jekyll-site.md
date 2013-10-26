@@ -6,12 +6,12 @@ title: Creating a Jekyll Site (and how many times can I misspell Jekyll?)
 
 So, I made a list for the command line post, which I have found super useful, so I am going to do the same thing here but try to jazz it up a bit.
 
-How to make a jekyll site (with the assumption its already installed). Also for the sake of this example, 'ashleysite' is what I named my blog, but it can be whatever name I want my blog to be called...
+Here's how to make a jekyll site (with the assumption it's already installed). Also for the sake of this example, 'ashleysite' is what I named my blog, but it can be whatever name I want my new jekyll site to be called...
 
 ### Make a Site
 
 1) `jekyll new ashleysite`
-(Creates new site)
+(creates new site)
 
 2) `cd ashleysite`
 (change directory into your new site)
@@ -47,7 +47,7 @@ How to make a jekyll site (with the assumption its already installed). Also for 
 
 10)Click "New Repository"
 
-11) Name is "Ashleysite" (same name as one created in commandline)
+11) Name is "ashleysite" (same name as one created in commandline)
 
 ### Go back to the terminal and push this bad boy through...
 
