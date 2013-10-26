@@ -1,5 +1,5 @@
 ---
-title: If you build it, your ghost daddy won't play baseball in your cornfield, but you will havea a webpage.
+title: If you build it, your ghost daddy won't play baseball in your cornfield, but you will have a webpage.
 author: smantooth
 layout: post
 categories: post
