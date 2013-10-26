@@ -8,7 +8,7 @@ So, I made a list for the command line post, which I have found super useful, so
 
 How to make a jekyll site (with the assumption its already installed). Also for the sake of this example, 'ashleysite' is what I named my blog, but it can be whatever name I want my blog to be called...
 
-# Make a Site
+### Make a Site
 
 1) 
 ```
@@ -23,7 +23,7 @@ cd ashleysite
 (change directory into your new site)
 
 
-# Make a git repository
+### Make a git repository
 
 3) 
 ```
@@ -56,7 +56,7 @@ jekyll serve --watch
 ```
 ( this will make sure the site updates correctly)
 
-# Time for making this site github ready (ps... and this is embarrassing, but I just realized gh-pages stood for sithub pages...wow...lame.)
+### Time for making this site github ready (ps... and this is embarrassing, but I just realized gh-pages stood for sithub pages...wow...lame.)
 
 8)
 ```
@@ -65,7 +65,7 @@ git branch -m master gh-pages
 (this changes the name of the master branch into a branch name that github will recognize)
 
 
-#Now it's time for github to enter stage left...
+### Now it's time for github to enter stage left...
 
 9) Go to [github.com](github.com).
 
@@ -73,7 +73,7 @@ git branch -m master gh-pages
 
 11) Name is "Ashleysite" (same name as one created in commandline)
 
-# Go back to the terminal and push this bad boy through...
+### Go back to the terminal and push this bad boy through...
 
 12) 
 ```
@@ -87,12 +87,12 @@ git push origin gh-pages
 ```
 (this pushes the commits to github)
 
-# Celebrate! And check out your post...
+### Celebrate! And check out your post...
 
 14) Realize it looks ugly. Shoot.
 15) Frown
 
-# Fix it by adding CSS styling
+### Fix it by adding CSS styling
 
 16) In the terminal:
 ``` 
