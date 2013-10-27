@@ -9,7 +9,7 @@ This week, we created a new jekyll site from the terminal. I was surprised by ho
 
 It was also a good to create another github repository for this site. A review on setting the origin and master branches was great to reinforce the setting up the basics. 
 
-Once the site was created and I viewed the page, I saw that the css was not working properly. To fix it, I had to add a reference to the proper directory within the index to refer to the proper location. Thanks '''baseurl''' made all the difference. 
+Once the site was created and I viewed the page, I saw that the css was not working properly. To fix it, I had to add a reference to the proper directory within the index to refer to the proper location. Thanks "baseurl" made all the difference. 
 
 After that was working, I wanted to play around with the css -- especially the colors. I love how colors are represented in number and letter form. I went in and put in random values for all the nice simple values like #ddd that were contained in the original css. The following is what I ended up with!
 
