@@ -71,13 +71,17 @@ Here's how to make a jekyll site (with the assumption it's already installed). A
 17) keep navigating until you get to ashleysite/_layouts/default.html
 
 18) Once that file is open, change it so the following sentences read as follows:
+
 ```
+
 <!-- syntax highlighting CSS -->
  <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
 
 <!-- Custom CSS -->
 <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+
 ```
+
 19) Check out your work again and see your page magically change... oh wait, no shoot. Still a not so pretty page.
 
 20) Look over what your classmates did and try to figure it out.
