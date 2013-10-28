@@ -26,7 +26,7 @@ Now it's important to change your master branch to gh-pages, at least the name. 
 Now you want to connect your command line site to your newly created Git, so type git remote add origin https://github.com/{yourgitsite}/mysite 
  then push your commits to gitHub by typing the following: 'git push origin gh-pages'
  
- Check out http://[yourgithubusername].github.io/mysite/ and you should see your github site
+ Check out http://yourgithubusername.github.io/mysite/ and you should see your github site
  
  Now you'll notice your website looks horrible. You can do this from github or from the command line, I did it from github
  for ease, so navigate to your layouts -> default.html file and add /fall2013 to the beginning of all existing links.
