@@ -33,6 +33,6 @@ Now you want to connect your command line site to your newly created Git, so typ
  
  Then go to _config.yml and add 'baseurl: /mysite' to the bottom of the file and your site should look more like this:
  
- ![](http://i.imgur.com/ipQin08.png)
+ ![](http://i.imgur.com/t35DGZR.png)
  
  Congratulations! You've made a jekyll site
