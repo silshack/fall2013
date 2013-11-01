@@ -64,11 +64,11 @@ It will prompt you for pi's password. Enter that, and you'll be in :).
 
 I was curious about whether or not the pi could serve a jekyll page, so I installed ruby and jekyll and served a page. It works just fine, though the installation was painfully slow. I also had to use sudo a time or two more than I remember having to do it on my own computer, but that could just have something to do with the fact that it was the library's pi and not my own.
 
-![Serve a page in jekyll]({{ site.baseurl }}/files/midoriJekyll.png)
+![Serve a page in jekyll]({{ site.baseurl }}/files/jpowell/midoriJekyll.png)
 
 I also wanted to see what the games would be like. Also painfully slow, but it works!
 
-![Play a game]({{ site.baseurl }}/_site/files/actuallyPlaying)
+![Play a game]({{ site.baseurl }}/_site/files/jpowell/actuallyPlaying.png)
 
 Play around. Explore. You've now become one with your pi :).
 
