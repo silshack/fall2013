@@ -68,7 +68,7 @@ I was curious about whether or not the pi could serve a jekyll page, so I instal
 
 I also wanted to see what the games would be like. Also painfully slow, but it works!
 
-![Play a game]({{ site.baseurl }}/_site/files/jpowell/actuallyPlaying.png)
+![Play a game]({{ site.baseurl }}/files/jpowell/actuallyPlaying.png)
 
 Play around. Explore. You've now become one with your pi :).
 
