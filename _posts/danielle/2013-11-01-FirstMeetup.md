@@ -11,14 +11,27 @@ The group who hosted this meeting is part of a bigger group called TriDug. There
 This group mostly consisted of professionals who were looking to exchange information about drupal and getting possible ideas for solutions for problems they were already dealing with.
 The was welcoming, but focused more for people who were already using drupal.
 
-This meeting was dedicated for covering the fundamentals of hooks in drupal. Hooks are specially named functions within drupal. 
+This meeting was dedicated to covering the fundamentals of hooks in drupal. Hooks are specially named functions within drupal. 
 The biggest problem people were running into was the lack of documentation for drupal. Much of the newer api information was said to be outdated or simply not filled out. 
 
 Drupal is written in PHP.  
 
+There was also discussion on text editors. 
+Most individuals there was using vim, but sublime and geany was brought up. 
+Syntax highlighting was said to be the most important part of the text editor.
+
 
 Resources mentioned at the meeting:
 
-[This is the drupal site.] (https://drupal.org/)
+[This is the drupal site](https://drupal.org/)
+
 [API for drupal](https://api.drupal.org/api/drupal)
+
 [Drupal contribution community](http://drupalcontrib.org/api/drupal/7)
+
+[Geany website](http://www.geany.org/)
+
+[Sublime website](http://www.sublimetext.com/)
+
+
+
