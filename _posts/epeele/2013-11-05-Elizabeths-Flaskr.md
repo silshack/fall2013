@@ -31,7 +31,7 @@ In my templates/layout.html
 
 <!doctype html>
 <title>Flaskr</title>
-<link rel=stylesheet type=text/css href="(( url_for('static', filename='style.css') ))">
+<link rel=stylesheet type=text/css href="((url_for('static', filename='style.css') ))">
 <div class=page>
   <h1>Flaskr</h1>
   <div class=metanav>
@@ -44,7 +44,7 @@ In my templates/layout.html
   {% endif %}
   </div>
   {% for message in get_flashed_messages() %}
-    <div class=flash>{ { message } }</div>
+    <div class=flash>(( message ))</div>
   {% endfor %}
   {% block body %}  {% endblock %}
 </div>
