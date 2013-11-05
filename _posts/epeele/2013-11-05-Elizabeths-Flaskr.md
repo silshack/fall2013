@@ -1,5 +1,5 @@
 ---
-title: Elizabeth's Attempt at Flaskr
+title: Elizabeth's Flaskr
 layout: post
 author: epeele
 categories: post
