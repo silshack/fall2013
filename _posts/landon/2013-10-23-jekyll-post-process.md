@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 author: lgrindheim
 title: Jekyll Post Process
 categories: post
