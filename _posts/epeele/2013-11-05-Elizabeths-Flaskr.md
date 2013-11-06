@@ -7,7 +7,7 @@ categories: post
 
 In my flaskr.py
 
-```python
+```
 
 @app.route('/logout')
 def logout():
@@ -28,7 +28,7 @@ def about():
 In my templates/layout.html
 
 ```python
-
+{% raw %}
 <!doctype html>
 <title>Flaskr</title>
 <link rel=stylesheet type=text/css href="((url_for('static', filename='style.css') ))">
@@ -48,5 +48,5 @@ In my templates/layout.html
   {% endfor %}
   {% block body %}  {% endblock %}
 </div>
-
+{% endraw %}
 ```
