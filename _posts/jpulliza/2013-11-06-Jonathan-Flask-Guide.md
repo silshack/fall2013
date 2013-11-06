@@ -9,7 +9,7 @@ This will serve as a guide to installing Flask on your local machine to serve up
 
 Install Flask: `pip install Flask`
 
-Install Flaskr (a Flask blog examle on GitHub): 
+Install Flaskr (a Flask blog example on GitHub): 
 `git clone https://github.com/silshack/flaskr.git`
 `cd flaskr`
 `python flaskr.py`
