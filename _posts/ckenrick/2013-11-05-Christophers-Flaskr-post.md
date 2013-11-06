@@ -9,7 +9,7 @@ It's looking good so far!
 
 First post to make sure it's working:
 
-<img src="http://i.imgur.com/OJ1vl69.png">
+<img src="http://i.imgur.com/agTJp33.png">
 
 And second post with a little color:
 
