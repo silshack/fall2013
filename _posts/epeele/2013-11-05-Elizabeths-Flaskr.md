@@ -31,16 +31,16 @@ In my templates/layout.html
 {% raw %}
 <!doctype html>
 <title>Flaskr</title>
-<link rel=stylesheet type=text/css href="((url_for('static', filename='style.css') ))">
+<link rel=stylesheet type=text/css href="{& raw %}url_for('static', filename='style.css') { % endraw %}">
 <div class=page>
   <h1>Flaskr</h1>
   <div class=metanav>
   #Add this line:
-  <a href="(( url_for('about') ))">about</a>
+  <a href="{ % raw % } url_for('about') { % endraw % }">about</a>
   {% if not session.logged_in %}
-    <a href="(( url_for('login') ))">log in</a>
+    <a href="{ % raw % } url_for('login') { % endraw % }">log in</a>
   {% else %}
-    <a href="(( url_for('logout') ))">log out</a>
+    <a href="{ % raw % } url_for('logout') { % endraw % }">log out</a>
   {% endif %}
   </div>
   {% for message in get_flashed_messages() %}
