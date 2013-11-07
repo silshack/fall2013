@@ -331,7 +331,7 @@ Monday Oct 28th: Local SSH
 
 * In-Class Exercise: Bash scripting for simple data transformations
 
-* In-Class Exercise: Raspberry Pi
+* Extra Credit: Raspberry Pi
 
 Wednesday Oct 30th: Remote SSH
 
@@ -358,6 +358,8 @@ Monday Nov 4th Readings:
 3. Check out Levenez.com: [The UNIX and ](http://www.levenez.com/unix/)[Linux](http://www.levenez.com/unix/) Timeline
 
 * In-Class Exercise: Tinkering with window managers
+
+* Assignment: Project Lightning talks
 
 Wednesday Nov 6th:
 
@@ -426,3 +428,5 @@ Presentation and discussion of projects.  A roadmap for where students want to g
 Monday Dec 2: Presentations
 
 Wednesday Dec 4: Presentations; wrap-up
+
+Final projects due December 6th, 8am.
