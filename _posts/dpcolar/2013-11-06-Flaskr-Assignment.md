@@ -21,9 +21,12 @@ socket.error: [Errno 98] Address already in use
 Let's troubleshoot:
 ```
 $ sudo netstat -ap | grep 5000
-
+```
+```
 [sudo] password for pcolar: 
+```
 
+```
 tcp        0      0 localhost:5000          *:*                     LISTEN      21798/python
 ```
 
