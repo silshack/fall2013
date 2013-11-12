@@ -44,7 +44,7 @@ IMAGESDICT = {.....,
 ...
 ```
 
-I kept all of the original name assignments for each image... I can't help but think it's hilarious to think of Zuko as a "pinkgirl"! Anyways, after doing that, I was able to change each character at the press of the "P" button. Here is an image Aang's character being in use: 
+I kept all of the original name assignments for each image... I can't help but think it's hilarious to think of Zuko as a "pinkgirl"! Anyways, after doing that, I was able to change each character at the press of the "P" button. Here is an image of Aang's character being in use: 
 
 ![Character Change](http://img577.imageshack.us/img577/5168/qhcc.jpg)
 
