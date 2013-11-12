@@ -21,10 +21,11 @@ TEXTCOLOR = WHITE
 ```
 
 I also changed the instructions of the game slightly:
+
 ```python
+...
 instructionText = ['Help the Avatar the Last Airbender characters push rainbows and save the day!',
-                   'Push the rainbows over the marks.',
-                   ...]
+                   'Push the rainbows over the marks.']
 ``` 
 
 As a result, when you start the game, you get this:
@@ -44,6 +45,7 @@ IMAGESDICT = {.....,
 ```
 
 I kept all of the original name assignments for each image... I can't help but think it's hilarious to think of Zuko as a "pinkgirl"! Anyways, after doing that, I was able to change each character at the press of the "P" button. Here is an image Aang's character being in use: 
+
 ![Character Change](http://img577.imageshack.us/img577/5168/qhcc.jpg)
 
 
