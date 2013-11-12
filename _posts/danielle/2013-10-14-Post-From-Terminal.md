@@ -78,6 +78,7 @@ jekyll serve --watch
 
 ```
 This will some times come up with errors for me. I wait a little bit and make sure that my post is correct in markdown. Then I try it again.
+Also make sure you are in the right directory for this as well: /fall2013/
 It has worked for me around the second or third attempt, even if I didn't need to change anything in my post.
 
 Open your browser and type in this address: http://localhost:4000/fall2013/
