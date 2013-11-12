@@ -5,7 +5,7 @@ author:  epeele
 categories:  post
 ---
 
-To change starpusher, I decided to go with something near and dear to my heart:$
+To change starpusher, I decided to go with something awesome:  cats.  Instead of having a princess pushing stars around, I have a cat pushing around a ball of yarn.  To do this I had the two pictures, one of a black cat and one a ball of yarn to the IMAGESDICT file as such:
 
 ```
                  IMAGESDICT = {'uncovered goal': pygame.image.load('RedSelector$
@@ -17,7 +17,7 @@ To change starpusher, I decided to go with something near and dear to my heart:$
                   'outside floor': pygame.image.load('Grass_Block.png'),
                   'title': pygame.image.load('star_title.png'),
                   'solved': pygame.image.load('star_solved.png'),
-'princess': pygame.image.load('princess.png'),
+		  'princess': pygame.image.load('princess.png'),
                   'boy': pygame.image.load('boy.png'),
                   'catgirl': pygame.image.load('catgirl.png'),
                   'horngirl': pygame.image.load('horngirl.png'),
@@ -30,16 +30,16 @@ To change starpusher, I decided to go with something near and dear to my heart:$
                   'yarn': pygame.image.load('ball_of_yarn.png')}
 ```
 
-Along with this, I changed the text at the introduction of the game to reflect $
+Along with this, I changed the text at the introduction of the game to reflect the changes in the game itself.  To do this I changed the following text in the starpusher.py folder.
 
 ```
-instructionText = ['Help the cat have fun!  Move the arrow keys to push the$
-                       'Arrow keys to move, WASD for camera control, P to chang$
+instructionText = ['Help the cat have fun!  Move the arrow keys to push the ball of yarn around.'$
+                       'Arrow keys to move, WASD for camera control, P to change character.'
                        'Backspace to reset level, Esc to quit.',
                        'N for next level, B to go back a level.']
 ```
 
-And, I changed the starting demo level by moving the black cat to the bottom of$
+And, I changed the starting demo level by moving the black cat to the bottom of the maze instead of the in the middle.
 
 ```
 ; Starting demo level:
