@@ -4,10 +4,6 @@ author: odorsey
 categories: post
 title: Olivia's Pygame Hack
 ---
-
-
-![CodingBat.com Screenshot](http://img11.imageshack.us/img11/3496/ykil.jpg)
-
 After enduring multiple Virtual Box crashes and the slow process of using Ubuntu on my laptop, I finally added some hacks to the Starpusher game! I removed all of the characters associated with the original game and added in new images in the form of three Avatar the Last Airbender characters. I also replaced the stars with rainbows and changed the default colors of the game.
 
 Here are the lovely characters that I used!
