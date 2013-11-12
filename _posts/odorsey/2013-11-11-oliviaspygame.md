@@ -48,5 +48,7 @@ I kept all of the original name assignments for each image... I can't help but t
 
 ![Character Change](http://img577.imageshack.us/img577/5168/qhcc.jpg)
 
+From here, I think I would find some Avatar the Last Airbender-esque landmarks and things to block the path of that rainbow!
+
 
 
