@@ -1,5 +1,5 @@
 ---
-title:  Cat and Mouse Game
+title:  Cat and Yarn Game
 layout:  post
 author:  epeele
 categories:  post
