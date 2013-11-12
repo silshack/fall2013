@@ -57,4 +57,6 @@ And, I changed the starting demo level by moving the black cat to the bottom of 
 I also changed the color of the opening screen from blue to green.
 
 Here are some screenshots showing how everything turned out:
+![Front Page](http://www.unc.edu/~epeele/file/star_front.png)
+![Game](http://www.unc.edu/~epeele/file/star_game.png)
 
