@@ -49,10 +49,18 @@ You can modify it to take almost any GIMP filter (though bugs may result). You c
 
 ![](http://i.imgur.com/60RYANK.png)
 
-Clicking on `Browse` and searching for the name of a script you want to change to.
+Clicking on `Browse`  
+![](http://i.imgur.com/wgYZoJ9.png)
 
-For instance if I wanted to make the script use the cubism filter I would change the line of the file to read:  
-  
+Searching for the name of a filter
+![](http://i.imgur.com/lLu34rl.png)
+
+Note on the right hand side of the window the parameters.The best way to figure out what the variables should be is to run the filter in GIMP on a trial image and see what variable values it suggests.
+
+For reference `INT32` parameters are Boolean values (1 or 0) and `FLOAT` are numbers. Image and Drawable are already set by the script.   
+
+So to use the cubism plugin I change the code to say:   
+
 ```scheme  
 (plug-in-cubism 1 image drawable 10 2.5 1)
 ```    
@@ -60,9 +68,7 @@ For instance if I wanted to make the script use the cubism filter I would change
 Producing:   
 ![](http://i.imgur.com/ZQJmvTu.png)  
 
-The best way to figure out what the variables should be is to run the filter in GIMP on a trial image and see what variable values it suggests.
 
-For reference `INT32` parameters are Boolean values (1 or 0) and `FLOAT` are numbers. Image and Drawable are already set by the script.
 
 If you want to do more complicated batch file processing in GIMP I would recommend the [BIMP Batch Image Manipulation Plugin](http://registry.gimp.org/node/26259). It does all of the heavy lifting for you and isn't nearly as finicky.
 
