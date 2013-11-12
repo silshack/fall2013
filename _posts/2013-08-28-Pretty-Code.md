@@ -6,7 +6,8 @@ category: posts
 
 Here's some lovely code!
 
-```css
+```
+css
 .media-title .bg01, .media-title .bg02, .media-title .bg03 {
     background-attachment: scroll;
     background-clip: border-box;
