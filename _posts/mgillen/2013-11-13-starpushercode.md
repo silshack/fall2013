@@ -5,15 +5,18 @@ author:  mgillen
 categories:  post
 ---
 
-I did a very simple hack on the Starpusher game. I chose remodel the game through pictures and colors, specifically Link chasing chickens. Here are my results:
+I did a very simple hack on the Starpusher game. I chose to remodel the game through pictures and colors, specifically Link chasing chickens. Here are my results:
 
-This is the title screen that greets the player.
+This is the title screen that greets the player. In addition to changing the title picture, I also altered the text a little bit.
+
 ![Title](http://i.imgur.com/2mjXsli.png)
 
 This is what gameplay looks like. Rather than stars, we have chickens! But don't pick them up because they may attack...
+
 ![Gameplay](http://i.imgur.com/GOOXi2a.png)
 
 Level completed! You're a winner!
+
 ![LevelComplete](http://i.imgur.com/1UjvLWx.png)
 
 
