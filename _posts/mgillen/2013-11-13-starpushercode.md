@@ -29,6 +29,6 @@ bgcolor = green
 textcolor = white
 ```
 
-The pictures were modified by replacing other pictures with my own and even adding in new ones.
+The pictures were modified by replacing other pictures with my own. I left the 'titles' of the picture alone so that I wouldn't have to go through the entirety of the code and change every instance. This results in code that isn't really clean, but it was efficient to do. Just think of it as a hack within a hack... Yes.
 
 ![Code](http://i.imgur.com/EeJYAQL.png)
