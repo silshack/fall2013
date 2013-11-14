@@ -13,8 +13,7 @@ This is where a few code hacks are valuable!  Like changing all K_ESCAPE to K_q 
 I grabbed a few images from the web, resized them with gimp and then refactored the code:<br>
 
 '''
-
-  # A global dict value that will contain all the Pygame
+# A global dict value that will contain all the Pygame
     # Surface objects returned by pygame.image.load().
     IMAGESDICT = {'uncovered goal': pygame.image.load('RedSelector.png'),
                   'covered goal': pygame.image.load('Selector.png'),
@@ -37,7 +36,6 @@ I grabbed a few images from the web, resized them with gimp and then refactored 
                   'short tree': pygame.image.load('Tree_Short.png'),
                   'tall tree': pygame.image.load('Tree_Tall.png'),
                   'ugly tree': pygame.image.load('Tree_Ugly.png')}
-
 '''
 
 The dictionary is extensible, but the code code doesn't easily refactor for random images.<br>
@@ -55,21 +53,6 @@ The dictionary is extensible, but the code code doesn't easily refactor for rand
 
 Creating other character maps and changing the starPusherLevels.txt encoding changes up the images.<br>
 
-'''
-
-; Starting demo level:
- ########
-##pqr   #
-#   .r p#
-#   $opr#
-# .$@$. #
-####$ pp#
-   #.   #
-   #r  ##
-   #####
-;
-
-'''
 
 
 ![image1](http://www.unc.edu/~pcolar/starpusher1.png)
