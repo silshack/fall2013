@@ -34,7 +34,7 @@ Full details will be distributed later in the semester.
 #### Project Proposal
 Form a group, if desired.
 
-Submit a project proposal that addresses the following questions:
+Submit a project proposal that addresses the following questions: 
 * What is the project purpose and vision?  For example, Jekyll aims to be a static site generator suitible for blogging using the command line.  
 * What are some initial scoping and milestones you've identified?  This is a very important piece, so give it a lot of thought.  Each milestone should contribute something substantial to the project and yet be relatively small.
 * What division of labor between groups will you use (if any)?  
@@ -42,6 +42,8 @@ Submit a project proposal that addresses the following questions:
 * Who else will find this project useful and how will you make it available to them?  All projects should be Github repositories, but example sites or Getting Started documentation are important for re-use.
 
 It's OK to not have an answer for all of these, or to for instance not know exactly what software library you'll pick, but describe the range of choices you've identified and how you'll make the decision.
+
+Please turn this proposal in, one per group, by adding me to a Google Document.  I'll leave comments on it directly, so remember to give me the rights to do so!
 
 #### Project Grading Criteria
 
@@ -51,6 +53,8 @@ It's OK to not have an answer for all of these, or to for instance not know exac
 * Re-usability: 25 points.  Is the project easily re-usable?  This might include thorough documentation, example(s), customizibility via config files, modularity, and other features that make it easy for others to use the project for their purposes.
 * Contributor-Friendliness: 25 points.  Is there a contributor guidelines file?  A licence?  Is the code well-documented and/or commented so a sufficiently motivated and experienced coder could contribute?
 * Uniqueness: 10 points.  Is the project unique in approach or functionality?  Where it's similar to other projects, are the differences made clear?
+
+
 
 ## Readings
 
