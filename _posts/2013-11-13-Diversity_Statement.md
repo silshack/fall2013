@@ -2,7 +2,7 @@
 layout: post
 author: mbaxter
 category: posts
-published: false
+published: true
 ---
 
 #Diversity Statement#
