@@ -1,4 +1,4 @@
-title:  Contributor Guidelines
+title: Contributor Guidelines
 layout: post
 author:
  - alexharding
