@@ -1,11 +1,12 @@
-title:  Contributor Guidelines
+---
+title: Contributor Guidelines
 layout: post
+categories: post
 author:
  - alexharding
  - epeele
  - danielle
  - jgeer
-categories: post
 ---
 
 # Contributor's Guidelines #
