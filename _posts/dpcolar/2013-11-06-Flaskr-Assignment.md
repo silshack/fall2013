@@ -8,9 +8,9 @@ categories: post
 Flaskr didn't pose any significant issues, for which I am grateful.  
 
 My Ubuntu instance is a VM running on the iMac in my office.  In class and from home, I remote into the instance via ssh or VNC.
-There are a number od steps to get there:  
-1) connect via the VPN
-2) ssh -XC to the instance
+There are a number of steps to get there:  
+1) connect via the VPN<br>
+2) ssh -XC to the instance<br>
 3) run flaskr in the background - (so I don't need to open another window) via 'nohup python flaskr.py &'
 
 tonight I got an error: 
@@ -21,11 +21,16 @@ socket.error: [Errno 98] Address already in use
 Let's troubleshoot:
 ```
 $ sudo netstat -ap | grep 5000
+```
+```
 [sudo] password for pcolar: 
+```
+
+```
 tcp        0      0 localhost:5000          *:*                     LISTEN      21798/python
 ```
 
-Oops, my detached process was still running from Monday.
+Oops, my detached process was still running from Monday.<br>
 ```
 sudo kill 21798
 ```
