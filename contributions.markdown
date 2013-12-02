@@ -1,6 +1,6 @@
 ---
 title: Contributor Guidelines
-layout: post
+layout: default
 categories: post
 author:
  - alexharding
