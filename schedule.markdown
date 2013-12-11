@@ -429,4 +429,4 @@ Monday Dec 2: Presentations
 
 Wednesday Dec 4: Presentations; wrap-up
 
-Final projects due Weds, December 11th, 8am.
+Final projects due Weds, December 11th, 11:59pm.
